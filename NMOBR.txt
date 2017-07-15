@@ -1,0 +1,329 @@
+S. pyramidale
+S. moleculare
+molecular layer
+granular layer
+anterior grey column
+anterior horn of spinal cord
+anterior cornu
+vertebrate brain
+telencephalon
+cerebrum
+prefrontal
+medial prefrontal
+infralimbic
+frontopolar
+dorsolateral prefrontal
+prelimbic
+motor
+primary motor
+secondary motor
+mesial premotor
+supplementary motor
+orbital
+somatosensory
+primary somatosensory
+barrel
+barrel 
+hindlimb representation
+secondary somatosensory
+primary auditory
+primary visual
+secondary visual
+limbic
+cingulate
+anterior cingulate
+perirhinal
+fronto-insula
+rostral agranular insula
+CA1
+suprapyramidal blade
+infrapyramidal blade
+crest
+CA3
+CA3b
+CA3a
+CA3c
+CA2
+entorhinal cortex
+amygdala
+basolateral amygdala complex
+anterior olfactory nucleus
+pars externa
+pars principalis
+basal ganglia
+globus pallidus
+striatum
+substantia nigra
+pars compacta
+pars reticulata
+subthalamic nucleus
+ventral striatum
+nucleus accumbens
+shell
+olfactory tubercle
+septum
+basal forebrain
+main intercalated nucleus
+substantia Innominata
+diagonal band
+horizontal limb of diagonal band of broca
+brainstem
+mesencephalon
+cerebral peduncle
+tectum
+inferior colliculus
+central nucleus
+lateral cortex
+reticular formation
+diencephalon
+dorsal thalamus
+ventral posteromedial nucleus
+posterior thalamic nucleus
+lateral geniculate nucleus
+ventral thalamus
+thalamic reticular nucleus
+ventral lateral nucleus
+ventroposterolateral nucleus
+zona incerta
+hypothalamus
+lateral hypothalamic area
+tuberomammillary nucleus
+lateral tuberal nuclei
+nucleus laminaris
+pedunculopontine nucleus
+rhombencephalon
+myelencephalon
+inferior olive
+medial accessory olive
+caudal part of medial accessory olive
+subnucleus c
+principal olive
+dorsal accessory olive
+cochlear nucleus
+dorsal cochlear nucleus
+anteroventral cochlear nucleus
+posteroventral cochlear nucleus
+nucleus magnocellularis
+hypoglossal nucleus
+pre-Botzinger complex
+dorsal motor nucleus of the vagus
+solitary nucleus
+caudomedial solitary nucleus
+spinal trigeminal nucleus
+subnucleus caudalis
+metencephalon
+pons
+pontine tegmentum
+nucleus incertus
+facial nucleus
+deep cerebellar nuclei
+cerebellar cortex
+vermis
+lobules VI & VII
+C1
+C2
+C3
+L1
+L2-L3
+L2
+L2i
+L2o
+L3
+L3-L4
+L4-L5
+D8-S1
+L5-S1
+phrenic nucleus
+retina
+inner plexiform layer
+ganglion layer
+adrenal gland
+pharyngeal nervous system
+anterior bulb
+posterior bulb
+tail ganglion
+dorsorectal ganglion
+head ganglion
+body ganglion
+preanal ganglion
+retrovesicular ganglion
+stomatogastric ganglion
+dorsal root ganglion
+lateral line organ
+central nervous system
+peripheral nervous system
+ventral nerve cord
+cerebral cortex
+hippocampus
+dentate gyrus
+subiculum
+main olfactory bulb
+cerebellum
+spinal cord
+lumbar
+lumbar
+cervical
+somatic nervous system
+lumbar ganglion
+neocortex
+frontal
+parietal
+temporal
+occipital
+insula
+CA1c
+CA1b
+CA1a
+D8
+D9
+D10
+S1
+S2
+anterolateral visual
+posteromedial visual
+anteromedial visual
+rostrolateral visual
+lateral visual
+midbrain tegmentum
+ventral tegmental area
+L5
+L5-L6
+A1
+A4
+B2
+B3
+C4
+C5
+D1
+D2
+D5
+E2
+E4
+E5
+Septa
+posterior cingulate
+presubiculum
+Intermediate capsule
+subplate
+Caudal fin
+corpus callosum
+C2
+callosal commissure
+cortex
+dentate gyrus
+SUB
+olfactory bulb
+lumbar enlargement
+isocortex
+frontal lobe
+frontal cortex
+parietal lobe
+temporal lobe
+occipital lobe
+visual cortex
+island of Reil
+CA1/CA2 border
+AL
+PM
+AM
+RL
+VTA
+nucleus proprius
+brain
+endbrain
+frontal region
+prefrontal cortex
+medial prefrontal cortex
+dlPFC
+sensorimotor
+primary motor cortex
+M1
+non-primary motor
+secondary motor cortex
+M2
+premotor
+mesial premotor cortex
+F3
+SMA proper
+supplementary motor cortex
+orbital cortex
+orbital area
+primary somatosensory cortex
+S1
+barrel cortex
+S2
+A1
+primary visual cortex
+V1
+calcarine cortex
+striate cortex
+lateral medial visual
+lateromedial
+V2
+prestriate
+secondary visual area
+secondary visual cortex
+area occipitalis
+parastriate area
+limbic lobe
+cingulate cortex
+anterior cingulate area
+perirhinal cortex
+rostral agranular insular cortex
+EC
+pallial amygdala
+BLA
+AON
+Neostriatum
+SI
+HDB
+midbrain
+optic tectum
+reticular
+interbrain
+thalamus
+POM
+LGN
+subthalamus
+VPL
+ZI
+preoptico-hypothalamic region
+preoptico-hypothalamic area
+Area hypothalamica lateralis
+Area lateralis hypothalami
+NL
+PPN
+hindbrain
+medulla
+MAO
+c-MAO
+medial part of c-MAO
+PO
+DAO
+NM
+dorsal vagal nucleus
+dorsal nucleus of vagus nerve
+dorsal motor nucleus
+dorsal motor nucleus of vagus nerve
+dorsal efferent nucleus of vagus
+Nucleus dorsalis motorius
+caudomedial zone of the solitary nucleus
+caudal part of the spinal trigeminal nucleus
+Sp5C
+pons cerebri
+Pons Varolii
+tegmentum of pons
+Tegmentum pontis
+dorsal portion of pons
+facial motor nucleus
+nucleus facialis
+nucleus nervi facialis
+lamina I
+lamina II-III
+segments dorsal 8-10 and sacral 1-2
+spinal cord hindlimb enlargement
+lumbosacral
+lower back
+IPL
+ganglion cell layer
+dorso-rectal ganglion

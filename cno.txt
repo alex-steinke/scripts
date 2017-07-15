@@ -1,0 +1,212 @@
+synaptic current
+defined model type
+model component
+parameter
+reset potential
+physical constant
+phenomenological plasticity model
+cellular model
+synapse model
+network model
+plasticity model
+artificial neuron model
+point process model
+spiking model
+balanced random network
+Hopfield network
+biophysical spiking model
+threshold-based spiking model
+reduced model
+detailed model
+pulse-based model
+one variable model
+two variable model
+three variable model
+spike response model
+current-based model
+conductance-based model
+rate model
+artificial neural network model
+spiking network model
+chemical synapse model
+electrical synapse model
+cellular plasticity model
+synaptic plasticity model
+short term facilitation model
+cellular model component
+synapse model component
+resting membrane potential
+refractory mechanism
+model quality
+spiking mechanism
+morphology
+intracellular dynamic
+stimulation current
+generic model component
+probabilistic component
+ionic current model
+synaptic current
+abstract current model
+threshold-based
+single compartment
+multiple compartment
+reconstructed
+calcium dynamic
+biochemical dynamic
+network model component
+non linear spike generation current
+defined model
+integrate-and-fire
+adaptive exponential integrate-and-fire
+independent variable
+dependent variable
+exponential integrate-and-fire
+leaky integrate-and-fire
+quadratic integrate-and-fire
+theta neuron model
+adaptive integrate-and-fire
+generalized integrate-and-fire
+integrate-and-fire-or-burst
+Izhikevich model
+resonate-and-fire
+HindMarch and Rose model
+Rotstein model
+Shinomoto model
+spike response model
+spike response model SRM0
+cumulative spike response model
+spike response model with cumulative dynamic threshold
+dynamic threshold
+fixed threshold
+spike shape kernel
+responsiveness kernel
+adaptation current
+rebound current
+spiking current
+bursting current
+membrane recovery variable
+Connor-Stevens model
+Wang-Buzsaki model
+Fitzhugh-Nagumo model
+Morris-Lecar model
+synaptic action
+connection element
+synaptic weight
+plasticity mechanism
+synaptic conductance dynamic
+synaptic delay
+voltage dependent receptor activation
+release mechanism
+neurotransmittor diffusion
+post-synaptic element
+pre-synaptic element
+voltage-dependent current model
+voltage and ionic dependent current model
+supervised learning
+ionic dependent current model
+biochemically activated current
+unsupervised learning
+excitatory action
+inhibitory action
+shunting action
+instantaneous rise and monexponential decay
+difference of two exponentials
+alpha function
+cellular elements
+synaptic element
+connectivity pattern
+rate function
+recurrent
+feedforward
+small world
+functional grouping
+anatomical grouping
+current model
+current localization
+current distribution
+connectivity rule
+synaptic plasticity element
+maximal conductance
+spike time
+time constant
+indices
+cellular grouping quality
+rate-based neuron model
+refractory period
+spiking threshold
+cellular grouping
+spatial embedding
+two dimensional layout
+three dimensional layout
+spatial coordinates
+2D coordinates
+3D coordinates
+polar coordinates
+pre-synaptic indice
+user-defined
+abstract morphology
+pre-synaptic variable
+developmental plasticity model
+Hodgkin and Huxley model
+post-synaptic indice
+anatomically defined
+morphological quality
+functional quality
+post-synaptic variable
+learning rule
+non-linear
+linear
+current model quality
+model description
+mathematical concept
+network layout component
+cellular distribution
+one dimensional layout
+elementary model component
+short term plasticity model
+long term plasticity model
+rate-based plasticity model
+spike timing dependent plasticity model
+biophysical model
+homeostatic plasticity model
+Markram and Tsodyks model
+Song and Abbott model
+zero dimensional layout
+developmental learning
+reinforcement learning
+synaptic plasticity model component
+pair-based rule
+triplet-based rule
+suppression model
+short term depression model
+model component quality
+cellular distribution quality
+ModelDB accession number
+mixed grouping
+obsolete
+plasticity model component
+timing dependency
+weight update component
+voltage dependency
+weight independent
+weight dependent
+learning rate
+leakage current
+aggregated model component
+membrane capacitance
+membrane resistance
+membrane time constante
+numerical value
+AdEx
+EIF
+LIF
+Lapicque's model
+QIF
+ALIF
+GIF
+IFB
+linear filter of the membrane
+spiking variable
+bursting variable
+Bonhoeffer-van der Pol model
+reward-based learning

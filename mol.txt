@@ -1,0 +1,7107 @@
+Catechol O-methyltransferase
+MAO
+Epinephrine
+Laminin complex
+Kinase
+Macromolecular complex
+Macromolecule
+Simple molecule
+Biomolecule
+NG2
+Somatostatin
+Monomeric ion channel
+Monomeric Voltage-gated ion channel
+Multimeric ion channel
+Dimeric ion channel
+Dimeric dimer ion channel
+Tetrameric ion channel
+Multimeric Voltage-gated ion channel
+Tetrameric Voltage-gated ion channel
+Ion channel
+Voltage-gated sodium channel
+Voltage-gated calcium channel
+Voltage-gated potassium channel
+Calcium-activated potassium channel
+Inwardly rectifying potassium channel
+Two pore potassium channel
+Cyclic-nucleotide gated channel
+Hyperpolarization and cyclic-nucleotide gated channel
+Transient receptor potential channel
+Transient receptor potential related channel
+Minimum Pore Sequence Analyzed
+Channel Amino Acid Sequence
+Nav beta
+Nav beta1
+Nav beta2
+Nav beta3
+Nav beta4
+Cav alpha2
+Cav alpha2.1
+Cav alpha2.2
+Cav beta
+Cav beta1
+Cav beta2
+Cav beta3
+Cav beta4
+Cav gamma
+Cav gamma1
+Cav gamma2
+Cav gamma3
+Cav gamma4
+Cav gamma5
+Cav gamma6
+Cav gamma7
+Cav gamma8
+Cav delta
+Cav delta1
+Cav delta2
+Kv beta
+Kv beta1
+Kv beta2
+Kv beta3
+Calmodulin-like calcium regulatory protein
+KChIP
+KChIP1
+KChIP2
+KChIP3
+KChIP4
+MinK-like
+MinK-like 1
+MinK-like 2
+MinK-like 3
+MinK-like 4
+MinK-like 5
+KCa beta
+KCa beta1
+KCa beta2
+KCa beta3
+KCa beta4
+Integral membrane protein
+ABC transporter
+Sulfonylurea receptor
+SUR1
+SUR2
+SUR3
+Sodium channel - type 1
+Nav1.1
+SCN1A gene
+Nav1.1 minimum pore seqence
+Nav1.1 channel aa sequence
+Human chromosome 2
+Nav1.2
+SCN2A2 gene
+Nav1.2 minimum pore seqence
+Nav1.2 channel aa sequence
+Nav1.3
+SCN3A gene
+Nav1.3 minimum pore seqence
+Nav1.3 channel aa sequence
+Nav1.4
+SCN4A gene
+Nav1.4 minimum pore seqence
+Nav1.4 channel aa sequence
+Human chromosome 17
+Nav1.5
+SCN5A gene
+Nav1.5 minimum pore seqence
+Nav1.5 channel aa sequence
+Human chromosome 3
+Nav1.6
+SCN8A gene
+Nav1.6 minimum pore seqence
+Nav1.6 channel aa sequence
+Human chromosome 12
+Nav1.7
+SCN9A gene
+Nav1.7 minimum pore seqence
+Nav1.7 channel aa sequence
+Nav1.8
+SCN10A gene
+Nav1.8 minimum pore seqence
+Nav1.8 channel aa sequence
+Nav1.9
+SCN11A gene
+Nav1.9 minimum pore seqence
+Nav1.9 channel aa sequence
+Nax
+SCN7A gene
+Nax minimum pore seqence
+Nax channel aa sequence
+Calcium channel - type 1
+Cav1.1
+CACNA1S gene
+Cav1.1 minimum pore seqence
+Cav1.1 channel aa sequence
+Human chromosome 1
+Cav1.2
+CACNA1C gene
+Cav1.2 minimum pore seqence
+Cav1.2 channel aa sequence
+Cav1.3
+CACNA1D gene
+Cav1.3 minimum pore seqence
+Cav1.3 channel aa sequence
+Cav1.4
+CACNA1F gene
+Cav1.4 minimum pore seqence
+Cav1.4 channel aa sequence
+Human chromosome X
+Calcium channel - type 2
+Cav2.1
+CACNA1A gene
+Cav2.1 minimum pore seqence
+Cav2.1 channel aa sequence
+Human chromosome 19
+Cav2.2
+CACNA1B gene
+Cav2.2 minimum pore seqence
+Cav2.2 channel aa sequence
+Human chromosome 9
+Cav2.3
+CACNA1E gene
+Cav2.3 minimum pore seqence
+Cav2.3 channel aa sequence
+Calcium channel - type 3
+Cav3.1
+CACNA1G gene
+Cav3.1 minimum pore seqence
+Cav3.1 channel aa sequence
+Cav3.2
+CACNA1H gene
+Cav3.2 minimum pore seqence
+Cav3.2 channel aa sequence
+Human chromosome 16
+Cav3.2
+CACNA1I gene
+Cav3.2 minimum pore seqence
+Cav3.2 channel aa sequence
+Human chromosome 22
+VGCNL1
+VGCNL1 gene
+VGCNL1 minimum pore seqence
+VGCNL1 channel aa sequence
+Human chromosome 13
+Voltage-gated potassium channel - type 1
+Kv1.1
+KCNA1 gene
+Kv1.1 minimum pore seqence
+Kv1.1 channel aa sequence
+Kv1.2
+KCNA2 gene
+Kv1.2 minimum pore seqence
+Kv1.2 channel aa sequence
+Kv1.3
+KCNA3 gene
+Kv1.3 minimum pore seqence
+Kv1.3 channel aa sequence
+Kv1.4
+KCNA4 gene
+Kv1.4 minimum pore seqence
+Kv1.4 channel aa sequence
+Human chromosome 11
+Kv1.5
+KCNA5 gene
+Kv1.5 minimum pore seqence
+Kv1.5 channel aa sequence
+Kv1.6
+KCNA6 gene
+Kv1.6 minimum pore seqence
+Kv1.6 channel aa sequence
+Kv1.7
+KCNA7 gene
+Kv1.7 minimum pore seqence
+Kv1.7 channel aa sequence
+Kv1.8
+KCNA10 gene
+Kv1.8 minimum pore seqence
+Kv1.8 channel aa sequence
+Voltage-gated potassium channel - type 2
+Kv2.1
+KCNB1 gene
+Kv2.1 minimum pore seqence
+Kv2.1 channel aa sequence
+Human chromosome 20
+Kv2.2
+KCNB2 gene
+Kv2.2 minimum pore seqence
+Kv2.2 channel aa sequence
+Human chromosome 8
+Voltage-gated potassium channel - type 3
+Kv3.1
+KCNC1 gene
+Kv3.1 minimum pore seqence
+Kv3.1 channel aa sequence
+Kv3.2
+KCNC2 gene
+Kv3.2 minimum pore seqence
+Kv3.2 channel aa sequence
+Kv3.3
+KCNC3 gene
+Kv3.3 minimum pore seqence
+Kv3.3 channel aa sequence
+Kv3.4
+KCNC4 gene
+Kv3.4 minimum pore seqence
+Kv3.4 channel aa sequence
+Voltage-gated potassium channel - type 4
+Kv4.1
+KCND1 gene
+Kv4.1 minimum pore seqence
+Kv4.1 channel aa sequence
+Kv4.2
+KCND2 gene
+Kv4.2 minimum pore seqence
+Kv4.2 channel aa sequence
+Human chromosome 7
+Kv4.3
+KCND3 gene
+Kv4.3 minimum pore seqence
+Kv4.3 channel aa sequence
+Voltage-gated potassium channel - type 5
+Kv5.1
+KCNF1 gene
+Kv5.1 minimum pore seqence
+Kv5.1 channel aa sequence
+Voltage-gated potassium channel - type 6
+Kv6.1
+KCNG1 gene
+Kv6.1 minimum pore seqence
+Kv6.1 channel aa sequence
+Kv6.2
+KCNG2 gene
+Kv6.2 minimum pore seqence
+Kv6.2 channel aa sequence
+Human chromosome 18
+Kv6.3
+KCNG3 gene
+Kv6.3 minimum pore seqence
+Kv6.3 channel aa sequence
+Kv6.4
+KCNG4 gene
+Kv6.4 minimum pore seqence
+Kv6.4 channel aa sequence
+Voltage-gated potassium channel - type 7
+Kv7.1
+KCNQ1 gene
+Kv7.1 minimum pore seqence
+Kv7.1 channel aa sequence
+Kv7.2
+KCNQ2 gene
+Kv7.2 minimum pore seqence
+Kv7.2 channel aa sequence
+Kv7.3
+KCNQ3 gene
+Kv7.3 minimum pore seqence
+Kv7.3 channel aa sequence
+Kv7.4
+KCNQ4 gene
+Kv7.4 minimum pore seqence
+Kv7.4 channel aa sequence
+Kv7.5
+KCNQ5 gene
+Kv7.5 minimum pore seqence
+Kv7.5 channel aa sequence
+Human chromosome 6
+Voltage-gated potassium channel - type 8
+Kv8.1
+KCNV1 gene
+Kv8.1 minimum pore seqence
+Kv8.1 channel aa sequence
+Kv8.2
+KCNV2 gene
+Kv8.2 minimum pore seqence
+Kv8.2 channel aa sequence
+Voltage-gated potassium channel - type 9
+Kv9.1
+KCNS1 gene
+Kv9.1 minimum pore seqence
+Kv9.1 channel aa sequence
+Kv9.2
+KCNS2 gene
+Kv9.2 minimum pore seqence
+Kv9.2 channel aa sequence
+Kv9.3
+KCNS3 gene
+Kv9.3 minimum pore seqence
+Kv9.3 channel aa sequence
+Voltage-gated potassium channel - type 10
+Kv10.1
+KCNH1 gene
+Kv10.1 minimum pore seqence
+Kv10.1 channel aa sequence
+Kv10.2
+KCNH5 gene
+Kv10.2 minimum pore seqence
+Kv10.2 channel aa sequence
+Human chromosome 14
+Voltage-gated potassium channel - type 11
+Kv11.1
+KCNH2 gene
+Kv11.1 minimum pore seqence
+Kv11.1 channel aa sequence
+Kv11.2
+KCNH6 gene
+Kv11.2 minimum pore seqence
+Kv11.2 channel aa sequence
+Kv11.3
+KCNH7 gene
+Kv11.3 minimum pore seqence
+Kv11.3 channel aa sequence
+Voltage-gated potassium channel - type 12
+Kv12.1
+KCNH8 gene
+Kv12.1 minimum pore seqence
+Kv12.1 channel aa sequence
+Kv12.2
+KCNH3 gene
+Kv12.2 minimum pore seqence
+Kv12.2 channel aa sequence
+Kv12.3
+KCNH4 gene
+Kv12.3 minimum pore seqence
+Kv12.3 channel aa sequence
+Calcium-activated potassium channel - type 1
+Kca1.1
+KCNMA1 gene
+Kca1.1 minimum pore seqence
+Kca1.1 channel aa sequence
+Human chromosome 10
+Calcium-activated potassium channel - type 2
+Kca2.1
+KCNN1 gene
+Kca2.1 minimum pore seqence
+Kca2.1 channel aa sequence
+Kca2.2
+KCNN2 gene
+Kca2.2 minimum pore seqence
+Kca2.2 channel aa sequence
+Human chromosome 5
+Kca2.3
+KCNN3 gene
+Kca2.3 minimum pore seqence
+Kca2.3 channel aa sequence
+Calcium-activated potassium channel - type 3
+Kca3.1
+KCNN4 gene
+Kca3.1 minimum pore seqence
+Kca3.1 channel aa sequence
+Calcium-activated potassium channel - type 4
+Kca4.1
+KCNT1 gene
+Kca4.1 minimum pore seqence
+Kca4.1 channel aa sequence
+Kca4.2
+KCNT2 gene
+Kca4.2 minimum pore seqence
+Kca4.2 channel aa sequence
+Calcium-activated potassium channel - type 5
+Kca5.1
+KCNMC1 gene
+Kca5.1 minimum pore seqence
+Kca5.1 channel aa sequence
+Inwardly rectifying potassium channel - type 1
+Kir1.1
+KCNJ1 gene
+Kir1.1 minimum pore seqence
+Kir1.1 channel aa sequence
+Inwardly rectifying potassium channel - type 2
+Kir2.1
+KCNJ2 gene
+Kir2.1 minimum pore seqence
+Kir2.1 channel aa sequence
+Kir2.2
+KCNJ12 gene
+Kir2.2 minimum pore seqence
+Kir2.2 channel aa sequence
+Kir2.3
+KCNJ4 gene
+Kir2.3 minimum pore seqence
+Kir2.3 channel aa sequence
+Kir2.4
+KCNJ14 gene
+Kir2.4 minimum pore seqence
+Kir2.4 channel aa sequence
+Inwardly rectifying potassium channel - type 3
+Kir3.1
+KCNJ3 gene
+Kir3.1 minimum pore seqence
+Kir3.1 channel aa sequence
+Kir3.2
+KCNJ6 gene
+Kir3.2 minimum pore seqence
+Kir3.2 channel aa sequence
+Human chromosome 21
+Kir3.3
+KCNJ9 gene
+Kir3.3 minimum pore seqence
+Kir3.3 channel aa sequence
+Kir3.4
+KCNJ5 gene
+Kir3.4 minimum pore seqence
+Kir3.4 channel aa sequence
+Inwardly rectifying potassium channel - type 4
+Kir4.1
+KCNJ10 gene
+Kir4.1 minimum pore seqence
+Kir4.1 channel aa sequence
+Kir4.2
+KCNJ15 gene
+Kir4.2 minimum pore seqence
+Kir4.2 channel aa sequence
+Inwardly rectifying potassium channel - type 5
+Kir5.1
+KCNJ16 gene
+Kir5.1 minimum pore seqence
+Kir5.1 channel aa sequence
+Inwardly rectifying potassium channel - type 6
+Kir6.1
+KCNJ8 gene
+Kir6.1 minimum pore seqence
+Kir6.1 channel aa sequence
+Kir6.2
+KCNJ11 gene
+Kir6.2 minimum pore seqence
+Kir6.2 channel aa sequence
+Inwardly rectifying potassium channel - type 7
+Kir7.1
+KCNJ13 gene
+Kir7.1 minimum pore seqence
+Kir7.1 channel aa sequence
+Two pore potassium channel - type 1
+K2p1.1
+KCNK1 gene
+K2p1.1 minimum pore seqence
+K2p1.1 channel aa sequence
+Two pore potassium channel - type 2
+K2p2.1
+KCNK2 gene
+K2p2.1 minimum pore seqence
+K2p2.1 channel aa sequence
+Two pore potassium channel - type 3
+K2p3.1
+KCNK3 gene
+K2p3.1 minimum pore seqence
+K2p3.1 channel aa sequence
+Two pore potassium channel - type 4
+K2p4.1
+KCNK4 gene
+K2p4.1 minimum pore seqence
+K2p4.1 channel aa sequence
+Two pore potassium channel - type 5
+K2p5.1
+KCNK5 gene
+K2p5.1 minimum pore seqence
+K2p5.1 channel aa sequence
+Two pore potassium channel - type 6
+K2p6.1
+KCNK6 gene
+K2p6.1 minimum pore seqence
+K2p6.1 channel aa sequence
+Two pore potassium channel - type 7
+K2p7.1
+KCNK7 gene
+K2p7.1 minimum pore seqence
+K2p7.1 channel aa sequence
+Two pore potassium channel - type 9
+K2p9.1
+KCNK9 gene
+K2p9.1 minimum pore seqence
+K2p9.1 channel aa sequence
+Two pore potassium channel - type 10
+K2p10.1
+KCNK10 gene
+K2p10.1 minimum pore seqence
+K2p10.1 channel aa sequence
+Two pore potassium channel - type 12
+K2p12.1
+KCNK12 gene
+K2p12.1 minimum pore seqence
+K2p12.1 channel aa sequence
+Two pore potassium channel - type 13
+K2p13.1
+KCNK13 gene
+K2p13.1 minimum pore seqence
+K2p13.1 channel aa sequence
+Two pore potassium channel - type 15
+K2p15.1
+KCNK15 gene
+K2p15.1 minimum pore seqence
+K2p15.1 channel aa sequence
+Two pore potassium channel - type 16
+K2p16.1
+KCNK16 gene
+K2p16.1 minimum pore seqence
+K2p16.1 channel aa sequence
+Two pore potassium channel - type 17
+K2birnlex_annot.1
+KCNK17 gene
+K2birnlex_annot.1 minimum pore seqence
+K2birnlex_annot.1 channel aa sequence
+Two pore potassium channel - type 18
+K2p18.1
+TRIK gene
+K2p18.1 minimum pore seqence
+K2p18.1 channel aa sequence
+Cyclic-nucleotide gated channel - type A
+CNGA1
+CNGA1 gene
+CNGA1 minimum pore seqence
+CNGA1 channel aa sequence
+Human chromosome 4
+CNGA2
+CNGA2 gene
+CNGA2 minimum pore seqence
+CNGA2 channel aa sequence
+CNGA3
+CNGA3 gene
+CNGA3 minimum pore seqence
+CNGA3 channel aa sequence
+CNGA4
+CNGA4 gene
+CNGA4 minimum pore seqence
+CNGA4 channel aa sequence
+Cyclic-nucleotide gated channel - type B
+CNGB1
+CNGB1 gene
+CNGB1 minimum pore seqence
+CNGB1 channel aa sequence
+CNGB3
+CNGB3 gene
+CNGB3 minimum pore seqence
+CNGB3 channel aa sequence
+HCN1
+HCN1 gene
+HCN1 minimum pore seqence
+HCN1 channel aa sequence
+HCN2
+HCN2 gene
+HCN2 minimum pore seqence
+HCN2 channel aa sequence
+HCN3
+HCN3 gene
+HCN3 minimum pore seqence
+HCN3 channel aa sequence
+HCN4
+HCN4 gene
+HCN4 minimum pore seqence
+HCN4 channel aa sequence
+Human chromosome 15
+Transient receptor potential channel - type C
+TRPC1
+TRPC1 gene
+TRPC1 minimum pore seqence
+TRPC1 channel aa sequence
+TRPC2
+pseudogene gene
+TRPC3
+TRPC3 gene
+TRPC3 minimum pore seqence
+TRPC3 channel aa sequence
+TRPC4
+TRPC4 gene
+TRPC4 minimum pore seqence
+TRPC4 channel aa sequence
+TRPC5
+TRPC5 gene
+TRPC5 minimum pore seqence
+TRPC5 channel aa sequence
+TRPC6
+TRPC6 gene
+TRPC6 minimum pore seqence
+TRPC6 channel aa sequence
+TRPC7
+TRPC7 gene
+TRPC7 minimum pore seqence
+TRPC7 channel aa sequence
+Transient receptor potential channel - type V
+TRPV1
+TRPV1 gene
+TRPV1 minimum pore seqence
+TRPV1 channel aa sequence
+TRPV2
+TRPV2 gene
+TRPV2 minimum pore seqence
+TRPV2 channel aa sequence
+TRPV3
+TRPV3 gene
+TRPV3 minimum pore seqence
+TRPV3 channel aa sequence
+TRPV4
+TRPV4 gene
+TRPV4 minimum pore seqence
+TRPV4 channel aa sequence
+TRPV5
+TRPV5 gene
+TRPV5 minimum pore seqence
+TRPV5 channel aa sequence
+TRPV6
+TRPV6 gene
+TRPV6 minimum pore seqence
+TRPV6 channel aa sequence
+Transient receptor potential channel - type M
+TRPM1
+TRPM1 gene
+TRPM1 minimum pore seqence
+TRPM1 channel aa sequence
+TRPM2
+TRPM2 gene
+TRPM2 minimum pore seqence
+TRPM2 channel aa sequence
+TRPM3
+TRPM3 gene
+TRPM3 minimum pore seqence
+TRPM3 channel aa sequence
+TRPM4
+TRPM4 gene
+TRPM4 minimum pore seqence
+TRPM4 channel aa sequence
+TRPM5
+TRPM5 gene
+TRPM5 minimum pore seqence
+TRPM5 channel aa sequence
+TRPM6
+TRPM6 gene
+TRPM6 minimum pore seqence
+TRPM6 channel aa sequence
+TRPM7
+TRPM7 gene
+TRPM7 minimum pore seqence
+TRPM7 channel aa sequence
+TRPM8
+TRPM8 gene
+TRPM8 minimum pore seqence
+TRPM8 channel aa sequence
+ANKTM1
+ANKTM1 gene
+ANKTM1 minimum pore seqence
+ANKTM1 channel aa sequence
+Transient receptor potential related channel - PKD type
+TRPP1
+PKD2 gene
+TRPP1 minimum pore seqence
+TRPP1 channel aa sequence
+TRPP2
+PKD2L1 gene
+TRPP2 minimum pore seqence
+TRPP2 channel aa sequence
+TRPP3
+PKD2L2 gene
+TRPP3 minimum pore seqence
+TRPP3 channel aa sequence
+Transient receptor potential related channel - mucolipin type
+TRPML1
+MCOLN1 gene
+TRPML1 minimum pore seqence
+TRPML1 channel aa sequence
+TRPML2
+MCOLN2 gene
+TRPML2 minimum pore seqence
+TRPML2 channel aa sequence
+TRPML3
+MCOLN3 gene
+TRPML3 minimum pore seqence
+TRPML3 channel aa sequence
+Transient receptor potential related channel - sperm-specific Ca+2-selective type
+CatSper1
+CATSPER1 gene
+CatSper1 minimum pore seqence
+CatSper1 channel aa sequence
+CatSper2
+CATSPER2 gene
+CatSper2 minimum pore seqence
+CatSper2 channel aa sequence
+CatSper3
+CATSPER3 gene
+CatSper3 minimum pore seqence
+CatSper3 channel aa sequence
+CatSper4
+CATSPER4 gene
+CatSper4 minimum pore seqence
+CatSper4 channel aa sequence
+Transient receptor potential related channel - two-pore type
+TPC1
+TPCN1 gene
+TPC1 minimum pore seqence
+TPC1 channel aa sequence
+TPC2
+TPCN2 gene
+TPC2 minimum pore seqence
+TPC2 channel aa sequence
+Calretinin
+Peptide
+Chemokine
+Glycoprotein
+Lectin
+Terpenophenolic
+Carboxylic acid
+Aminoalkylindole
+Nucleoside
+Sphingosine
+Beta-alanine
+Steroid
+G-protein coupled receptor
+Norepinephrine
+Histamine
+Tyramine
+Beta-phenylethylamine
+Thyroid-stimulating hormone
+Luteinizing hormone
+Chorionic gonadotropin
+Follicle-stimulating hormone
+Anaphylatoxin C5a
+C5a des Arg74
+Angiotensin
+Apelin
+Neuromedin B
+Gastrin-releasing peptide
+Bradykinin
+Cannabinoid
+Tetrahydrocannabinol
+Macrophage derived lectin
+C-C Chemokine
+CCL1
+CCL2
+CCL3
+CCL4
+CCL5
+CCL7
+CCL8
+CCL11
+CCL13
+CCL16
+CCL14
+CCL15
+CCL17
+CCL19
+CCL20
+CCL21
+CCL22
+CCL23
+CCL24
+CCL26
+CCL27
+CCL28
+CXC Chemokine
+CXCL8
+CXCL5
+CXCL9
+CXCL12
+CXCL13
+CXCL16
+CX3C Chemokine
+CX3CL1
+C Chemokine
+XCL1
+XCL2
+Cholecystokinin
+Gastrin
+Endothelin
+Endothelin 1
+Endothelin 2
+Endothelin 3
+Galanin
+Motilin
+Ghrelin
+Gonadotrophin-releasing hormone
+KiSS-1 gene product
+Melanin-concentrating hormone
+Melanocyte stimulating hormone
+Alpha-melanocyte stimulating hormone
+Beta-melanocyte stimulating hormone
+Gamma-melanocyte stimulating hormone
+Adrenocorticotropic hormone
+Neuromedin U
+Neuropeptide FF
+Neuropeptide S
+Neuropeptide W
+Neuropeptide B
+Neuropeptide Y
+Pancreatic polypeptide
+Neurotensin
+N-formyl-L-Met-L-Leu-L-Phe
+Opioid peptide
+Endorphin
+Enkephalin
+Dynorphin
+Beta-endorphin
+Dynorphin A
+Nociceptin
+Orexin
+Orexin A
+Orexin B
+RF-amide P518 gene product
+Platelet-activating factor
+Prokineticin
+Prokineticin 1
+Prokineticin 2
+Prolactin-releasing peptide
+Thrombin
+Serine protease
+Relaxin
+Relaxin 3
+Insulin-like peptide
+Insulin-like peptide 5
+somatostatin
+Substance P
+Neurokinin
+Neurokinin A
+Neurokinin B
+Thyrotropin-releasing hormone
+Urotensin II
+Oxytocin
+Vasopressin
+Neuropeptide head activator
+BAM8-22
+Cortistatin
+Retinoic acid receptor responder
+Retinoic acid receptor responder (tazarotene induced) 2
+Tazarotene-induced Gene 2
+Resolvin E1
+Obestatin
+Calcitonin
+Calcitonin-gene related peptide
+Amylin
+Adrenomedullin
+Corticotropin releasing factor
+Urocortin
+Growth hormone-releasing hormone
+Gastric inhibitory polypeptide
+Glucagon
+Glucagon-like peptide
+Glucagon-like peptide 1
+Glucagon-like peptide 2
+Secretin
+Tuberoinfundibular peptide of 39 residues
+Parathyroid hormone
+Vasoactive intestinal peptide
+Pituitary Adenylate Cyclase activating polypeptide
+Wnt peptide
+Wnt1 peptide
+Wnt2 peptide
+Wnt3 peptide
+Wnt3a peptide
+Nicotinic acid
+Estrogen
+Fatty acid
+Oleoylethanolamide
+Cholic
+Eicosanoid lipid
+Leukotriene
+Leukotriene D4
+Leukotriene C4
+Leukotriene B4
+5-oxo-6,8,11,14-eicosatetraenoic acid
+Lipoxin
+Lipoxin A
+Lipoxin A4
+Lipoxin B
+Lipoxin B4
+Phospholipid
+Lysophospholipid
+Lysophosphatidic acid
+Sphingosine 1-phosphate
+Prostanoid lipid
+Prostaglandin lipid
+Thromboxane
+Prostacyclin
+Prostaglandin D2
+Prostaglandin F2a
+Thromboxane A2
+11-dehydro-thromboxane B2
+Purine Nucleoside
+Adenosine
+Deoxyadenosine
+Guanosine
+Deoxyguanosine
+Pyrimidine Nucleoside
+Uridine
+Thymidine
+Cytidine
+Deoxycytidine
+Nucleotide
+Purine Nucleotide
+Adenosine 5'-monophosphate
+Adenosine 3',5'-cyclic monophosphate
+Adenosine 5'-diphosphate
+Adenosine 5'-triphosphate
+Guanosine 5'-monophosphate
+Guanosine 3',5'-cyclic monophosphate
+Guanosine 5'-diphosphate
+Guanosine 5'-triphosphate
+Pyrimidine Nucleotide
+Uridine 5'-monophosphate
+Uridine 5'-diphosphate
+Uridine 5'-diphosphate-glucose
+Uridine 5'-triphosphate
+Cytidine 5'-monophosphate
+Cytidine 5'-diphosphate
+Cytidine 5'-triphosphate
+N6-cyclopentyladenosine
+2-chloro-CPA
+N6-cyclohexyladenosine
+(R)N6-phenylisopropyladenosine
+2-substituted-5'-N-ethylcarboxamidoadenosine
+2-[p-(2-carbonyl-ethyl)-phenylethylamino]-5'-N-ethylcarboxamidoadenosine
+2-hexyl-5'-N-ethylcarboxamidoadenosine
+2-[(2-aminoethylamino)carbonylethylphenylethylamino]-5'-N-ethylcarboxamidoadenosine
+2-phenylaminoadenosine
+N6-[2(3,5-dimethoxyphenyl)-2-(2-methylphenyl)ethyl]-adenosine
+2-cyclohexylmethylidenehydrazinoadenosine
+N6-(3-iodobenzyl)-5'-(N-methylcarbamoyl)adenosine
+2-chloro-N6-(3-iodobenzyl)-5'-(N-methylcarbamoyl)adenosine
+Diadenosine tetrahosphate
+2-Chloro-Adenosine 5'-diphosphate
+Adenosine 5'-O-(2-fluoro)-diphosphate
+Adenosine 5'-O-(2-thio)-diphosphate
+2-methylthio adenosine 5'-diphosphate
+Adenosine 5'-O-(3-thio)-triphosphate
+2-methylthio adenosine 5'-triphosphate
+Uridine 5'-O-(3-thio)-triphosphate
+Acetate
+Succinate
+Alpha-ketoglutarate
+Trimeric ion channel
+Pentameric ion channel
+Cys-loop ligand-gated ion channel
+ATP-gated ion channel
+Glutamate-gated cationic channel
+Anionic cys-loop ligand-gated ion channel
+Cationic cys-loop ligand-gated ion channel
+GABA A-gated anionic channel
+GABA C-gated anionic channel
+Glycine-gated chloride channel
+GluCl glutamate-gated chloride channel
+Histamine-gated chloride channel
+Serotonin-gated anionic channel
+Serotonin-gated channel (5-HT3)
+Acetylcholine-gated channel (nicotinic)
+NMDA-type glutamate-gated cationic channel
+AMPA-type glutamate-gated cationic channel
+Kainate glutamate-gated cationic channel
+CCL25
+Prostaglandin E2
+CXCL6
+CXCL7
+CXCL10
+CXCL11
+CXCL1
+CXCL2
+CXCL3
+CXCL14
+CXCL15
+Bind a ligand
+Serotonin G-protein coupled receptor
+Anaphylatoxin C3a
+5-HT1E receptor
+5-HT1E receptor
+HTR1E gene
+HTR1E mRNA (NM 000865.1)
+Free fatty acid receptor
+Free fatty acid receptor - unspecified 1
+Free fatty acid receptor - unspecified 1
+GPR42 gene
+GPR42 mRNA (NM 005305.1)
+Motilin receptor
+Motilin receptor
+MLNR gene
+MLNR mRNA (NM 001507.1)
+GnRH receptor
+GnRH receptor - unspecified 1
+GnRH receptor - unspecified 1
+GNRHR2 gene
+GNRHR2 transcript (NR 002328.1)
+Leukotriene and lipoxin receptor
+OXE receptor
+OXE receptor
+OXER1 gene
+OXER1 mRNA (NM 148962.3)
+Melanin-concentrating hormone receptor
+MCH2 receptor
+MCH2 receptor
+MCHR2 gene
+MCHR2 mRNA (NM 001040179.1)
+MCHR2 mRNA (NM 032503.1)
+Neuropeptide W/neuropeptide B receptor
+NPBW2 receptor
+NPBW2 receptor
+NPBWR2 gene
+NPBWR2 mRNA (NM 005286.2)
+N-formylpeptide receptor
+N-formylpeptide receptor - unspecified 1
+N-formylpeptide receptor - unspecified 1
+FPRL2 gene
+FPRL2 mRNA (NM 002030.3)
+Nicotinic acid receptor
+Nicotinic acid receptor - unspecified 1
+Nicotinic acid receptor - unspecified 1
+GPR109B gene
+GPR109B mRNA (NM 006018.1)
+P2Y receptor
+P2Y11 receptor
+P2Y11 receptor
+P2RY11 gene
+P2RY11 mRNA (NM 002566.4)
+OrphanA2 receptor
+OrphanA2 receptor - unspecified 1
+OrphanA2 receptor - unspecified 1
+GPR52 gene
+GPR52 mRNA (NM 005684.2)
+OrphanA3 receptor
+OrphanA3 receptor - unspecified 1
+OrphanA3 receptor - unspecified 1
+GPR78 gene
+GPR78 mRNA (NM 080819.2)
+OrphanA13 receptor
+OrphanA13 receptor - unspecified 1
+OrphanA13 receptor - unspecified 1
+GPR174 gene
+GPR174 mRNA (NM 032553.1)
+OrphanLGR receptor
+OrphanLGR receptor - unspecified 1
+OrphanLGR receptor - unspecified 1
+LGR6 gene
+LGR6 mRNA (NM 001017403.1)
+LGR6 mRNA (NM 001017404.1)
+LGR6 mRNA (NM 021636.2)
+Orphan (Mas-related) receptor
+Orphan (Mas-related) receptor - unspecified 1
+Orphan (Mas-related) receptor - unspecified 1
+MAS1L gene
+MAS1L mRNA (NM 052967.1)
+Orphan (Mas-related) receptor - unspecified 2
+Orphan (Mas-related) receptor - unspecified 2
+MRGF gene
+MRGF mRNA (NM 145015)
+Orphan (Mas-related) receptor - unspecified 3
+Orphan (Mas-related) receptor - unspecified 3
+MRGPRX2 gene
+MRGPRX2 mRNA (NM 054030.2)
+Orphan (Mas-related) receptor - unspecified 4
+Orphan (Mas-related) receptor - unspecified 4
+MRGPRX3 gene
+MRGPRX3 mRNA (NM 054031.2)
+Orphan (Mas-related) receptor - unspecified 5
+Orphan (Mas-related) receptor - unspecified 5
+MRGPRX4 gene
+MRGPRX4 mRNA (NM 054032.2)
+Other Orphan Gene receptor
+Other Orphan Gene receptor - unspecified 1
+Other Orphan Gene receptor - unspecified 1
+P2RY8 gene
+P2RY8 mRNA (NM 178129.3)
+Other Orphan Gene receptor - unspecified 2
+Other Orphan Gene receptor - unspecified 2
+GPR17 gene
+GPR17 mRNA (NM 005291.1)
+Other Orphan Gene receptor - unspecified 3
+Other Orphan Gene receptor - unspecified 3
+GPR32 gene
+GPR32 mRNA (NM 001506.1)
+Other Orphan Gene receptor - unspecified 4
+Other Orphan Gene receptor - unspecified 4
+GPR55 gene
+GPR55 mRNA (NM 005683.2)
+Other Orphan Gene receptor - unspecified 4
+Other Orphan Gene receptor - unspecified 5
+Other Orphan Gene receptor - unspecified 5
+GPR62 gene
+GPR62 mRNA (NM 080865.2)
+Other Orphan Gene receptor - unspecified 6
+Other Orphan Gene receptor - unspecified 6
+GPR79 gene
+Other Orphan Gene receptor - unspecified 7
+Other Orphan Gene receptor - unspecified 7
+GPR92 gene
+GPR92 mRNA (NM 020400.4)
+Other Orphan Gene receptor - unspecified 8
+Other Orphan Gene receptor - unspecified 8
+GPR148 gene
+GPR148 mRNA (NM 207364.1)
+Other Orphan Gene receptor - unspecified 9
+Other Orphan Gene receptor - unspecified 9
+GPR22 gene
+GPR22 mRNA (NM 005295.2)
+Other Orphan Gene receptor - unspecified 9
+Mouse chromosome 12
+Gpr22 gene
+Gpr22 mRNA (NM 175191.2)
+Other Orphan Gene receptor - unspecified 10
+Other Orphan Gene receptor - unspecified 10
+GPR171 gene
+GPR171 mRNA (NM 013308.2)
+Other Orphan Gene receptor - unspecified 10
+Mouse chromosome 3
+Gpr171 gene
+Gpr171 mRNA (NM 173398.1)
+Chemokine receptor
+Chemokine receptor - unspecified 1
+Chemokine receptor - unspecified 1
+CCRL1 gene
+CCRL1 mRNA (NM 016557.2)
+CCRL1 mRNA (NM 178445.1)
+Chemokine receptor - unspecified 1
+Mouse chromosome 9
+Ccrl1 gene
+Ccrl1 mRNA (NM 145700.1)
+Other Orphan Gene receptor - unspecified 11
+Other Orphan Gene receptor - unspecified 11
+GPR39 gene
+GPR39 mRNA (NM 001508.1)
+Other Orphan Gene receptor - unspecified 11
+Mouse chromosome 1
+Gpr39 gene
+Gpr39 mRNA (XM 913690.2)
+Other Orphan Gene receptor - unspecified 12
+Other Orphan Gene receptor - unspecified 12
+GPR160 gene
+GPR160 mRNA (NM 014373.1)
+Other Orphan Gene receptor - unspecified 12
+Gpr160 gene
+Gpr160 mRNA (XM 130823.6)
+Gpr160 mRNA (XM 896590.2)
+Gpr160 mRNA (XM 921004.2)
+Gpr160 mRNA (XM 921012.2)
+Other Orphan Gene receptor - unspecified 13
+Other Orphan Gene receptor - unspecified 13
+GPR152 gene
+GPR152 mRNA (NM 206997.1)
+Other Orphan Gene receptor - unspecified 13
+Mouse chromosome 19
+Gpr152 gene
+Gpr152 mRNA (NM 206973.2)
+OrphanA12 receptor
+OrphanA12 receptor - unspecified 1
+OrphanA12 receptor - unspecified 1
+P2RY5 gene
+P2RY5 mRNA (NM 005767.3)
+OrphanA12 receptor - unspecified 1
+Mouse chromosome 14
+P2ry5 gene
+P2ry5 mRNA (NM 175116.2)
+Other Orphan Gene receptor - unspecified 14
+Other Orphan Gene receptor - unspecified 14
+Human chromosome 0
+GPR82 gene
+GPR82 mRNA (NM 080817.2)
+Other Orphan Gene receptor - unspecified 14
+Mouse chromosome X
+Gpr82 gene
+Gpr82 mRNA (NM 175669.2)
+Nicotinic acid receptor - unspecified 2
+Nicotinic acid receptor - unspecified 2
+GPR81 gene
+GPR81 mRNA (NM 032554.3)
+Nicotinic acid receptor - unspecified 2
+Mouse chromosome 5
+Gpr81 gene
+Gpr81 mRNA (NM 175520.2)
+Other Orphan Gene receptor - unspecified 15
+Other Orphan Gene receptor - unspecified 15
+GPR75 gene
+GPR75 mRNA (NM 006794.1)
+Other Orphan Gene receptor - unspecified 15
+Mouse chromosome 11
+Gpr75 gene
+Gpr75 mRNA (NM 175490.3)
+Orphan (Mas-related) receptor - unspecified 6
+Orphan (Mas-related) receptor - unspecified 6
+MRGPRG gene
+MRGPRG mRNA (XM 001126608.1)
+Orphan (Mas-related) receptor - unspecified 6
+Mouse chromosome 7
+Mrgprg gene
+Mrgprg mRNA (NM 203492.2)
+Other Orphan Gene receptor - unspecified 16
+Other Orphan Gene receptor - unspecified 16
+GPR146 gene
+GPR146 mRNA (NM 138445.2)
+Other Orphan Gene receptor - unspecified 16
+Gpr146 gene
+Gpr146 mRNA (NM 001038703.1)
+Gpr146 mRNA (NM 030258.3)
+Lysophospholipid receptor
+LPA2 receptor
+LPA2 receptor
+EDG4 gene
+EDG4 mRNA (NM 004720.4)
+LPA2 receptor
+Mouse chromosome 8
+Edg4 gene
+Edg4 mRNA (NM 020028.3)
+Other Orphan Gene receptor - unspecified 17
+Other Orphan Gene receptor - unspecified 17
+GPR150 gene
+GPR150 mRNA (NM 199243.1)
+Other Orphan Gene receptor - unspecified 17
+Mouse chromosome 13
+Gpr150 gene
+Gpr150 mRNA (NM 175495.2)
+Chemokine receptor - unspecified 2
+Chemokine receptor - unspecified 2
+CXCR6 gene
+CXCR6 mRNA (NM 006564.1)
+Chemokine receptor - unspecified 2
+Cxcr6 gene
+Cxcr6 mRNA (NM 030712.2)
+Chemokine receptor - unspecified 2
+OrphanA2 receptor - unspecified 2
+OrphanA2 receptor - unspecified 2
+GPR21 gene
+GPR21 mRNA (NM 005294.1)
+OrphanA2 receptor - unspecified 2
+Mouse chromosome 2
+Gpr21 gene
+Gpr21 mRNA (NM 177383.2)
+Other Orphan Gene receptor - unspecified 18
+Other Orphan Gene receptor - unspecified 18
+GPR34 gene
+GPR34 mRNA (NM 001033513.1)
+GPR34 mRNA (NM 001033514.1)
+GPR34 mRNA (NM 005300.2)
+Other Orphan Gene receptor - unspecified 18
+Gpr34 gene
+Gpr34 mRNA (NM 011823.2)
+Opsin-like receptor
+Opsin-like receptor - unspecified 1
+Opsin-like receptor - unspecified 1
+OPN3 gene
+OPN3 mRNA (NM 001030011.1)
+OPN3 mRNA (NM 001030012.1)
+OPN3 mRNA (NM 014322.2)
+Opsin-like receptor - unspecified 1
+Opn3 gene
+Opn3 mRNA (NM 010098.1)
+Orphan (Mas-related) receptor - unspecified 7
+Orphan (Mas-related) receptor - unspecified 7
+MRGPRE gene
+MRGPRE mRNA (NM 001039165.1)
+Orphan (Mas-related) receptor - unspecified 7
+Mrgpre gene
+Mrgpre mRNA (NM 175534.2)
+Other Orphan Gene receptor - unspecified 19
+Other Orphan Gene receptor - unspecified 19
+GPR35 gene
+GPR35 mRNA (NM 005301.2)
+Other Orphan Gene receptor - unspecified 19
+Gpr35 gene
+Gpr35 mRNA (NM 022320.2)
+Relaxin peptide receptor
+RXFP4 receptor
+RXFP4 receptor
+RXFP4 gene
+RXFP4 mRNA (NM 181885.1)
+RXFP4 receptor
+Rxfp4 gene
+Rxfp4 mRNA (NM 181817.1)
+Chemokine receptor - unspecified 3
+Chemokine receptor - unspecified 3
+DARC gene
+DARC mRNA (NM 002036.2)
+Chemokine receptor - unspecified 3
+Darc gene
+Darc mRNA (NM 010045.1)
+Neuropeptide S receptor
+NPS receptor
+NPS receptor
+NPSR1 gene
+NPSR1 mRNA (NM 207172.1)
+NPSR1 mRNA (NM 207173.1)
+NPS receptor
+Npsr1 gene
+Npsr1 mRNA (NM 175678.2)
+Anaphylatoxin receptor
+Anaphylatoxin receptor - unspecified 1
+Anaphylatoxin receptor - unspecified 1
+C3AR1 gene
+C3AR1 mRNA (NM 004054.2)
+Anaphylatoxin receptor - unspecified 1
+Mouse chromosome 6
+C3ar1 gene
+C3ar1 mRNA (NM 009779.1)
+Anaphylatoxin receptor - unspecified 1
+Rat chromosome 4
+C3ar1 gene
+C3ar1 mRNA (NM 032060.1)
+KiSS1-derived peptide receptor
+KiSS1 receptor
+KiSS1 receptor
+KISS1R gene
+KISS1R mRNA (NM 032551.3)
+KiSS1 receptor
+Mouse chromosome 10
+Kiss1r gene
+Kiss1r mRNA (NM 053244.2)
+KiSS1 receptor
+Rat chromosome 7
+Kiss1r gene
+Kiss1r mRNA (NM 023992.1)
+Endothelin receptor
+ETA receptor
+ETA receptor
+EDNRA gene
+EDNRA mRNA (NM 001957.1)
+ETA receptor
+Ednra gene
+Ednra mRNA (NM 010332.2)
+ETA receptor
+Rat chromosome 19
+Ednra gene
+Ednra mRNA (NM 012550.1)
+Orphan (Mas-related) receptor - unspecified 8
+Orphan (Mas-related) receptor - unspecified 8
+MAS1 gene
+MAS1 mRNA (NM 002377.2)
+Orphan (Mas-related) receptor - unspecified 8
+Mouse chromosome 17
+Mas1 gene
+Mas1 mRNA (NM 008552.2)
+Orphan (Mas-related) receptor - unspecified 8
+Rat chromosome 1
+Mas1 gene
+Mas1 mRNA (NM 012757.2)
+NPBW1 receptor
+NPBW1 receptor
+NPBWR1 gene
+NPBWR1 mRNA (NM 005285.3)
+NPBW1 receptor
+Npbwr1 gene
+Npbwr1 mRNA (XM 136404.4)
+Npbwr1 mRNA (XM 912251.2)
+Npbwr1 mRNA (XM 984122.1)
+NPBW1 receptor
+Rat chromosome 5
+Nbpwr1 gene
+Nbpwr1 mRNA (NM 001014784.1)
+Bombesin receptor
+BB3 receptor
+BB3 receptor
+BRS3 gene
+BRS3 mRNA (NM 001727.1)
+BB3 receptor
+Brs3 gene
+Brs3 mRNA (NM 009766.2)
+BB3 receptor
+Rat chromosome X
+Brs3 gene
+Brs3 mRNA (NM 152845.1)
+Opioid receptor
+Kappa receptor
+Kappa receptor
+OPRK1 gene
+OPRK1 mRNA (NM 000912.3)
+Kappa receptor
+Oprk1 gene
+Oprk1 mRNA (NM 011011.1)
+Kappa receptor
+Oprk1 gene
+Oprk1 mRNA (NM 017167.1)
+Orphan receptor
+Orphan receptor - unspecified 1
+Orphan receptor - unspecified 1
+OXGR1 gene
+OXGR1 mRNA (NM 080818.3)
+Orphan receptor - unspecified 1
+Oxgr1 gene
+Oxgr1 mRNA (NM 001001490.2)
+Orphan receptor - unspecified 1
+Rat chromosome 15
+Oxgr1 gene
+Oxgr1 mRNA (NM 207588.1)
+RXFP1 receptor
+RXFP1 receptor
+RXFP1 gene
+RXFP1 mRNA (NM 021634.2)
+RXFP1 receptor
+Rxfp1 gene
+Rxfp1 mRNA (NM 212452.1)
+RXFP1 receptor
+Rat chromosome 2
+Lgr7 gene
+Lgr7 mRNA (NM 201417.1)
+OrphanA9 receptor
+OrphanA9 receptor - unspecified 1
+OrphanA9 receptor - unspecified 1
+GPR162 gene
+GPR162 mRNA (NM 014449.1)
+GPR162 mRNA (NM 019858.1)
+OrphanA9 receptor - unspecified 1
+Gpr162 gene
+Gpr162 mRNA (NM 013533.2)
+OrphanA9 receptor - unspecified 1
+Gpr162 gene
+Gpr162 mRNA (XM 001064191.1)
+Gpr162 mRNA (XM 342757.3)
+Orphan (Mas-related) receptor - unspecified 9
+Orphan (Mas-related) receptor - unspecified 9
+MRGPRD gene
+MRGPRD mRNA (NM 198923.2)
+Orphan (Mas-related) receptor - unspecified 9
+Mrgprd gene
+Mrgprd mRNA (NM 203490.2)
+Orphan (Mas-related) receptor - unspecified 9
+Mrgprd gene
+Mrgprd mRNA (NM 001001506.1)
+Adenosine receptor
+A1 receptor
+A1 receptor
+ADORA1 gene
+ADORA1 mRNA (NM 000674.1)
+A1 receptor
+Adora1 gene
+Adora1 mRNA (NM 001008533.2)
+Adora1 mRNA (NM 001039510.1)
+A1 receptor
+Rat chromosome 13
+Adora1 gene
+Adora1 mRNA (NM 017155.1)
+OrphanA3 receptor - unspecified 2
+OrphanA3 receptor - unspecified 2
+GPR26 gene
+GPR26 mRNA (NM 153442.1)
+OrphanA3 receptor - unspecified 2
+Gpr26 gene
+Gpr26 mRNA (NM 173410.1)
+OrphanA3 receptor - unspecified 2
+Rat chromosome 10
+Gpr26 gene
+Gpr26 mRNA (NM 138841.1)
+Angiotensin receptor
+AT1 receptor
+AT1 receptor
+AGTR1 gene
+AGTR1 mRNA (NM 000685.3)
+AGTR1 mRNA (NM 004835.2)
+AGTR1 mRNA (NM 009585.2)
+AGTR1 mRNA (NM 031850.1)
+AT1 receptor
+Agtr1 gene
+Agtr1 mRNA (NM 177322.2)
+AT1 receptor
+Agtr1b gene
+Agtr1b mRNA (NM 031009.2)
+OrphanA9 receptor - unspecified 2
+OrphanA9 receptor - unspecified 2
+GPR153 gene
+GPR153 mRNA (NM 207370.1)
+OrphanA9 receptor - unspecified 2
+Mouse chromosome 4
+Gpr153 gene
+Gpr153 mRNA (NM 178406.1)
+OrphanA9 receptor - unspecified 2
+Gpr153 gene
+OrphanLGR receptor - unspecified 2
+OrphanLGR receptor - unspecified 2
+LGR4 gene
+LGR4 mRNA (NM 018490.1)
+OrphanLGR receptor - unspecified 2
+Lgr4 gene
+Lgr4 mRNA (XM 355385.4)
+Lgr4 mRNA (XM 917125.2)
+OrphanLGR receptor - unspecified 2
+Rat chromosome 3
+Lgr4 gene
+Lgr4 mRNA (NM 173328.1)
+Neuropeptide FF/neuropeptide AF receptor
+NPFF1 receptor
+NPFF1 receptor
+NPFFR1 gene
+NPFFR1 mRNA (NM 022146.1)
+NPFF1 receptor
+Rat chromosome 20
+Npffr1 gene
+Npffr1 mRNA (NM 022291.1)
+Other Orphan Gene receptor - unspecified 20
+Other Orphan Gene receptor - unspecified 20
+GPR135 gene
+GPR135 mRNA (NM 022571.5)
+Other Orphan Gene receptor - unspecified 20
+Gpr135 gene
+Gpr135 mRNA (NM 181752.1)
+Other Orphan Gene receptor - unspecified 20
+Rat chromosome 6
+Gpr135 gene
+Gpr135 mRNA (NM 181771.1)
+Vasopressin/oxytocin receptor
+OT receptor
+OT receptor
+OXTR gene
+OXTR mRNA (NM 000916.3)
+OT receptor
+Oxtr gene
+Oxtr mRNA (XM 001001627.1)
+Oxtr mRNA (XM 144956.6)
+Oxtr mRNA (XM 973536.1)
+OT receptor
+Oxtr gene
+Oxtr mRNA (NM 012871.2)
+Neuropeptide Y receptor
+Y5 receptor
+Y5 receptor
+NPY5R gene
+NPY5R mRNA (NM 006174.2)
+Y5 receptor
+Npy5r gene
+Npy5r mRNA (NM 016708.1)
+Y5 receptor
+Rat chromosome 16
+Npy5r gene
+Npy5r mRNA (NM 012869.1)
+Other Orphan Gene receptor - unspecified 21
+Other Orphan Gene receptor - unspecified 21
+GPR120 gene
+GPR120 mRNA (NM 181745.2)
+Other Orphan Gene receptor - unspecified 21
+Gpr120 gene
+Gpr120 mRNA (NM 181748.1)
+Other Orphan Gene receptor - unspecified 21
+Gpr120 gene
+Gpr120 mRNA (XM 001080642.1)
+Gpr120 mRNA (XM 215281.4)
+Dopamine receptor
+D2 receptor
+D2 receptor
+DRD2 gene
+DRD2 mRNA (NM 000795.2)
+DRD2 mRNA (NM 016574.2)
+D2 receptor
+Drd2 gene
+Drd2 mRNA (NM 010077.1)
+D2 receptor
+Rat chromosome 8
+Drd2 gene
+Drd2 mRNA (NM 012547.1)
+D1 receptor
+D1 receptor
+DRD1 gene
+DRD1 mRNA (NM 000794.3)
+D1 receptor
+Drd1a gene
+Drd1a mRNA (NM 010076.1)
+D1 receptor
+Rat chromosome 17
+Drd1a gene
+Drd1a mRNA (NM 012546.1)
+NPFF2 receptor
+NPFF2 receptor
+NPFFR2 gene
+NPFFR2 mRNA (NM 004885.1)
+NPFFR2 mRNA (NM 053036.1)
+NPFF2 receptor
+Npffr2 gene
+Npffr2 mRNA (NM 133192.2)
+NPFF2 receptor
+Rat chromosome 14
+Npffr2 gene
+Npffr2 mRNA (NM 023980.1)
+OrphanA1 receptor
+OrphanA1 receptor - unspecified 1
+OrphanA1 receptor - unspecified 1
+GPR6 gene
+GPR6 mRNA (NM 005284.3)
+OrphanA1 receptor - unspecified 1
+Gpr6 gene
+Gpr6 mRNA (NM 199058.1)
+OrphanA1 receptor - unspecified 1
+Gpr6 gene
+Gpr6 mRNA (NM 031806.1)
+Other Orphan Gene receptor - unspecified 22
+Other Orphan Gene receptor - unspecified 22
+GPR61 gene
+GPR61 mRNA (NM 031936.3)
+Other Orphan Gene receptor - unspecified 22
+Gpr61 gene
+Gpr61 mRNA (NM 175470.2)
+Other Orphan Gene receptor - unspecified 22
+Gpr61 gene
+Gpr61 mRNA (XM 001071310.1)
+Gpr61 mRNA (XM 227581.3)
+5-HT1A receptor
+5-HT1A receptor
+HTR1A gene
+HTR1A mRNA (NM 000524.2)
+5-HT1A receptor
+Htr1a gene
+Htr1a mRNA (NM 008308.2)
+5-HT1A receptor
+Htr1a gene
+Htr1a mRNA (NM 012585.1)
+G protein-coupled bile acid receptor
+GPBA receptor
+GPBA receptor
+GPBAR1 gene
+GPBAR1 mRNA (NM 170699.1)
+GPBA receptor
+Gpbar1 gene
+Gpbar1 mRNA (NM 174985.1)
+GPBA receptor
+Rat chromosome 9
+Gpbar1 gene
+Gpbar1 mRNA (NM 177936.1)
+CCR5 receptor
+CCR5 receptor
+CCR5 gene
+CCR5 mRNA (NM 000579.1)
+CCR5 receptor
+Ccr5 gene
+Ccr5 mRNA (NM 009917.2)
+CCR5 receptor
+Ccr5 gene
+Ccr5 mRNA (NM 053960.3)
+CCR3 receptor
+CCR3 receptor
+CCR3 gene
+CCR3 mRNA (NM 001837.2)
+CCR3 mRNA (NM 178329.1)
+CCR3 receptor
+Ccr3 gene
+Ccr3 mRNA (NM 009914.2)
+CCR3 receptor
+Ccr3 gene
+Ccr3 mRNA (NM 053958.1)
+XCR1 receptor
+XCR1 receptor
+XCR1 gene
+XCR1 mRNA (NM 001024644.1)
+XCR1 mRNA (NM 005283.2)
+XCR1 receptor
+Xcr1 gene
+Xcr1 mRNA (NM 011798.2)
+XCR1 receptor
+Xcr1 gene
+Xcr1 mRNA (XM 001078739.1)
+Xcr1 mRNA (XM 236740.3)
+OrphanA15 receptor
+OrphanA15 receptor - unspecified 1
+OrphanA15 receptor - unspecified 1
+CMKOR1 gene
+CMKOR1 mRNA (NM 020311.1)
+OrphanA15 receptor - unspecified 1
+Cmkor1 gene
+Cmkor1 mRNA (NM 007722.2)
+OrphanA15 receptor - unspecified 1
+Cmkor1 gene
+Cmkor1 mRNA (NM 053352.1)
+Other Orphan Gene receptor - unspecified 23
+Other Orphan Gene receptor - unspecified 23
+CMKLR1 gene
+CMKLR1 mRNA (NM 004072.1)
+Other Orphan Gene receptor - unspecified 23
+Cmklr1 gene
+Cmklr1 mRNA (NM 008153.2)
+Other Orphan Gene receptor - unspecified 23
+Rat chromosome 12
+Cmklr1 gene
+Cmklr1 mRNA (NM 022218.2)
+Apelin receptor
+APJ receptor
+APJ receptor
+AGTRL1 gene
+AGTRL1 mRNA (NM 005161.3)
+APJ receptor
+Agtrl1 gene
+Agtrl1 mRNA (NM 011784.2)
+APJ receptor
+Agtrl1 gene
+Agtrl1 mRNA (NM 031349.2)
+Other Orphan Gene receptor - unspecified 24
+Other Orphan Gene receptor - unspecified 24
+GPR20 gene
+GPR20 mRNA (NM 005293.2)
+Other Orphan Gene receptor - unspecified 24
+Mouse chromosome 15
+Gpr20 gene
+Gpr20 mRNA (NM 173365.1)
+Other Orphan Gene receptor - unspecified 24
+Gpr20 gene
+Gpr20 mRNA (NM 022216.1)
+Other Orphan Gene receptor - unspecified 25
+Other Orphan Gene receptor - unspecified 25
+OPN5 gene
+OPN5 mRNA (NM 001030051.1)
+OPN5 mRNA (NM 181744.2)
+Other Orphan Gene receptor - unspecified 25
+Opn5 gene
+Opn5 mRNA (NM 181753.2)
+Other Orphan Gene receptor - unspecified 25
+Opn5 gene
+Opn5 mRNA (NM 181772.1)
+Parvalbumin
+N-formylpeptide receptor - unspecified 2
+N-formylpeptide receptor - unspecified 2
+FPR1 gene
+FPR1 mRNA (NM 002029.3)
+N-formylpeptide receptor - unspecified 2
+Fpr1 gene
+Fpr1 mRNA (NM 013521.2)
+N-formylpeptide receptor - unspecified 2
+Fpr1 gene
+Fpr1 mRNA (XM 001057934.1)
+Fpr1 mRNA (XM 218012.4)
+Melanocortin receptor
+MC2 receptor
+MC2 receptor
+MC2R gene
+MC2R mRNA (NM 000529.2)
+MC2 receptor
+Mouse chromosome 18
+Mc2r gene
+Mc2r mRNA (NM 008560.2)
+MC2 receptor
+Rat chromosome 18
+Mc2r gene
+Mc2r mRNA (XM 001067549.1)
+Mc2r mRNA (XM 574167.2)
+A2B receptor
+A2B receptor
+ADORA2B gene
+ADORA2B mRNA (NM 000676.2)
+A2B receptor
+Adora2b gene
+Adora2b mRNA (NM 007413.2)
+A2B receptor
+Adora2b gene
+Adora2b mRNA (NM 017161.1)
+MC3 receptor
+MC3 receptor
+MC3R gene
+MC3R mRNA (NM 019888.2)
+MC3 receptor
+Mc3r gene
+Mc3r mRNA (NM 008561.2)
+MC3 receptor
+Mc3r gene
+Mc3r mRNA (NM 001025270.2)
+MC5 receptor
+MC5 receptor
+MC5R gene
+MC5R mRNA (NM 005913.1)
+MC5 receptor
+Mc5r gene
+Mc5r mRNA (NM 013596.1)
+MC5 receptor
+Mc5r gene
+Mc5r mRNA (NM 013182.1)
+CCR2 receptor
+CCR2 receptor
+CCR2 gene
+CCR2 mRNA (NM 000647.4)
+CCR2 mRNA (NM 000648.2)
+CCR2 receptor
+Ccr2 gene
+Ccr2 mRNA (NM 009915.1)
+CCR2 receptor
+Ccr2 gene
+Ccr2 mRNA (NM 021866.1)
+Y4 receptor
+Y4 receptor
+PPYR1 gene
+PPYR1 mRNA (NM 005972.3)
+Y4 receptor
+Ppyr1 gene
+Ppyr1 mRNA (NM 008919.2)
+Y4 receptor
+Ppyr1 gene
+Ppyr1 mRNA (NM 031581.1)
+CCR9 receptor
+CCR9 receptor
+CCR9 gene
+CCR9 mRNA (NM 006641.2)
+CCR9 mRNA (NM 031200.1)
+CCR9 receptor
+Ccr9 gene
+Ccr9 mRNA (NM 009913.2)
+CCR9 receptor
+Ccr9 gene
+Ccr9 mRNA (NM 172329.1)
+LPA1 receptor
+LPA1 receptor
+EDG2 gene
+EDG2 mRNA (NM 001401.3)
+EDG2 mRNA (NM 057159.2)
+LPA1 receptor
+Edg2 gene
+Edg2 mRNA (NM 010336.1)
+LPA1 receptor
+Edg2 gene
+Edg2 mRNA (NM 053936.3)
+Neuromedin U receptor
+NMU1 receptor
+NMU1 receptor
+NMUR1 gene
+NMUR1 mRNA (NM 006056.2)
+NMU1 receptor
+Nmur1 gene
+Nmur1 mRNA (NM 010341.1)
+NMU1 receptor
+Nmur1 gene
+Nmur1 mRNA (NM 023100.1)
+OrphanSREB receptor
+OrphanSREB receptor - unspecified 1
+OrphanSREB receptor - unspecified 1
+GPR27 gene
+GPR27 mRNA (NM 018971.1)
+OrphanSREB receptor - unspecified 1
+Gpr27 gene
+Gpr27 mRNA (NM 008158.1)
+OrphanSREB receptor - unspecified 1
+Gpr27 gene
+Gpr27 mRNA (NM 023099.1)
+5-HT5A receptor
+5-HT5A receptor
+HTR5A gene
+HTR5A mRNA (NM 024012.2)
+5-HT5A receptor
+Htr5a gene
+Htr5a mRNA (NM 008314.2)
+5-HT5A receptor
+Htr5a gene
+Htr5a mRNA (NM 013148.1)
+Acetylcholine (muscarinic) receptor
+M3 receptor
+M3 receptor
+CHRM3 gene
+CHRM3 mRNA (NM 000740.2)
+M3 receptor
+Chrm3 gene
+Chrm3 mRNA (NM 033269.2)
+M3 receptor
+Chrm3 gene
+Chrm3 mRNA (NM 012527.1)
+Other Orphan Gene receptor - unspecified 26
+Other Orphan Gene receptor - unspecified 26
+GPR88 gene
+GPR88 mRNA (NM 022049.1)
+Other Orphan Gene receptor - unspecified 26
+Gpr88 gene
+Gpr88 mRNA (NM 022427.1)
+Other Orphan Gene receptor - unspecified 26
+Gpr88 gene
+Gpr88 mRNA (NM 031696.1)
+5-HT4 receptor
+5-HT4 receptor
+HTR4 gene
+HTR4 mRNA (NM 000870.4)
+HTR4 mRNA (NM 001040169.1)
+HTR4 mRNA (NM 001040171.1)
+HTR4 mRNA (NM 00104)
+5-HT4 receptor
+Htr4 gene
+Htr4 mRNA (NM 008313.2)
+5-HT4 receptor
+Htr4 gene
+Htr4 mRNA (NM 012853.1)
+5-HT1D receptor
+5-HT1D receptor
+HTR1D gene
+HTR1D mRNA (NM 000864.3)
+5-HT1D receptor
+Htr1d gene
+Htr1d mRNA (NM 008309.2)
+5-HT1D receptor
+Htr1d gene
+Htr1d mRNA (NM 012852.1)
+Other Orphan Gene receptor - unspecified 27
+Other Orphan Gene receptor - unspecified 27
+GPR25 gene
+GPR25 mRNA (NM 005298.2)
+Other Orphan Gene receptor - unspecified 27
+Gpr25 gene
+Gpr25 mRNA (XM 001064036.1)
+Gpr25 mRNA (XM 344146.3)
+OrphanA15 receptor - unspecified 2
+OrphanA15 receptor - unspecified 2
+ADMR gene
+ADMR mRNA (NM 007264.3)
+OrphanA15 receptor - unspecified 2
+Admr gene
+Admr mRNA (NM 007412.1)
+OrphanA15 receptor - unspecified 2
+Admr gene
+Admr mRNA (NM 053302.2)
+NMU2 receptor
+NMU2 receptor
+NMUR2 gene
+NMUR2 mRNA (NM 020167.3)
+NMU2 receptor
+Nmur2 gene
+Nmur2 mRNA (NM 153079.2)
+NMU2 receptor
+Nmur2 gene
+Nmur2 mRNA (NM 022275.2)
+SPC/LPC receptor
+SPC/LPC receptor - unspecified 1
+SPC/LPC receptor - unspecified 1
+GPR4 gene
+GPR4 mRNA (NM 005282.1)
+SPC/LPC receptor - unspecified 1
+Gpr4 gene
+Gpr4 mRNA (NM 175668.2)
+SPC/LPC receptor - unspecified 1
+Gpr4 gene
+Gpr4 mRNA (NM 001025680.1)
+V1B receptor
+V1B receptor
+AVPR1B gene
+AVPR1B mRNA (NM 000707.2)
+V1B receptor
+Avpr1b gene
+Avpr1b mRNA (NM 011924.2)
+V1B receptor
+Avpr1b gene
+Avpr1b mRNA (NM 017205.2)
+Neurotensin receptor
+NTS2 receptor
+NTS2 receptor
+NTSR2 gene
+NTSR2 mRNA (NM 012344.2)
+NTS2 receptor
+Ntsr2 gene
+Ntsr2 mRNA (NM 008747.1)
+NTS2 receptor
+Ntsr2 gene
+Ntsr2 mRNA (NM 022695.1)
+Adrenoceptor receptor
+Alpha2A receptor
+Alpha2A receptor
+ADRA2A gene
+ADRA2A mRNA (NM 000681.2)
+Alpha2A receptor
+Adra2a gene
+Adra2a mRNA (NM 007417.2)
+Alpha2A receptor
+Adra2a gene
+Adra2a mRNA (NM 012739.2)
+Anaphylatoxin receptor - unspecified 2
+Anaphylatoxin receptor - unspecified 2
+GPR77 gene
+GPR77 mRNA (NM 018485.1)
+Anaphylatoxin receptor - unspecified 2
+Gpr77 gene
+Gpr77 mRNA (NM 176912.2)
+Anaphylatoxin receptor - unspecified 2
+Gpr77 gene
+Gpr77 mRNA (NM 001003710.2)
+Glycoprotein hormone receptor
+LH receptor
+LH receptor
+LHCGR gene
+LHCGR mRNA (NM 000233.2)
+LH receptor
+Lhcgr gene
+Lhcgr mRNA (NM 013582.1)
+LH receptor
+Lhcgr gene
+Lhcgr mRNA (NM 012978.1)
+Protease-activated receptor
+PAR4 receptor
+PAR4 receptor
+F2RL3 gene
+F2RL3 mRNA (NM 003950.2)
+PAR4 receptor
+F2rl3 gene
+F2rl3 mRNA (NM 007975.2)
+PAR4 receptor
+F2rl3 gene
+F2rl3 mRNA (NM 053808.1)
+CCR8 receptor
+CCR8 receptor
+CCR8 gene
+CCR8 mRNA (NM 005201.2)
+CCR8 receptor
+Ccr8 gene
+Ccr8 mRNA (NM 007720.2)
+CCR8 receptor
+Ccr8 gene
+Ccr8 mRNA (XM 001077746.1)
+Ccr8 mRNA (XM 236704.2)
+OrphanA6 receptor
+OrphanA6 receptor - unspecified 1
+OrphanA6 receptor - unspecified 1
+GPR63 gene
+GPR63 mRNA (NM 030784.1)
+OrphanA6 receptor - unspecified 1
+Gpr63 gene
+Gpr63 mRNA (NM 030733.2)
+OrphanA6 receptor - unspecified 1
+Gpr63 gene
+Gpr63 mRNA (XM 001060842.1)
+Gpr63 mRNA (XM 232847.1)
+CCR6 receptor
+CCR6 receptor
+CCR6 gene
+CCR6 mRNA (NM 004367.3)
+CCR6 mRNA (NM 031409.2)
+CCR6 receptor
+Ccr6 gene
+Ccr6 mRNA (NM 009835.2)
+CCR6 receptor
+Ccr6 gene
+Ccr6 mRNA (NM 001013145.1)
+Orphan receptor - unspecified 2
+Orphan receptor - unspecified 2
+SUCNR1 gene
+SUCNR1 mRNA (NM 033050.2)
+Orphan receptor - unspecified 2
+Sucnr1 gene
+Sucnr1 mRNA (NM 032400.1)
+Orphan receptor - unspecified 2
+Sucnr1 gene
+Sucnr1 mRNA (NM 001001518.1)
+Somatostatin receptor
+Sst2 receptor
+Sst2 receptor
+SSTR2 gene
+SSTR2 mRNA (NM 001050.2)
+Sst2 receptor
+Sstr2 gene
+Sstr2 mRNA (NM 009217.1)
+Sst2 receptor
+Sstr2 gene
+Sstr2 mRNA (NM 019348.1)
+Histamine receptor
+H1 receptor
+H1 receptor
+HRH1 gene
+HRH1 mRNA (NM 000861.2)
+H1 receptor
+Hrh1 gene
+Hrh1 mRNA (NM 008285.2)
+H1 receptor
+Hrh1 gene
+Hrh1 mRNA (NM 017018.1)
+M4 receptor
+M4 receptor
+CHRM4 gene
+CHRM4 mRNA (NM 000741.2)
+M4 receptor
+Chrm4 gene
+Chrm4 mRNA (NM 007699.1)
+M4 receptor
+Chrm4 gene
+Chrm4 mRNA (XM 001078223.1)
+Chrm4 mRNA (XM 345403.3)
+5-HT1F receptor
+5-HT1F receptor
+HTR1F gene
+HTR1F mRNA (NM 000866.2)
+5-HT1F receptor
+Mouse chromosome 16
+Htr1f gene
+Htr1f mRNA (NM 008310.2)
+5-HT1F receptor
+Rat chromosome 11
+Htr1f gene
+Htr1f mRNA (NM 021857.1)
+Chemokine receptor - unspecified 4
+Chemokine receptor - unspecified 4
+CCBP2 gene
+CCBP2 mRNA (NM 001296.3)
+Chemokine receptor - unspecified 4
+Ccbp2 gene
+Ccbp2 mRNA (NM 021609.2)
+Chemokine receptor - unspecified 4
+Ccbp2 gene
+Ccbp2 mRNA (NM 078621.2)
+CysLT2 receptor
+CysLT2 receptor
+CYSLTR2 gene
+CYSLTR2 mRNA (NM 020377.2)
+CysLT2 receptor
+Cysltr2 gene
+Cysltr2 mRNA (NM 133720.1)
+CysLT2 receptor
+Cysltr2 gene
+Cysltr2 mRNA (NM 133413.1)
+5-HT1B receptor
+5-HT1B receptor
+HTR1B gene
+HTR1B mRNA (NM 000863.1)
+5-HT1B receptor
+Htr1b gene
+Htr1b mRNA (NM 010482.1)
+5-HT1B receptor
+Htr1b gene
+Htr1b mRNA (NM 022225.1)
+Cholecystokinin receptor
+CCK2 receptor
+CCK2 receptor
+CCKBR gene
+CCKBR mRNA (NM 176875.2)
+CCK2 receptor
+Cckbr gene
+Cckbr mRNA (NM 007627.2)
+CCK2 receptor
+Cckbr gene
+Cckbr mRNA (NM 013165.2)
+NOP receptor
+NOP receptor
+OPRL1 gene
+OPRL1 mRNA (NM 000913.3)
+OPRL1 mRNA (NM 182647.1)
+NOP receptor
+Oprl1 gene
+Oprl1 mRNA (NM 011012.2)
+NOP receptor
+Oprl1 gene
+Oprl1 mRNA (NM 031569.1)
+ETB receptor
+ETB receptor
+EDNRB gene
+EDNRB mRNA (NM 000115.1)
+EDNRB mRNA (NM 003991.1)
+ETB receptor
+Ednrb gene
+Ednrb mRNA (NM 007904.2)
+ETB receptor
+Ednrb gene
+Ednrb mRNA (NM 017333.1)
+RXFP2 receptor
+RXFP2 receptor
+RXFP2 gene
+RXFP2 mRNA (NM 130806.2)
+RXFP2 receptor
+Gpha2 gene
+Gpha2 mRNA (NM 130453.2)
+RXFP2 receptor
+Gpha2 gene
+Gpha2 mRNA (NM 133619.2)
+Prostanoid receptor
+EP2 receptor
+EP2 receptor
+PTGER2 gene
+PTGER2 mRNA (NM 000956.2)
+EP2 receptor
+Ptger2 gene
+Ptger2 mRNA (NM 008964.2)
+EP2 receptor
+Ptger2 gene
+Ptger2 mRNA (NM 031088.1)
+Other Orphan Gene receptor - unspecified 28
+Other Orphan Gene receptor - unspecified 28
+GPR19 gene
+GPR19 mRNA (NM 006143.1)
+Other Orphan Gene receptor - unspecified 28
+Gpr19 gene
+Gpr19 mRNA (NM 008157.1)
+Other Orphan Gene receptor - unspecified 28
+Rat chromosome null
+Gpr19 gene
+V2 receptor
+V2 receptor
+AVPR2 gene
+AVPR2 mRNA (NM 000054.2)
+V2 receptor
+Avpr2 gene
+Avpr2 mRNA (NM 019404.1)
+V2 receptor
+Avpr2 gene
+Avpr2 mRNA (NM 019136.1)
+SPC/LPC receptor - unspecified 2
+SPC/LPC receptor - unspecified 2
+GPR65 gene
+GPR65 mRNA (NM 003608.2)
+SPC/LPC receptor - unspecified 2
+Gpr65 gene
+Gpr65 mRNA (NM 008152.1)
+SPC/LPC receptor - unspecified 2
+Gpr65 gene
+Gpr65 mRNA (XM 001063813.1)
+Gpr65 mRNA (XM 234367.3)
+V1A receptor
+V1A receptor
+AVPR1A gene
+AVPR1A mRNA (NM 000706.3)
+V1A receptor
+Avpr1a gene
+Avpr1a mRNA (NM 016847.2)
+V1A receptor
+Avpr1a gene
+Avpr1a mRNA (NM 053019.2)
+H2 receptor
+H2 receptor
+HRH2 gene
+HRH2 mRNA (NM 022304.1)
+H2 receptor
+Hrh2 gene
+Hrh2 mRNA (NM 001010973.1)
+Hrh2 mRNA (NM 008286.2)
+H2 receptor
+Hrh2 gene
+Hrh2 mRNA (NM 012965.3)
+CXCR3 receptor
+CXCR3 receptor
+CXCR3 gene
+CXCR3 mRNA (NM 001504.1)
+CXCR3 receptor
+Cxcr3 gene
+Cxcr3 mRNA (NM 009910.1)
+CXCR3 receptor
+Cxcr3 gene
+Cxcr3 mRNA (NM 053415.1)
+Nicotinic acid receptor - unspecified 3
+Nicotinic acid receptor - unspecified 3
+GPR109A gene
+GPR109A mRNA (NM 177551.3)
+Nicotinic acid receptor - unspecified 3
+Gpr109a gene
+Gpr109a mRNA (NM 030701.1)
+Nicotinic acid receptor - unspecified 3
+Gpr109a gene
+Gpr109a mRNA (NM 181476.1)
+P2Y1 receptor
+P2Y1 receptor
+P2RY1 gene
+P2RY1 mRNA (NM 002563.2)
+P2Y1 receptor
+P2ry1 gene
+P2ry1 mRNA (NM 008772.2)
+P2Y1 receptor
+P2ry1 gene
+P2ry1 mRNA (NM 012800.1)
+BB1 receptor
+BB1 receptor
+NMBR gene
+NMBR mRNA (NM 002511.1)
+BB1 receptor
+Nmbr gene
+Nmbr mRNA (NM 008703.1)
+BB1 receptor
+Nmbr gene
+Nmbr mRNA (NM 012799.1)
+OrphanA4 receptor
+OrphanA4 receptor - unspecified 1
+OrphanA4 receptor - unspecified 1
+GPR37 gene
+GPR37 mRNA (NM 005302.2)
+OrphanA4 receptor - unspecified 1
+Gpr37 gene
+Gpr37 mRNA (NM 010338.1)
+OrphanA4 receptor - unspecified 1
+Gpr37 gene
+Gpr37 mRNA (NM 057201.1)
+Other Orphan Gene receptor - unspecified 29
+Other Orphan Gene receptor - unspecified 29
+GPR84 gene
+GPR84 mRNA (NM 020370.1)
+Other Orphan Gene receptor - unspecified 29
+Gpr84 gene
+Gpr84 mRNA (NM 030720.1)
+Other Orphan Gene receptor - unspecified 29
+Gpr84 gene
+OrphanSREB receptor - unspecified 2
+OrphanSREB receptor - unspecified 2
+GPR173 gene
+GPR173 mRNA (NM 018969.3)
+OrphanSREB receptor - unspecified 2
+Gpr173 gene
+Gpr173 mRNA (NM 027543.3)
+OrphanSREB receptor - unspecified 2
+Gpr173 gene
+Gpr173 mRNA (NM 022255.1)
+CXCR1 receptor
+CXCR1 receptor
+IL8RA gene
+IL8RA mRNA (NM 000634.2)
+CXCR1 receptor
+Il8ra gene
+Il8ra mRNA (NM 178241.3)
+CXCR1 receptor
+Il8ra gene
+Il8ra mRNA (NM 019310.1)
+OrphanSREB receptor - unspecified 3
+OrphanSREB receptor - unspecified 3
+GPR85 gene
+GPR85 mRNA (NM 018970.3)
+OrphanSREB receptor - unspecified 3
+Gpr85 gene
+Gpr85 mRNA (NM 145066.4)
+OrphanSREB receptor - unspecified 3
+Gpr85 gene
+Gpr85 mRNA (NM 022254.3)
+Anaphylatoxin receptor - unspecified 3
+Anaphylatoxin receptor - unspecified 3
+C5AR1 gene
+C5AR1 mRNA (NM 001736.2)
+Anaphylatoxin receptor - unspecified 3
+C5ar1 gene
+C5ar1 mRNA (NM 007577.3)
+Anaphylatoxin receptor - unspecified 3
+C5r1 gene
+C5r1 mRNA (NM 053619.1)
+BLT1 receptor
+BLT1 receptor
+LTB4R gene
+LTB4R mRNA (NM 181657.1)
+BLT1 receptor
+Ltb4r1 gene
+Ltb4r1 mRNA (NM 008519.1)
+BLT1 receptor
+Ltb4r gene
+Ltb4r mRNA (NM 021656.1)
+S1P5 receptor
+S1P5 receptor
+EDG8 gene
+EDG8 mRNA (NM 030760.3)
+S1P5 receptor
+Edg8 gene
+Edg8 mRNA (NM 053190.1)
+S1P5 receptor
+Edg8 gene
+Edg8 mRNA (NM 021775.2)
+PAR2 receptor
+PAR2 receptor
+F2RL1 gene
+F2RL1 mRNA (NM 005242.3)
+PAR2 receptor
+F2rl1 gene
+F2rl1 mRNA (NM 007974.2)
+PAR2 receptor
+F2rl1 gene
+F2rl1 mRNA (NM 053897.2)
+FP receptor
+FP receptor
+PTGFR gene
+PTGFR mRNA (NM 000959.3)
+PTGFR mRNA (NM 001039585.1)
+FP receptor
+Ptgfr gene
+Ptgfr mRNA (NM 008966.3)
+FP receptor
+Ptgfr gene
+Ptgfr mRNA (NM 013115.1)
+Other Orphan Gene receptor - unspecified 30
+Other Orphan Gene receptor - unspecified 30
+GPR1 gene
+GPR1 mRNA (NM 005279.2)
+Other Orphan Gene receptor - unspecified 30
+Gpr1 gene
+Gpr1 mRNA (NM 146250.1)
+Other Orphan Gene receptor - unspecified 30
+Gpr1 gene
+Gpr1 mRNA (NM 012961.1)
+CXCR4 receptor
+CXCR4 receptor
+CXCR4 gene
+CXCR4 mRNA (NM 001008540.1)
+CXCR4 mRNA (NM 003467.2)
+CXCR4 receptor
+Cxcr4 gene
+Cxcr4 mRNA (NM 009911.2)
+CXCR4 receptor
+Cxcr4 gene
+Cxcr4 mRNA (NM 022205.3)
+PAR3 receptor
+PAR3 receptor
+F2RL2 gene
+F2RL2 mRNA (NM 004101.2)
+PAR3 receptor
+F2rl2 gene
+F2rl2 mRNA (NM 010170.2)
+PAR3 receptor
+F2rl2 gene
+F2rl2 mRNA (NM 053313.1)
+Other Orphan Gene receptor - unspecified 31
+Other Orphan Gene receptor - unspecified 31
+GPR151 gene
+GPR151 mRNA (NM 194251.2)
+Other Orphan Gene receptor - unspecified 31
+Gpr151 gene
+Gpr151 mRNA (NM 181543.1)
+Other Orphan Gene receptor - unspecified 31
+Gpr151 gene
+Gpr151 mRNA (NM 181633.2)
+SPC/LPC receptor - unspecified 3
+SPC/LPC receptor - unspecified 3
+GPR132 gene
+GPR132 mRNA (NM 013345.2)
+SPC/LPC receptor - unspecified 3
+Gpr132 gene
+Gpr132 mRNA (NM 019925.2)
+SPC/LPC receptor - unspecified 3
+Gpr132 gene
+Gpr132 mRNA (XM 001073056.1)
+Gpr132 mRNA (XM 234574.4)
+P2Y2 receptor
+P2Y2 receptor
+P2RY2 gene
+P2RY2 mRNA (NM 002564.2)
+P2RY2 mRNA (NM 176071.1)
+P2RY2 mRNA (NM 176072.1)
+P2Y2 receptor
+P2ry2 gene
+P2ry2 mRNA (NM 008773.2)
+P2Y2 receptor
+P2ry2 gene
+P2ry2 mRNA (NM 017255.1)
+P2Y12 receptor
+P2Y12 receptor
+P2RY12 gene
+P2RY12 mRNA (NM 022788.3)
+P2RY12 mRNA (NM 176876.1)
+P2Y12 receptor
+P2ry12 gene
+P2ry12 mRNA (NM 027571.2)
+P2Y12 receptor
+P2ry12 gene
+P2ry12 mRNA (NM 022800.1)
+Orphan (Chemokine receptor-like)
+Orphan (Chemokine receptor-like) - unspecified 1
+Orphan (Chemokine receptor-like) - unspecified 1
+CCRL2 gene
+CCRL2 mRNA (NM 003965.4)
+Orphan (Chemokine receptor-like) - unspecified 1
+Ccrl2 gene
+Ccrl2 mRNA (NM 017466.3)
+Orphan (Chemokine receptor-like) - unspecified 1
+Ccrl2 gene
+Ccrl2 mRNA (XM 001076293.1)
+Ccrl2 mRNA (XM 236658.4)
+OrphanA4 receptor - unspecified 2
+OrphanA4 receptor - unspecified 2
+GPR37L1 gene
+GPR37L1 mRNA (NM 004767.2)
+OrphanA4 receptor - unspecified 2
+Gpr37l1 gene
+Gpr37l1 mRNA (NM 134438.1)
+OrphanA4 receptor - unspecified 2
+Gpr37l1 gene
+Gpr37l1 mRNA (XM 001062802.1)
+Gpr37l1 mRNA (XM 573457.2)
+5-HT2A receptor
+5-HT2A receptor
+HTR2A gene
+HTR2A mRNA (NM 000621.2)
+5-HT2A receptor
+Htr2a gene
+Htr2a mRNA (NM 172812.1)
+5-HT2A receptor
+Htr2a gene
+Htr2a mRNA (NM 017254.1)
+D3 receptor
+D3 receptor
+DRD3 gene
+DRD3 mRNA (NM 000796.3)
+DRD3 mRNA (NM 033663.3)
+D3 receptor
+Drd3 gene
+Drd3 mRNA (NM 007877.1)
+D3 receptor
+Drd3 gene
+Drd3 mRNA (NM 017140.1)
+Galanin receptor
+GAL3 receptor
+GAL3 receptor
+GALR3 gene
+GALR3 mRNA (NM 003614.1)
+GAL3 receptor
+Galr3 gene
+Galr3 mRNA (NM 015738.1)
+GAL3 receptor
+Galr3 gene
+Galr3 mRNA (NM 019173.1)
+GAL2 receptor
+GAL2 receptor
+GALR2 gene
+GALR2 mRNA (NM 003857.2)
+GAL2 receptor
+Galr2 gene
+Galr2 mRNA (NM 010254.2)
+GAL2 receptor
+Galr2 gene
+Galr2 mRNA (NM 019172.3)
+H4 receptor
+H4 receptor
+HRH4 gene
+HRH4 mRNA (NM 021624.2)
+H4 receptor
+Hrh4 gene
+Hrh4 mRNA (NM 153087.1)
+H4 receptor
+Hrh4 gene
+Hrh4 mRNA (NM 131909.1)
+Beta3 receptor
+Beta3 receptor
+ADRB3 gene
+ADRB3 mRNA (NM 000025.1)
+Beta3 receptor
+Adrb3 gene
+Adrb3 mRNA (NM 013462.2)
+Beta3 receptor
+Adrb3 gene
+Adrb3 mRNA (NM 013108.1)
+TP receptor
+TP receptor
+TBXA2R gene
+TBXA2R mRNA (NM 001060.3)
+TBXA2R mRNA (NM 201636.1)
+TP receptor
+Tbxa2r gene
+Tbxa2r mRNA (NM 009325.2)
+TP receptor
+Tbxa2r gene
+Tbxa2r mRNA (NM 017054.1)
+Other Orphan Gene receptor - unspecified 32
+Other Orphan Gene receptor - unspecified 32
+GPR149 gene
+GPR149 mRNA (NM 001038705.1)
+Other Orphan Gene receptor - unspecified 32
+Gpr149 gene
+Gpr149 mRNA (NM 177346.2)
+Other Orphan Gene receptor - unspecified 32
+Gpr149 gene
+Gpr149 mRNA (NM 138891.1)
+FSH receptor
+FSH receptor
+FSHR gene
+FSHR mRNA (NM 000145.2)
+FSHR mRNA (NM 181446.1)
+FSH receptor
+Fshr gene
+Fshr mRNA (NM 013523.2)
+FSH receptor
+Fshr gene
+Fshr mRNA (NM 199237.1)
+Orphan (trace amine-like) receptor
+Orphan (trace amine-like) receptor - unspecified 1
+Orphan (trace amine-like) receptor - unspecified 1
+TAAR3 gene
+Orphan (trace amine-like) receptor - unspecified 1
+Taar3 gene
+Taar3 mRNA (NM 001008429.1)
+Orphan (trace amine-like) receptor - unspecified 1
+Taar3 gene
+AT2 receptor
+AT2 receptor
+AGTR2 gene
+AGTR2 mRNA (NM 000686.3)
+AT2 receptor
+Agtr2 gene
+Agtr2 mRNA (NM 007429.2)
+AT2 receptor
+Agtr2 gene
+Agtr2 mRNA (NM 012494.2)
+5-HT7 receptor
+5-HT7 receptor
+HTR7 gene
+HTR7 mRNA (NM 000872.3)
+HTR7 mRNA (NM 019859.2)
+HTR7 mRNA (NM 019860.2)
+5-HT7 receptor
+Htr7 gene
+Htr7 mRNA (NM 008315.1)
+5-HT7 receptor
+Htr7 gene
+Htr7 mRNA (NM 022938.1)
+Melatonin receptor
+MT1 receptor
+MT1 receptor
+MTNR1A gene
+MTNR1A mRNA (NM 005958.3)
+MT1 receptor
+Mtnr1a gene
+Mtnr1a mRNA (NM 008639.1)
+MT1 receptor
+Mtnr1a gene
+Mtnr1a mRNA (XM 001061841.1)
+Mtnr1a mRNA (XM 341441.3)
+Orphan (melatonin-like) receptor
+Orphan (melatonin-like) receptor - unspecified 1
+Orphan (melatonin-like) receptor - unspecified 1
+GPR50 gene
+GPR50 mRNA (NM 004224.1)
+Orphan (melatonin-like) receptor - unspecified 1
+Gpr50 gene
+Gpr50 mRNA (NM 010340.1)
+Orphan (melatonin-like) receptor - unspecified 1
+Gpr50 gene
+Gpr50 mRNA (XM 001067242.1)
+Gpr50 mRNA (XM 346374.3)
+OrphanA14 receptor
+OrphanA14 receptor - unspecified 1
+OrphanA14 receptor - unspecified 1
+GPR139 gene
+GPR139 mRNA (NM 001002911.2)
+OrphanA14 receptor - unspecified 1
+Gpr139 gene
+Gpr139 mRNA (NM 001024241.1)
+Cannabinoid receptor
+CB1 receptor
+CB1 receptor
+CNR1 gene
+CNR1 mRNA (NM 016083.3)
+CNR1 mRNA (NM 033181.2)
+CB1 receptor
+Cnr1 gene
+Cnr1 mRNA (NM 007726.3)
+CB1 receptor
+Cnr1 gene
+Cnr1 mRNA (NM 012784.3)
+Prokineticin receptor
+PKR2 receptor
+PKR2 receptor
+PROKR2 gene
+PROKR2 mRNA (NM 144773.2)
+PKR2 receptor
+Prokr2 gene
+Prokr2 mRNA (NM 144944.2)
+PKR2 receptor
+Prokr2 gene
+Prokr2 mRNA (NM 138978.1)
+Delta receptor
+Delta receptor
+OPRD1 gene
+OPRD1 mRNA (NM 000911.3)
+Delta receptor
+Oprd1 gene
+Oprd1 mRNA (NM 013622.2)
+Delta receptor
+Oprd1 gene
+Oprd1 mRNA (NM 012617.1)
+RXFP3 receptor
+RXFP3 receptor
+RXFP3 gene
+RXFP3 mRNA (NM 016568.1)
+RXFP3 receptor
+Rxfp3 gene
+Rxfp3 mRNA (NM 178717.2)
+RXFP3 receptor
+Rln3r1 gene
+Rln3r1 mRNA (NM 001008310.1)
+PKR1 receptor
+PKR1 receptor
+PROKR1 gene
+PROKR1 mRNA (NM 138964.2)
+PKR1 receptor
+Prokr1 gene
+Prokr1 mRNA (NM 021381.3)
+PKR1 receptor
+Prokr1 gene
+Prokr1 mRNA (NM 138977.1)
+Bradykinin receptor
+B2 receptor
+B2 receptor
+BDKRB2 gene
+BDKRB2 mRNA (NM 000623.2)
+B2 receptor
+Bdkrb2 gene
+Bdkrb2 mRNA (NM 009747.2)
+B2 receptor
+Bdkrb2 gene
+Bdkrb2 mRNA (NM 173100.1)
+MC1 receptor
+MC1 receptor
+MC1R gene
+MC1R mRNA (NM 002386.2)
+MC1 receptor
+Mc1r gene
+Mc1r mRNA (NM 008559.1)
+MC1 receptor
+Mc1r gene
+MT2 receptor
+MT2 receptor
+MTNR1B gene
+MTNR1B mRNA (NM 005959.3)
+MT2 receptor
+Mtnr1b gene
+Mtnr1b mRNA (NM 145712.1)
+MT2 receptor
+Mtnr1b gene
+Mtnr1b mRNA (XM 001074702.1)
+Mtnr1b mRNA (XM 345899.3)
+5-HT2B receptor
+5-HT2B receptor
+HTR2B gene
+HTR2B mRNA (NM 000867.2)
+5-HT2B receptor
+Htr2b gene
+Htr2b mRNA (NM 008311.1)
+5-HT2B receptor
+Htr2b gene
+Htr2b mRNA (NM 017250.1)
+Peptide P518 receptor
+QRFP receptor
+QRFP receptor
+GPR103 gene
+GPR103 mRNA (NM 198179.1)
+QRFP receptor
+Gpr103 gene
+Gpr103 mRNA (NM 175524.2)
+Nitric oxide synthase
+QRFP receptor
+Gpr103 gene
+Gpr103 mRNA (NM 198199.1)
+NTS1 receptor
+NTS1 receptor
+NTSR1 gene
+NTSR1 mRNA (NM 002531.1)
+NTS1 receptor
+Ntsr1 gene
+Ntsr1 mRNA (NM 018766.1)
+NTS1 receptor
+Ntsr1 gene
+Ntsr1 mRNA (XM 001059204.1)
+Ntsr1 mRNA (XM 345484.2)
+ALX receptor
+ALX receptor
+FPRL1 gene
+FPRL1 mRNA (NM 001005738.1)
+FPRL1 mRNA (NM 001462.3)
+ALX receptor
+Fprl1 gene
+Fprl1 mRNA (NM 008042.1)
+ALX receptor
+Fprl1 gene
+CXCR2 receptor
+CXCR2 receptor
+IL8RB gene
+IL8RB mRNA (NM 001557.2)
+CXCR2 receptor
+Il8rb gene
+Il8rb mRNA (NM 009909.3)
+CXCR2 receptor
+Il8rb gene
+Il8rb mRNA (NM 017183.1)
+EP1 receptor
+EP1 receptor
+PTGER1 gene
+PTGER1 mRNA (NM 000955.2)
+EP1 receptor
+Ptger1 gene
+Ptger1 mRNA (NM 013641.1)
+EP1 receptor
+Ptger1 gene
+Ptger1 mRNA (NM 013100.1)
+MC4 receptor
+MC4 receptor
+MC4R gene
+MC4R mRNA (NM 005912.1)
+MC4 receptor
+Mc4r gene
+Mc4r mRNA (NM 016977.2)
+MC4 receptor
+Mc4r gene
+Mc4r mRNA (NM 013099.2)
+Tachykinin receptor
+NK3 receptor
+NK3 receptor
+TACR3 gene
+TACR3 mRNA (NM 001059.1)
+NK3 receptor
+Tacr3 gene
+Tacr3 mRNA (NM 021382.2)
+NK3 receptor
+Tacr3 gene
+Tacr3 mRNA (NM 017053.1)
+Other Orphan Gene receptor - unspecified 33
+Other Orphan Gene receptor - unspecified 33
+GPR31 gene
+GPR31 mRNA (NM 005299.1)
+Other Orphan Gene receptor - unspecified 33
+Gpr31 gene
+Other Orphan Gene receptor - unspecified 33
+Gpr31 gene
+Gpr31 mRNA (XM 001070058.1)
+Gpr31 mRNA (XM 217867.2)
+Beta2 receptor
+Beta2 receptor
+ADRB2 gene
+ADRB2 mRNA (NM 000024.3)
+Beta2 receptor
+Adrb2 gene
+Adrb2 mRNA (NM 007420.2)
+Beta2 receptor
+Adrb2 gene
+Adrb2 mRNA (NM 012492.2)
+NK1 receptor
+NK1 receptor
+TACR1 gene
+TACR1 mRNA (NM 001058.2)
+TACR1 mRNA (NM 015727.1)
+NK1 receptor
+Tacr1 gene
+Tacr1 mRNA (NM 009313.3)
+NK1 receptor
+Tacr1 gene
+Tacr1 mRNA (NM 012667.1)
+DP receptor
+DP receptor
+PTGDR gene
+PTGDR mRNA (NM 000953.2)
+DP receptor
+Ptgdr gene
+Ptgdr mRNA (NM 008962.2)
+DP receptor
+Ptgdr gene
+Ptgdr mRNA (NM 022241.1)
+Orphan (Mas-related) receptor - unspecified 10
+Orphan (Mas-related) receptor - unspecified 10
+MRGPRX1 gene
+MRGPRX1 mRNA (NM 147199.2)
+Orphan (Mas-related) receptor - unspecified 10
+Mrgprc11 gene
+Mrgprc11 mRNA (NM 172158.2)
+Alpha2C receptor
+Alpha2C receptor
+ADRA2C gene
+ADRA2C mRNA (NM 000683.3)
+Alpha2C receptor
+Adra2c gene
+Adra2c mRNA (NM 007418.2)
+Alpha2C receptor
+Adra2c gene
+Adra2c mRNA (NM 138506.1)
+PAR1 receptor
+PAR1 receptor
+F2R gene
+F2R mRNA (NM 001992.2)
+PAR1 receptor
+F2r gene
+F2r mRNA (NM 010169.2)
+PAR1 receptor
+F2r gene
+F2r mRNA (NM 012950.2)
+Alpha2B receptor
+Alpha2B receptor
+ADRA2B gene
+ADRA2B mRNA (NM 000682.5)
+Alpha2B receptor
+Adra2b gene
+Adra2b mRNA (NM 009633.2)
+Alpha2B receptor
+Adra2b gene
+Adra2b mRNA (NM 138505.1)
+Alpha1B receptor
+Alpha1B receptor
+ADRA1B gene
+ADRA1B mRNA (NM 000679.3)
+Alpha1B receptor
+Adra1b gene
+Adra1b mRNA (NM 007416.2)
+Alpha1B receptor
+Adra1b gene
+Adra1b mRNA (NM 016991.2)
+5-HT6 receptor
+5-HT6 receptor
+HTR6 gene
+HTR6 mRNA (NM 000871.1)
+5-HT6 receptor
+Htr6 gene
+Htr6 mRNA (NM 021358.1)
+5-HT6 receptor
+Htr6 gene
+Htr6 mRNA (NM 024365.1)
+D4 receptor
+D4 receptor
+DRD4 gene
+DRD4 mRNA (NM 000797.2)
+D4 receptor
+Drd4 gene
+Drd4 mRNA (NM 007878.2)
+D4 receptor
+Drd4 gene
+Drd4 mRNA (NM 012944.1)
+Orexin (hypocretin) receptor
+OX1 receptor
+OX1 receptor
+HCRTR1 gene
+HCRTR1 mRNA (NM 001525.1)
+OX1 receptor
+Hcrtr1 gene
+Hcrtr1 mRNA (NM 198959.1)
+OX1 receptor
+Hcrtr1 gene
+Hcrtr1 mRNA (NM 013064.1)
+Other Orphan Gene receptor - unspecified 34
+Other Orphan Gene receptor - unspecified 34
+EBI2 gene
+EBI2 mRNA (NM 004951.3)
+Other Orphan Gene receptor - unspecified 34
+Ebi2 gene
+Ebi2 mRNA (NM 183031.2)
+Other Orphan Gene receptor - unspecified 34
+Ebi2 gene
+Other Orphan Gene receptor - unspecified 35
+Other Orphan Gene receptor - unspecified 35
+GPR18 gene
+GPR18 mRNA (NM 005292.2)
+Other Orphan Gene receptor - unspecified 35
+Gpr18 gene
+Gpr18 mRNA (NM 182806.1)
+Other Orphan Gene receptor - unspecified 35
+Gpr18 gene
+Other Orphan Gene receptor - unspecified 36
+Other Orphan Gene receptor - unspecified 36
+GPR15 gene
+GPR15 mRNA (NM 005290.1)
+Other Orphan Gene receptor - unspecified 36
+Gpr15 gene
+Gpr15 mRNA (XM 001059659.1)
+Gpr15 mRNA (XM 221546.1)
+OrphanA7 receptor
+OrphanA7 receptor - unspecified 1
+OrphanA7 receptor - unspecified 1
+GPR83 gene
+GPR83 mRNA (NM 016540.2)
+OrphanA7 receptor - unspecified 1
+Gpr83 gene
+Gpr83 mRNA (NM 010287.1)
+OrphanA7 receptor - unspecified 1
+Gpr83 gene
+Gpr83 mRNA (NM 080411.1)
+S1P2 receptor
+S1P2 receptor
+EDG5 gene
+EDG5 mRNA (NM 004230.2)
+S1P2 receptor
+Edg5 gene
+Edg5 mRNA (NM 010333.2)
+S1P2 receptor
+Edg5 gene
+Edg5 mRNA (NM 017192.1)
+OrphanLGR receptor - unspecified 3
+OrphanLGR receptor - unspecified 3
+LGR5 gene
+LGR5 mRNA (NM 003667.2)
+OrphanLGR receptor - unspecified 3
+Lgr5 gene
+Lgr5 mRNA (NM 010195.1)
+OrphanLGR receptor - unspecified 3
+Lgr5 gene
+Lgr5 mRNA (XM 235149.4)
+Alpha1D receptor
+Alpha1D receptor
+ADRA1D gene
+ADRA1D mRNA (NM 000678.2)
+Alpha1D receptor
+Adra1d gene
+Adra1d mRNA (NM 013460.4)
+Alpha1D receptor
+Adra1d gene
+Adra1d mRNA (NM 024483.1)
+Alpha1A receptor
+Alpha1A receptor
+ADRA1A gene
+ADRA1A mRNA (NM 000680.1)
+ADRA1A mRNA (NM 033302.1)
+ADRA1A mRNA (NM 033303.2)
+ADRA1A mRNA (NM 033304.1)
+Alpha1A receptor
+Adra1a gene
+Adra1a mRNA (NM 013461.2)
+Alpha1A receptor
+Adra1a gene
+Adra1a mRNA (NM 017191.1)
+Sst1 receptor
+Sst1 receptor
+SSTR1 gene
+SSTR1 mRNA (NM 001049.2)
+Sst1 receptor
+Sstr1 gene
+Sstr1 mRNA (NM 009216.2)
+Sst1 receptor
+Sstr1 gene
+Sstr1 mRNA (NM 012719.1)
+D5 receptor
+D5 receptor
+DRD5 gene
+DRD5 mRNA (NM 000798.3)
+D5 receptor
+Drd5 gene
+Drd5 mRNA (NM 013503.1)
+D5 receptor
+Drd5 gene
+Drd5 mRNA (NM 012768.1)
+IP1 receptor
+IP1 receptor
+PTGIR gene
+PTGIR mRNA (NM 000960.3)
+IP1 receptor
+Ptgir gene
+Ptgir mRNA (NM 008967.1)
+IP1 receptor
+Ptgir gene
+Ptgir mRNA (XM 001064016.1)
+Ptgir mRNA (XM 218457.3)
+OrphanA14 receptor - unspecified 2
+OrphanA14 receptor - unspecified 2
+GPR142 gene
+GPR142 mRNA (NM 181790.1)
+OrphanA14 receptor - unspecified 2
+Gpr142 gene
+Gpr142 mRNA (NM 181749.1)
+OrphanA14 receptor - unspecified 2
+Gpr142 gene
+Gpr142 mRNA (XM 221085.1)
+OrphanA13 receptor - unspecified 2
+OrphanA13 receptor - unspecified 2
+P2RY10 gene
+P2RY10 mRNA (NM 014499.2)
+P2RY10 mRNA (NM 198333.1)
+OrphanA13 receptor - unspecified 2
+P2ry10 gene
+P2ry10 mRNA (NM 172435.2)
+OrphanA13 receptor - unspecified 2
+P2ry10 gene
+P2ry10 mRNA (XM 001059224.1)
+P2ry10 mRNA (XM 228500.4)
+OrphanA6 receptor - unspecified 2
+OrphanA6 receptor - unspecified 2
+GPR45 gene
+GPR45 mRNA (NM 007227.3)
+OrphanA6 receptor - unspecified 2
+Gpr45 gene
+Gpr45 mRNA (NM 053107.2)
+OrphanA6 receptor - unspecified 2
+Gpr45 gene
+Gpr45 mRNA (XM 001060511.1)
+Gpr45 mRNA (XM 237112.3)
+H3 receptor
+H3 receptor
+HRH3 gene
+HRH3 mRNA (NM 007232.1)
+H3 receptor
+Hrh3 gene
+Hrh3 mRNA (NM 133849.1)
+H3 receptor
+Hrh3 gene
+Hrh3 mRNA (NM 053506.1)
+M5 receptor
+M5 receptor
+CHRM5 gene
+CHRM5 mRNA (NM 012125.2)
+M5 receptor
+Chrm5 gene
+Chrm5 mRNA (NM 205783.1)
+M5 receptor
+Chrm5 gene
+Chrm5 mRNA (NM 017362.4)
+M1 receptor
+M1 receptor
+CHRM1 gene
+CHRM1 mRNA (NM 000738.2)
+M1 receptor
+Chrm1 gene
+Chrm1 mRNA (NM 007698.2)
+M1 receptor
+Chrm1 gene
+Chrm1 mRNA (NM 080773.1)
+Other Orphan Gene receptor - unspecified 37
+Other Orphan Gene receptor - unspecified 37
+GPR33 gene
+Other Orphan Gene receptor - unspecified 37
+Gpr33 gene
+Gpr33 mRNA (NM 008159.1)
+Other Orphan Gene receptor - unspecified 37
+Gpr33 gene
+Gpr33 mRNA (NM 001031823.1)
+TA3 receptor
+TA3 receptor
+TAAR9 gene
+TAAR9 mRNA (NM 175057.2)
+TA3 receptor
+Taar9 gene
+TA3 receptor
+Taar9 gene
+Taar9 mRNA (NM 175602.1)
+TA5 receptor
+TA5 receptor
+TAAR8 gene
+TAAR8 mRNA (NM 053278.1)
+TA5 receptor
+Taar8a gene
+Taar8a mRNA (NM 001010830.1)
+TA5 receptor
+Taar8a gene
+Taar8a mRNA (NM 175599.1)
+Prostanoid receptor - unspecified 1
+Prostanoid receptor - unspecified 1
+GPR44 gene
+GPR44 mRNA (NM 004778.1)
+Prostanoid receptor - unspecified 1
+Gpr44 gene
+Gpr44 mRNA (NM 009962.2)
+Prostanoid receptor - unspecified 1
+Gpr44 gene
+Gpr44 mRNA (NM 022714)
+Other Orphan Gene receptor - unspecified 38
+Other Orphan Gene receptor - unspecified 38
+GPR101 gene
+GPR101 mRNA (NM 054021.1)
+Other Orphan Gene receptor - unspecified 38
+Gpr101 gene
+Gpr101 mRNA (XM 001053254.1)
+Gpr101 mRNA (XM 229186.4)
+MCH1 receptor
+MCH1 receptor
+MCHR1 gene
+MCHR1 mRNA (NM 005297.3)
+MCH1 receptor
+Mchr1 gene
+Mchr1 mRNA (NM 145132.1)
+MCH1 receptor
+Mchr1 gene
+Mchr1 mRNA (NM 031758.1)
+5-HT2C receptor
+5-HT2C receptor
+HTR2C gene
+HTR2C mRNA (NM 000868.1)
+5-HT2C receptor
+Htr2c gene
+Htr2c mRNA (NM 008312.2)
+5-HT2C receptor
+Htr2c gene
+Htr2c mRNA (NM 012765.2)
+OrphanA1 receptor - unspecified 2
+OrphanA1 receptor - unspecified 2
+GPR12 gene
+GPR12 mRNA (NM 005288.1)
+OrphanA1 receptor - unspecified 2
+Gpr12 gene
+Gpr12 mRNA (NM 001010941.2)
+Gpr12 mRNA (NM 008151.3)
+OrphanA1 receptor - unspecified 2
+Gpcr12 gene
+Gpcr12 mRNA (NM 001037295.1)
+Gpcr12 mRNA (NM 030831.1)
+Trace Amine receptor
+TA1 receptor
+TA1 receptor
+TAAR1 gene
+TAAR1 mRNA (NM 138327.1)
+TA1 receptor
+Taar1 gene
+Taar1 mRNA (NM 053205.1)
+TA1 receptor
+Taar1 gene
+Taar1 mRNA (NM 134328.1)
+CXCR5 receptor
+CXCR5 receptor
+BLR1 gene
+BLR1 mRNA (NM 001716.2)
+BLR1 mRNA (NM 032966.1)
+CXCR5 receptor
+Blr1 gene
+Blr1 mRNA (NM 007551.2)
+CXCR5 receptor
+Blr1 gene
+Blr1 mRNA (NM 053303.1)
+S1P4 receptor
+S1P4 receptor
+EDG6 gene
+EDG6 mRNA (NM 003775.2)
+S1P4 receptor
+Edg6 gene
+Edg6 mRNA (NM 010102.1)
+S1P4 receptor
+Edg6 gene
+Edg6 mRNA (XM 001075470.1)
+Edg6 mRNA (XM 234930.3)
+FFA2 receptor
+FFA2 receptor
+FFAR3 gene
+FFAR3 mRNA (NM 005304.2)
+FFA2 receptor
+Gpr41 gene
+Gpr41 mRNA (XM 001079302.1)
+Gpr41 mRNA (XM 344880.3)
+P2Y receptor - unspecified 1
+P2Y receptor - unspecified 1
+P2RY14 gene
+P2RY14 mRNA (NM 014879.2)
+P2Y receptor - unspecified 1
+P2ry14 gene
+P2ry14 mRNA (NM 001008497.1)
+P2ry14 mRNA (NM 133200.3)
+P2Y receptor - unspecified 1
+P2ry14 gene
+P2ry14 mRNA (NM 133577.1)
+P2Y6 receptor
+P2Y6 receptor
+P2RY6 gene
+P2RY6 mRNA (NM 004154.3)
+P2RY6 mRNA (NM 176796.1)
+P2RY6 mRNA (NM 176797.1)
+P2RY6 mRNA (NM 176798.1)
+P2Y6 receptor
+P2ry6 gene
+P2ry6 mRNA (NM 183168.1)
+P2Y6 receptor
+P2ry6 gene
+P2ry6 mRNA (NM 057124.2)
+Other Orphan Gene receptor - unspecified 39
+Other Orphan Gene receptor - unspecified 39
+GPR30 gene
+GPR30 mRNA (NM 001039966.1)
+GPR30 mRNA (NM 001505.2)
+Other Orphan Gene receptor - unspecified 39
+Gpr30 gene
+Gpr30 mRNA (NM 029771.1)
+Other Orphan Gene receptor - unspecified 39
+Gpr30 gene
+Gpr30 mRNA (NM 133573.1)
+B1 receptor
+B1 receptor
+BDKRB1 gene
+BDKRB1 mRNA (NM 000710.2)
+B1 receptor
+Bdkrb1 gene
+Bdkrb1 mRNA (NM 007539.2)
+B1 receptor
+Bdkrb1 gene
+Bdkrb1 mRNA (NM 030851.1)
+Platelet-activating factor receptor
+PAF receptor
+PAF receptor
+PTAFR gene
+PTAFR mRNA (NM 000952.3)
+PAF receptor
+Ptafr gene
+Ptafr mRNA (XM 357441.5)
+Ptafr mRNA (XM 911989.2)
+Ptafr mRNA (XM 974146.1)
+PAF receptor
+Ptafr gene
+Ptafr mRNA (NM 053321.2)
+GnRH receptor - unspecified 2
+GnRH receptor - unspecified 2
+GNRHR gene
+GNRHR mRNA (NM 000406.2)
+GNRHR mRNA (NM 001012763.1)
+GnRH receptor - unspecified 2
+Gnrhr gene
+Gnrhr mRNA (NM 010323.1)
+GnRH receptor - unspecified 2
+Gnrhr gene
+Gnrhr mRNA (NM 031038.3)
+TRH receptor
+TRH receptor
+TRHR gene
+TRHR mRNA (NM 003301.1)
+TRH receptor
+Trhr gene
+Trhr mRNA (NM 013696.1)
+TRH receptor
+Trhr gene
+Trhr mRNA (NM 013047.2)
+A3 receptor
+A3 receptor
+ADORA3 gene
+ADORA3 mRNA (NM 000677.2)
+ADORA3 mRNA (NM 020683.5)
+A3 receptor
+Adora3 gene
+Adora3 mRNA (NM 009631.2)
+A3 receptor
+Adora3 gene
+Adora3 mRNA (NM 012896.1)
+Y1 receptor
+Y1 receptor
+NPY1R gene
+NPY1R mRNA (NM 000909.4)
+Y1 receptor
+Npy1r gene
+Npy1r mRNA (NM 010934.1)
+Y1 receptor
+Npy1r gene
+Npy1r mRNA (NM 001013032.1)
+LPA3 receptor
+LPA3 receptor
+EDG7 gene
+EDG7 mRNA (NM 012152.1)
+LPA3 receptor
+Edg7 gene
+Edg7 mRNA (NM 022983.2)
+LPA3 receptor
+Edg7 gene
+Edg7 mRNA (NM 023969.1)
+CCR10 receptor
+CCR10 receptor
+CCR10 gene
+CCR10 mRNA (NM 016602.1)
+CCR10 receptor
+Ccr10 gene
+Ccr10 mRNA (XM 894898.2)
+Ccr10 mRNA (XM 905316.2)
+Ccr10 mRNA (XM 983479.1)
+CCR10 receptor
+Gpr2 gene
+Gpr2 mRNA (XM 001081453.1)
+Gpr2 mRNA (XM 343968.3)
+Y2 receptor
+Y2 receptor
+NPY2R gene
+NPY2R mRNA (NM 000910.2)
+Y2 receptor
+Npy2r gene
+Npy2r mRNA (NM 008731.1)
+Y2 receptor
+Npy2r gene
+Npy2r mRNA (NM 023968.1)
+EP4 receptor
+EP4 receptor
+PTGER4 gene
+PTGER4 mRNA (NM 000958.2)
+EP4 receptor
+Ptger4 gene
+Ptger4 mRNA (NM 008965.1)
+EP4 receptor
+Ptger4 gene
+Ptger4 mRNA (NM 032076.2)
+Ghrelin receptor
+Ghrelin receptor
+GHSR gene
+GHSR mRNA (NM 004122.1)
+GHSR mRNA (NM 198407.1)
+Ghrelin receptor
+Ghsr gene
+Ghsr mRNA (NM 177330.2)
+Ghrelin receptor
+Ghsr gene
+Ghsr mRNA (NM 032075.3)
+OX2 receptor
+OX2 receptor
+HCRTR2 gene
+HCRTR2 mRNA (NM 001526.2)
+OX2 receptor
+Hcrtr2 gene
+Hcrtr2 mRNA (NM 198962.1)
+OX2 receptor
+Hcrtr2 gene
+Hcrtr2 mRNA (NM 013074.1)
+Other Orphan Gene receptor - unspecified 40
+Other Orphan Gene receptor - unspecified 40
+GPR119 gene
+GPR119 mRNA (NM 178471.1)
+Other Orphan Gene receptor - unspecified 40
+Gpr119 gene
+Gpr119 mRNA (NM 181751.1)
+Other Orphan Gene receptor - unspecified 40
+Gpr119 gene
+Gpr119 mRNA (NM 181770.1)
+BB2 receptor
+BB2 receptor
+GRPR gene
+GRPR mRNA (NM 005314.2)
+BB2 receptor
+Grpr gene
+Grpr mRNA (NM 008177.1)
+BB2 receptor
+Grpr gene
+Grpr mRNA (NM 012706.1)
+GAL1 receptor
+GAL1 receptor
+GALR1 gene
+GALR1 mRNA (NM 001480.2)
+GAL1 receptor
+Galr1 gene
+Galr1 mRNA (NM 008082.1)
+GAL1 receptor
+Galr1 gene
+Galr1 mRNA (NM 012958.1)
+Other Orphan Gene receptor - unspecified 41
+Other Orphan Gene receptor - unspecified 41
+GPR176 gene
+GPR176 mRNA (NM 007223.1)
+Other Orphan Gene receptor - unspecified 41
+Gpr176 gene
+Gpr176 mRNA (NM 201367.1)
+Other Orphan Gene receptor - unspecified 41
+Gpr176 gene
+Gpr176 mRNA (XM 001080723.1)
+Gpr176 mRNA (XM 342493.3)
+FFA1 receptor
+FFA1 receptor
+FFAR1 gene
+FFAR1 mRNA (NM 005303.1)
+FFA1 receptor
+Ffar1 gene
+Ffar1 mRNA (NM 194057.1)
+FFA1 receptor
+Ffar1 gene
+Ffar1 mRNA (NM 153304.1)
+OrphanA1 receptor - unspecified 3
+OrphanA1 receptor - unspecified 3
+GPR3 gene
+GPR3 mRNA (NM 005281.2)
+OrphanA1 receptor - unspecified 3
+Gpr3 gene
+Gpr3 mRNA (NM 008154.2)
+OrphanA1 receptor - unspecified 3
+Gpr3 gene
+Gpr3 mRNA (NM 153727.1)
+Mu receptor
+Mu receptor
+OPRM1 gene
+OPRM1 mRNA (NM 000914.2)
+OPRM1 mRNA (NM 001008503.1)
+OPRM1 mRNA (NM 001008504.1)
+OPRM1 mRNA (NM 00100)
+Mu receptor
+Oprm1 gene
+Oprm1 mRNA (NM 001039652.1)
+Mu receptor
+Oprm1 gene
+Oprm1 mRNA (NM 001038597.1)
+Oprm1 mRNA (NM 001038598.1)
+Oprm1 mRNA (NM 001038599.1)
+Oprm1 mRNA (NM 00)
+Other Orphan Gene receptor - unspecified 42
+Other Orphan Gene receptor - unspecified 42
+GPR161 gene
+GPR161 mRNA (NM 007369.1)
+GPR161 mRNA (NM 153832.1)
+Other Orphan Gene receptor - unspecified 42
+RGD1563245 gene
+RGD1563245 mRNA (XM 001075481.1)
+RGD1563245 mRNA (XM 222837.4)
+A2A receptor
+A2A receptor
+ADORA2A gene
+ADORA2A mRNA (NM 000675.3)
+A2A receptor
+Adora2a gene
+Adora2a mRNA (NM 009630.1)
+A2A receptor
+Adora2a gene
+Adora2a mRNA (NM 053294.3)
+CX3CR1 receptor
+CX3CR1 receptor
+CX3CR1 gene
+CX3CR1 mRNA (NM 001337.3)
+CX3CR1 receptor
+Cx3cr1 gene
+Cx3cr1 mRNA (NM 009987.3)
+CX3CR1 receptor
+Cx3cr1 gene
+Cx3cr1 mRNA (NM 133534.1)
+CCR4 receptor
+CCR4 receptor
+CCR4 gene
+CCR4 mRNA (NM 005508.4)
+CCR4 receptor
+Ccr4 gene
+Ccr4 mRNA (NM 009916.1)
+CCR4 receptor
+Ccr4 gene
+Ccr4 mRNA (NM 133532.2)
+CysLT1 receptor
+CysLT1 receptor
+CYSLTR1 gene
+CYSLTR1 mRNA (NM 006639.2)
+CysLT1 receptor
+Cysltr1 gene
+Cysltr1 mRNA (NM 021476.2)
+CysLT1 receptor
+Cysltr1 gene
+Cysltr1 mRNA (NM 053641.1)
+BLT2 receptor
+BLT2 receptor
+LTB4R2 gene
+LTB4R2 mRNA (NM 019839.1)
+BLT2 receptor
+Ltb4r2 gene
+Ltb4r2 mRNA (NM 020490.1)
+BLT2 receptor
+Ltb4r2 gene
+Ltb4r2 mRNA (NM 053640.1)
+OrphanA12 receptor - unspecified 2
+OrphanA12 receptor - unspecified 2
+GPR23 gene
+GPR23 mRNA (NM 005296.1)
+OrphanA12 receptor - unspecified 2
+Gpr23 gene
+Gpr23 mRNA (NM 175271.2)
+OrphanA12 receptor - unspecified 2
+Gpr23 gene
+Gpr23 mRNA (XM 001059155.1)
+Gpr23 mRNA (XM 228501.4)
+NK2 receptor
+NK2 receptor
+TACR2 gene
+TACR2 mRNA (NM 001057.1)
+NK2 receptor
+Tacr2 gene
+Tacr2 mRNA (NM 009314.2)
+NK2 receptor
+Tacr2 gene
+Tacr2 mRNA (NM 080768.1)
+Other Orphan Gene receptor - unspecified 43
+Other Orphan Gene receptor - unspecified 43
+GPR141 gene
+GPR141 mRNA (NM 181791.1)
+Other Orphan Gene receptor - unspecified 43
+Gpr141 gene
+Gpr141 mRNA (NM 181754.2)
+Other Orphan Gene receptor - unspecified 43
+Gpr141 gene
+Gpr141 mRNA (NM 181767.1)
+TSH receptor
+TSH receptor
+TSHR gene
+TSHR mRNA (NM 000369.2)
+TSHR mRNA (NM 001018036.1)
+TSH receptor
+Tshr gene
+Tshr mRNA (NM 011648.3)
+TSH receptor
+Tshr gene
+Tshr mRNA (NM 012888.1)
+Prolactin releasing peptide receptor
+PRRP receptor
+PRRP receptor
+PRLHR gene
+PRLHR mRNA (NM 004248.2)
+PRRP receptor
+Prlhr gene
+Prlhr mRNA (NM 201615.1)
+PRRP receptor
+Prlhr gene
+Prlhr mRNA (NM 139193.3)
+FFA3 receptor
+FFA3 receptor
+FFAR2 gene
+FFAR2 mRNA (NM 005306.1)
+FFA3 receptor
+Ffar2 gene
+Ffar2 mRNA (NM 146187.2)
+FFA3 receptor
+Gpr43 gene
+Gpr43 mRNA (NM 001005877.1)
+P2Y13 receptor
+P2Y13 receptor
+P2RY13 gene
+P2RY13 mRNA (NM 023914.2)
+P2RY13 mRNA (NM 176894.1)
+P2Y13 receptor
+P2ry13 gene
+P2ry13 mRNA (NM 028808.1)
+P2Y13 receptor
+P2ry13 gene
+P2ry13 mRNA (NM 001002853.1)
+Orphan (P2Y-like) receptor
+Orphan (P2Y-like) receptor - unspecified 1
+Orphan (P2Y-like) receptor - unspecified 1
+GPR87 gene
+GPR87 mRNA (NM 023915.2)
+Orphan (P2Y-like) receptor - unspecified 1
+Gpr87 gene
+Gpr87 mRNA (NM 032399.1)
+Orphan (P2Y-like) receptor - unspecified 1
+Gpr87 gene
+Gpr87 mRNA (XM 001058288.1)
+Gpr87 mRNA (XM 227177.4)
+EP3 receptor
+EP3 receptor
+PTGER3 gene
+PTGER3 mRNA (NM 000957.2)
+PTGER3 mRNA (NM 198712.2)
+PTGER3 mRNA (NM 198713.1)
+PTGER3 mRNA (NM 198714.1)
+EP3 receptor
+Ptger3 gene
+Ptger3 mRNA (NM 011196.2)
+EP3 receptor
+Ptger3 gene
+Ptger3 mRNA (NM 012704.1)
+Beta1 receptor
+Beta1 receptor
+ADRB1 gene
+ADRB1 mRNA (NM 000684.2)
+Beta1 receptor
+Adrb1 gene
+Adrb1 mRNA (NM 007419.1)
+Beta1 receptor
+Adrb1 gene
+Adrb1 mRNA (NM 012701.1)
+P2Y4 receptor
+P2Y4 receptor
+P2RY4 gene
+P2RY4 mRNA (NM 002565.3)
+P2Y4 receptor
+P2ry4 gene
+P2ry4 mRNA (NM 020621.2)
+P2Y4 receptor
+P2ry4 gene
+P2ry4 mRNA (NM 031680.1)
+Sst4 receptor
+Sst4 receptor
+SSTR4 gene
+SSTR4 mRNA (NM 001052.1)
+Sst4 receptor
+Sstr4 gene
+Sstr4 mRNA (NM 009219.2)
+Sst4 receptor
+Sstr4 gene
+Sstr4 mRNA (NM 013036.2)
+CCR7 receptor
+CCR7 receptor
+CCR7 gene
+CCR7 mRNA (NM 001838.2)
+CCR7 receptor
+Ccr7 gene
+Ccr7 mRNA (NM 007719.1)
+CCR7 receptor
+Ccr7 gene
+Ccr7 mRNA (NM 199489.2)
+CCK1 receptor
+CCK1 receptor
+CCKAR gene
+CCKAR mRNA (NM 000730.2)
+CCK1 receptor
+Cckar gene
+Cckar mRNA (NM 009827.1)
+CCK1 receptor
+Cckar gene
+Cckar mRNA (NM 012688.1)
+S1P3 receptor
+S1P3 receptor
+EDG3 gene
+EDG3 mRNA (NM 005226.2)
+S1P3 receptor
+Edg3 gene
+Edg3 mRNA (NM 010101.2)
+S1P3 receptor
+Edg3 gene
+Urotensin receptor
+UT receptor
+UT receptor
+UTS2R gene
+UTS2R mRNA (NM 018949.1)
+UT receptor
+Uts2r gene
+Uts2r mRNA (NM 145440.1)
+UT receptor
+Uts2r gene
+Uts2r mRNA (NM 020537.1)
+M2 receptor
+M2 receptor
+CHRM2 gene
+CHRM2 mRNA (NM 000739.2)
+CHRM2 mRNA (NM 001006626.1)
+CHRM2 mRNA (NM 001006627.1)
+CHRM2 mRNA (NM 00100)
+M2 receptor
+Chrm2 gene
+Chrm2 mRNA (NM 203491.1)
+M2 receptor
+Chrm2 gene
+Chrm2 mRNA (NM 031016.1)
+S1P1 receptor
+S1P1 receptor
+EDG1 gene
+EDG1 mRNA (NM 001400.3)
+S1P1 receptor
+Edg1 gene
+Edg1 mRNA (NM 007901.3)
+S1P1 receptor
+Edg1 gene
+Edg1 mRNA (NM 017301.2)
+TA4 receptor
+TA4 receptor
+TAAR6 gene
+TAAR6 mRNA (NM 175067.1)
+TA4 receptor
+Taar6 gene
+Taar6 mRNA (NM 001010828.1)
+TA4 receptor
+Taar6 gene
+Taar6 mRNA (NM 175584.1)
+Sst3 receptor
+Sst3 receptor
+SSTR3 gene
+SSTR3 mRNA (NM 001051.2)
+Sst3 receptor
+Sstr3 gene
+Sstr3 mRNA (NM 009218.2)
+Sst3 receptor
+Sstr3 gene
+Sstr3 mRNA (NM 133522.1)
+Orphan (trace amine-like) receptor - unspecified 2
+Orphan (trace amine-like) receptor - unspecified 2
+TAAR5 gene
+TAAR5 mRNA (NM 003967.1)
+Orphan (trace amine-like) receptor - unspecified 2
+Taar5 gene
+Taar5 mRNA (NM 001009574.1)
+Orphan (trace amine-like) receptor - unspecified 2
+Taar5 gene
+Taar5 mRNA (NM 001009650.1)
+CB2 receptor
+Proteoglycan
+CB2 receptor
+CNR2 gene
+CNR2 mRNA (NM 001841.1)
+CB2 receptor
+Cnr2 gene
+Cnr2 mRNA (NM 009924.2)
+CB2 receptor
+Cnr2 gene
+Cnr2 mRNA (NM 020543.3)
+Sst5 receptor
+Sst5 receptor
+SSTR5 gene
+SSTR5 mRNA (NM 001053.1)
+Sst5 receptor
+Sstr5 gene
+Sstr5 mRNA (NM 011425.1)
+Sst5 receptor
+Sstr5 gene
+Sstr5 mRNA (NM 012882.1)
+CCR1 receptor
+CCR1 receptor
+CCR1 gene
+CCR1 mRNA (NM 001295.2)
+CCR1 receptor
+Ccr1 gene
+Ccr1 mRNA (NM 009912.2)
+CCR1 receptor
+Ccr1 gene
+Ccr1 mRNA (NM 020542.2)
+SPC/LPC receptor - unspecified 4
+SPC/LPC receptor - unspecified 4
+GPR68 gene
+GPR68 mRNA (NM 003485.3)
+SPC/LPC receptor - unspecified 4
+Gpr68 gene
+Gpr68 mRNA (NM 175493.2)
+SPC/LPC receptor - unspecified 4
+Gpr68 gene
+Gpr68 mRNA (XM 001065526.1)
+Gpr68 mRNA (XM 234483.3)
+Orphan (trace amine-like) receptor - unspecified 3
+Orphan (trace amine-like) receptor - unspecified 3
+TAAR2 gene
+TAAR2 mRNA (NM 001033080.1)
+TAAR2 mRNA (NM 014626.2)
+Orphan (trace amine-like) receptor - unspecified 3
+Taar2 gene
+Taar2 mRNA (NM 001007266.1)
+Orphan (trace amine-like) receptor - unspecified 3
+Gpr58 gene
+Gpr58 mRNA (NM 001008512.1)
+Rattus norvegicus genome
+Mus musculus genome
+Homo sapiens genome
+Transmembrane ionic current
+Sodium current
+Potassium current
+Calcium current
+Choride current
+Non-selective current
+Calcium-dependent potassium current
+Chondroitin sulfate proteoglycan
+Neurofilament 150kD mRNA
+Neurofilament 200kD mRNA
+Neurofilament 68kD mRNA
+Horse radish peroxidase
+Interleukin
+Leptin
+Aspartate
+Excitatory neurotransmitter
+Lysosome associated membrane protein
+EAAT3
+Apolipoprotein
+Apolipoprotein E
+Apolipoprotein J
+Beta secretase 1
+Beta secretase 2
+Prion protein
+MAP kinase
+Excitatory postsynaptic current
+Inhibitory postsynaptic current
+Nesfatin 1
+GABA receptor role
+Noradrenergic receptor role
+Peptidergic receptor role
+Acetylcholine receptor role
+Glutamate receptor role
+Calbindin 28K
+Vesicular glutamate transporter 1
+Vesicular acetylcholine transporter
+Vesicular glutamate transporter 2
+Anterograde tracer
+Retrograde tracer
+Post mortem tracer
+Transneuronal tracer
+Biocytin
+Dextran conjugate
+Biotin dextran
+Dextran fluorescent
+Carbocyanine dye
+DiA
+DiAsp
+DiI
+DiO
+Neurobiotin
+WGA-HRP
+Diamidino yellow
+Fluorogold
+A current
+I A, slow
+Glutathione
+Beta secretase
+Aspartic Acid
+Huntingtin
+Molecule role
+BDNF
+NGF
+NNT-1
+NT-3
+Enzyme
+Receptor role
+Autoreceptor
+Ionotropic Glutamate Receptor
+Kainate Receptor
+Metabotropic Glutamate Receptor
+MGluR1
+MGluR2
+MGluR3
+MGluR4
+MGluR5
+MGluR6
+MGluR7
+MGluR8
+Dopamine transporter
+Doublecortin
+Endocannabinoid
+Neurotransmitter role
+Excitatory amino acid
+Biomarker
+Fragile X mental retardation protein
+FOS protein
+Inhibitory neurotransmitter
+GABA-gated anionic channel
+Gamma secretase
+Secretase
+Fluorescent protein
+Cyan fluorescent protein
+Green fluorescent protein
+Red fluorescent protein
+Yellow fluorescent protein
+Enhanced green fluorescent protein
+Glial cell derived neurotrophic factor
+Excitotoxin
+Alpha bungarotoxin
+Bungarotoxin
+ERK
+ErkA
+ErkB
+MAP1
+p25
+DOPA decarboxylase
+MAP1B
+Beta-Amyloid 40
+Beta-Amyloid 42
+Intercellular Gap Junction Channel
+SERCA2
+S100 beta
+Cell Adhesion Molecule
+Connexin 43
+SERCA2b
+Membrane Pump
+Neurofilament Protein
+Kv3
+Sidekick
+SERCA3
+Amyloid Precursor Protein
+MRNA
+Transporter Protein
+Neurexin
+Microtubule Associated Protein
+Neurofilament 200kd
+Beta Tubulin
+Pigment
+SAP90
+Synthetic Enzyme
+Scaffolding Protein
+Actin Bundling Protein
+GluR1
+Alpha 7 Acetylcholine Receptor
+GluR2
+Glutamate Transporter
+Syndecan
+Monoamines
+Neurotransmitter Associated Protein
+Extracellular Matrix Protein
+Catecholamine
+Cadherin
+Neurotrophin
+Kv3.2
+Calcium Activated Potassium Channel
+Beta Neurexin
+GlurR3
+Syndecan-2
+Calsequestrin
+Amino Acid
+Contactin
+NeurabinI
+Aquaporin 4
+Dynamin
+EAAT2
+Cytoskeletal Protein
+Cytokine
+Vesicle Binding Protein
+SERCA
+Alpha Actinin
+Growth Factor
+Acetylcholine Receptor
+Olig2
+MAP2
+Intracellular Calcium Channel
+Glutamate
+Nicotinic Acetylcholine Receptor
+Nuclear DNA
+Actin Binding Protein
+Sodium Channel
+RIM1
+Acetylcholinesterase
+RNA
+Neurofilament 150kd
+Integrin
+Calcium Channel
+Acetylcholine
+Neurofascin
+IP3R Type 2
+Endoplasmin
+Glycogen
+Neuromelanin
+IP3R Type 3
+EAAT1
+Spinophliln
+Connexin
+Calreticulin
+Muscarinic Acetylcholine Receptor
+Adenine Nucleotide Transporter
+Neuropeptide
+Ribosomal RNA
+Inositol 1 4 5 Trisphosphate Receptor
+Calcium binding protein role
+Synapsin
+Precursor
+Tumor Necrosis Factor Alpha
+Molecular Motor
+GABA
+SERCA1
+G Coupled Receptor
+Alpha-Synuclein RNA
+G-actin
+AMPA Receptor
+Protein
+Beta-Synuclein Protein
+Dopamine Transporter Type 1
+Tyrosine Hydroxylase
+Myelin Associated Protein
+MAP5
+Glial Fibrillary Acidic Protein
+Alpha Tubulin
+Neural Cell Adhesion Molecule
+ANT-2
+Voltage Gated Potassium Channel
+Connexin 32
+IP3R Type 1
+DNA
+Neurofilament 68kd
+Beta-Amyloid
+KIF3A
+Synuclein Protein
+Molecule
+Clathrin
+Mitochondrial DNA
+Spectrin
+Alpha-Synuclein DNA
+Alpha-Synuclein Protein
+Gamma-Synuclein Protein
+Platelet Derived Growth Factor
+ANT-1
+Carbohydrate
+Respiratory Chain Complex
+RSlo
+Cytoskeletal Associated Protein
+Parkin
+PSD95
+non-ABeta component
+Potassium Channel
+Tubulin
+Tissue Plasminogen Activator
+Neurotrophin-4
+EAAT4
+ERp57
+Degradative Enzyme
+Serotonin
+Choline Acetyltransferase
+Amyloid Protein
+Myelin Basic Protein
+Voltage Gated Sodium Channel
+Transporter
+NMDA Receptor
+Actin Associated Protein
+SERCA2a
+Nucleic Acid
+Synoretin
+F-actin
+Protocadherin
+SAP97
+Transcription Factor
+Ubiquitin
+Rho GTPase
+L1
+Actin
+Synaptic Vesicle Associated Protein
+Ion Channel
+Lipofuscin
+Synphilin-1
+Interleukin-1
+Ryanodine Receptor
+Glycine
+Water Channel
+Alpha 3 Acetylcholine Receptor
+GABRA2
+GABRA1
+Toxin
+Dopamine beta-hydroxylase
+Phenylethanolamine N-Methyltransferase
+L DOPA
+Melatonin
+Glucose
+Dopamine
+Molecular entity
+Glucocorticoid
+Sphingolipid
+Ganglioside
+Alkali metal cation
+Polyatomic entity
+DOPA
+Neurotoxin
+Insulin
+Phalloidin
+Fluoro ruby
+Molecule
+Catechol-O-Methyltransferase
+Methyltransferase, Catechol
+CATECHOL METHYLTRANSFERASE O
+Catechol Methyltransferase
+O-Methyltransferase, Catechol
+S-Adenosyl-L-methionine:catechol O-methyltransferase
+Catechol O Methyltransferase
+Oxidase, Tyramine
+Monoamine Oxidase
+Tyramine Oxidase
+MAO-A
+Monoamine Oxidase A
+MAO-B
+Monoamine Oxidase B
+Oxidase, Monoamine
+Type A Monoamine Oxidase
+Type B Monoamine Oxidase
+Amine:oxygen oxidoreductase (deaminating) (flavin-containing)
+MAO
+MAO B
+Amine Oxidase (Flavin-Containing)
+MAO A
+Adrine
+Primatene Mist
+Astminhal
+Adrenaline
+Adrenor
+Levoepinephrine
+Renostypricin
+L-Adrenaline Base
+Biorenine
+Suprarenin
+Asthma-Nefrin
+D-Adrenaline
+Epifrin
+Septocaine
+Supranephrine
+Adrenan
+Epinephran
+Duranest
+Haemostatin
+Vasoton
+Kidoline
+Glaucon
+ADROP
+L-Adrenaline
+Supracapsulin
+D-Epinephrine
+Ana-Guard
+Intranefrin
+Levorenine
+Hypernephrin
+Hemisine
+Epinefrina (INN-Spanish)
+L-Epinephrine
+Corisol
+Tonogen
+Suprarenaline
+Glycirenan
+Aktamin
+Soladren
+Surrenine
+Takamine
+Epipen EZ Pen
+Renostypticin
+Epiglaufrin
+Epipen
+Levorenin
+Asmatane Mist
+Epipen Auto-Injector
+Iontocaine
+Nephron
+Epirenamine
+D-Epifrin
+L-Epirenamine
+Epinephrine Bitartrate
+Susphrine
+Sindrenina
+Epitrate
+Sympathin E
+Epinephrinum (INN-Latin)
+Adrin
+Epirenin
+Astmahalin
+Eppy
+L-Epinephine
+Adrenapax
+Levoadrenaline
+Adrenal
+Epirenan
+Adrenutol
+Racepinefrina (inn-spanish)
+Asthma Meter Mist
+Renaleptine
+Nephridine
+Norartrinal
+Racepinefrinum (inn-latin)
+Tolansin
+Antiasthmatique
+Medihaler-Epi
+Glauposine
+Vasotonin
+Scurenaline
+Hemostatin
+Lyophrin
+Levorenen
+Stryptirenal
+Hektalin
+Adrenalin-Medihaler
+Adrenasol
+Adrenalina
+Racepinefrine
+Nieraline
+Adrenine
+Adrenosan
+Exadrin
+Asthmanefrin
+Supradin
+Myosthenine
+Adrenodis
+Renaglandulin
+Supranol
+Suprel
+Epipen Jr
+adrenaline
+Styptirenal
+Vasoconstrictine
+Mytrate
+Renalina
+Vaponefrin
+Bronkaid Suspension Mist
+Adrenohorma
+Drenamist
+IOP
+Brevirenin
+Asthmahaler Mist
+Renagladin
+Bernarenin
+Hyporenin
+Adrenamine
+Supranefran
+Lidocaton
+Tolax
+Auto-Injector
+Vasodrine
+Takamina
+Citanest Forte
+Tokamina
+Isoptoepinal
+Bronkaid Mist
+Metanephrin
+Mucidrina
+Micronefrin
+Hemostasin
+Adrenatrate
+Epi EZ Pen Jr
+Dylephrin
+Simplene
+Esphygmogenina
+Paranephrin
+Bosmin
+Balmadren
+Sympathin I
+Adrenalin Chloride
+Adrenalin
+Renoform
+Glaucosan
+ADR Adrenaline
+Supranephrane
+Nor-Epirenan
+Epinefrin (Czech)
+Chelafrin
+Surenine
+Twinject
+Sphygmogenin
+Levonor
+Tolhart
+Renaglandin
+Sus-Phrine
+Adrenalinum
+Adnephrine
+Tolcil
+Racepinephrine
+Haemostasin
+L-Adrenalin
+Bronkaid
+Renostyptin
+Laminin
+Voltage-gated ion channel
+Na+ channel
+sodium channel
+Nav channel
+Ca+2 channel
+calcium channel
+Cav channel
+Ca++ channel
+K+ channel
+Kca channel
+Kir channel
+K2p channel
+CNG channel
+HCN channel
+TRP channel
+BKbeta2
+SUR
+R-I
+rat I
+brain type I
+SCN1A
+brain type II
+R-II
+rat II
+SCN2A2
+brain type 3
+rat 3
+R-III
+SCN3A
+m1
+SkM1
+SCN4A
+skm II
+hI
+cardiac sodium channel
+SCN5A
+PN4
+NaCh6
+CerIII
+SCN8A
+PN1
+Nas
+hNE-Na
+SCN9A
+PN3
+SNS
+SCN10A
+SNS-2
+NaN
+SCN11A
+NaG
+Atypical sodium channel
+SCN7A
+skeletal muscle dihydropyridine receptor
+skeletal muscle L-type Ca channel
+a1S
+CACNA1S
+cardiac or smooth muscle L-type Ca channel
+cardiac or smooth muscle dihydropyridine receptor
+a1C
+CACNA1C
+a1D
+neuroendocrine' L-type Ca channel
+CACNA1D
+a1F
+CACNA1F
+a1A
+BI-1
+rBA-1 (rat)
+BI-2 (rabbit)
+Q-type
+P-type
+CACNA1A
+N-type
+rbB-II (rat)
+BIII (rabbit)
+a1B
+rbB-I
+CACNA1B
+rbE-II (rat)
+a1E
+BII-2 (rabbit)
+BII-1
+R-type
+CACNA1E
+a1G
+CavT.1
+T-type
+CACNA1G
+T-type
+a1H
+CavT.2
+CACNA1H
+a1I
+T-type
+CACNA1I
+voltage-gated channel like 1
+VGCNL1
+HuK(I)
+MK1
+HBK1
+MBK1
+RBK1
+RCK1
+KCNA1
+BK2
+XSha2
+NGK1
+RAK
+MK2
+RCK5
+BGK5
+HuK(IV)
+HBK5
+KCNA2
+RGK5
+RCK3
+HLK3
+HGK5
+MK3
+KV3
+HuK(III)
+MBK3
+hPCN3
+KCNA3
+hPCN2
+HuK(II)
+HK1
+RK4
+RHK1
+RCK4
+RK8
+MK4
+KCNA4
+fHK
+HCK1
+RMK2
+KV1
+HK2
+RK3
+hPCN1
+HuK(II)
+KCNA5
+KCNA6
+KV2
+RCK2
+HBK2
+MK1.6
+KCNA6
+KCNA7
+KCNA7
+KCNA10
+Kv1.10
+Kcn1
+KCNA10
+hDRK1
+DRK1
+KCNB1
+KCNB2
+CDRK
+KCNB2
+type I channel in T cells
+NGK2
+Raw2
+Kv3.1
+KV4
+KCNC1
+Raw1
+RKShIIIA
+Kv3.2a
+rKv3.2c
+rKv3.2b
+KCNC2
+Kv3.3b
+RKShIIID
+hKv3.3
+mKv3.3
+KCNC3
+mKv3.4
+HKShIIIC
+Raw3
+KCNC4
+mShal
+KCND1
+RK5
+Shal1
+KCND2
+KCND3
+IK8
+KCNF1
+KH1
+KCNF1
+K13
+KH2
+KCNG1
+KCNG2
+KCNG2
+Kv10.1
+KCNG3
+KCNG3
+KCNG4
+slow delayed rectifier
+KVLQT1
+KCNQ1
+KCNQ2
+KQT2
+KCNQ2
+KCNQ3
+KCNQ3
+KCNQ4
+KCNQ4
+KCNQ5
+KCNQ5
+Kv2.3
+HNKA
+KCNV1
+KCNV2
+KCNS1
+KCNS2
+KCNS3
+ether-a-go-go
+KCNH1b
+KCNH1a
+eag1a
+eag1b
+KCNH1
+eag2
+KCNH5
+KCNH5
+KCNH2
+Hergb
+erg1
+human ether-a-go-go-related gene
+HERG
+KCNH2
+erg2
+KCNH6
+erg3
+KCNH7
+elk1
+elk3
+KCNH8
+Elk2
+KCNH3
+BEC1
+KCNH3
+BEC2
+KCNH4
+elk1
+KCNH4
+maxi K+ channel
+KCNMA1
+Slo
+BK channel
+KCNMA1
+SK1
+KCNN1
+SKCa1
+KCNN1
+SK2
+SKCa2
+KCNN2
+KCNN2
+hKCa3
+KCNN3
+SK3
+SKCa3
+KCNN3
+IKCa1
+SK4
+IK1
+KCNN4
+KCa4
+Gardos channel
+KCNN4
+mSlo2
+KCNT1
+Slick
+Slo2.1
+KCNT2
+Slo3
+KCNMC1
+KCNMC1
+ROMK1
+KCNJ1
+IRK1
+KCNJ2
+IRK2
+KCNJ12
+IRK3
+HIR
+hIRK2
+HRK1
+KCNJ4
+IRK4
+KCNJ14
+GIRK1
+KGA
+KCNJ3
+GIRK2
+KCNJ6
+GIRK3
+KCNJ9
+GIRK4
+KCNJ5
+BIR10
+KAB-2
+Kir1.2
+KCNJ10
+Kir1.3
+ROMK3
+KCNJ15
+KCNJ16
+uKATP-1
+KCNJ8
+BIR
+KCNJ11
+KCNJ13
+KCNK1
+hONO
+TWIK-1
+KCNK1
+TREK-1
+TPKC1
+KCNK2
+KCNK2
+TBAK-1
+KCNK3
+OAT-1
+TASK-1
+KCNK3
+TRAAK
+KCNK4
+KCNK4
+TASK-2
+KCNK5
+KCNK5
+TOSS
+TWIK-2
+KCNK6
+KCNK6
+kcnk8
+KCNK7
+KCNK7
+TASK-3
+KCNK9
+KCNK9
+KCNK10
+TREK-2
+KCNK10
+KCNK12
+THIK-2
+KCNK12
+KCNK13
+THIK-1
+KCNK13
+TASK-5
+KT3.3
+KCNK15
+KCNK15
+KCNK16
+TALK-1
+KCNK16
+TALK-2
+TASK-4
+KCNK17
+KCNK17
+TRIK
+TRIK
+CNGa1
+RCNC1
+CNG1
+CNGA1
+CNG2
+CNGa3
+OCNC1
+CNGA2
+CNGa2
+CNG3
+CCNC1
+CNGA3
+CNGB2
+CNG5
+CNGa4
+OCNC2
+CNGA4
+CNGb1
+RCNC2
+CNG4
+CNGB1
+CNG6
+CNGb2
+CCNC2
+CNGB3
+HAC2
+BCNG1
+HCN1
+HAC1
+BCNG2
+HCN2
+HAC3
+BCNG4
+HCN3
+BCNG3
+HAC4
+HCN4
+TRP1
+TRPC1
+pseudogene
+mTRPC3
+TRPC3
+TRP4
+bCCE
+CCE1
+TRPC4
+CCE2
+TRP5
+TRPC5
+TRPC6
+TRP7
+TRPC7
+VR1
+OTRPC1
+TRPV1
+GRC
+OTRPC2
+VRL-1
+TRPV2
+TRPV3
+VR-OAC
+OTRPC4
+TRPV4
+ECaC1
+CaT2
+TRPV5
+CaT1
+ECaC2
+TRPV6
+TRPM1
+LTRPC2
+TRPC7
+TRPM2
+MLSN2
+LTRPC3
+TRPM3
+TRPM4
+MTR1
+LTRPC5
+TRPM5
+ChaK2
+TRPM6
+ChaK(1)
+LTRPC7
+TRP-PLIK
+TRPM7
+Trp-p8
+CMR1
+TRPM8
+ankyrin-like with transmembrane domains 1
+ANKTM1
+polycystic kidney disease 2
+polycystin-2
+PKD2
+polycystic kidney disease 2-like 1
+PKD2L1
+polycystic kidney disease 2-like 2
+PKD2L2
+mucolipin 1
+MCOLN1
+mucolipin 2
+MCOLN2
+mucolipin 3
+MCOLN3
+CATSPER1
+CATSPER2
+CACRC
+CATSPER3
+BN000273
+CATSPER4
+two-pore channel-1
+TPCN1
+two-pore channel-2
+TPCN2
+b-alanine
+GPCR
+7TM membrane receptor
+Norepinephrine
+L-Norepinephrine
+Arterenol
+Levophed
+Noradrenaline
+noradrenaline
+L-noradrenaline
+b-phenylethylamine
+C-C motif chemokine
+eotaxin
+CCK
+LHRH
+Luteinizing-hormone releasing hormone
+Gonadotropin-releasing hormone
+gonadorelin
+a-melanocyte stimulating hormone
+b-melanocyte stimulating hormone
+g-melanocyte stimulating hormone
+b-endorphin
+orphanin FQ
+hypocretin
+hypocretin 1
+hypocretin 2
+Relaxin-3
+pyridine-3-carboxylic acid
+long chain carboxylic acid
+lipid
+Bile acid
+CGS21680
+CV 1808
+WRC 0470
+a-ketoglutarate
+P2X receptor-linked ion channel
+ATP2x receptor-linked ion channel
+P2X receptor
+ATP2x receptor
+Glutamate receptor
+GluR
+GABA A receptor
+GABA C receptor
+GABA(C)
+GABAC
+GABA-C
+Glycine receptor
+GluCl glutamate receptor
+nAChR
+Serotonin receptor mod-1
+5-HT mod-1 receptor
+Serotonin-gated ion channel receptor
+5-hydroxytryptamine 3 receptor precursor
+Serotonin 5-HT3 receptor
+5-HT3R
+5-HT-3
+5-hydroxytryptamine 3 receptor
+nAChR
+Nicotinic acetylcholine receptor
+NMDA receptor
+NMDAR
+NMDA
+AMPA
+AMPA receptor
+Kainate receptor
+5-hydroxytryptamine receptor
+Serotonin receptor 1E
+5- HT1E
+5-HT-1E
+S31
+5-HT1E
+5-hydroxytryptamine 1E receptor
+HTR1E
+GPR42
+motilin
+MLNR
+GNRHR2
+OXE
+OXER1
+MCH2
+MCHR2
+NPBW2
+NPBWR2
+FPRL2
+GPR109B
+P2Y11
+P2RY11
+GPR52
+GPR78
+GPR174
+LGR6
+MAS1L
+MRGF
+MRGPRX2
+MRGPRX3
+MRGPRX4
+P2RY8
+GPR17
+GPR32
+GPR55
+GPR62
+GPR79
+GPR92
+GPR148
+GPR22
+Gpr22
+2900068K05Rik
+AW061316
+MGC107197
+GPR171
+H963
+Gpr171
+F730001G15Rik
+A630006E05
+CCRL1
+Ccrl1
+Cmkbrl1
+PPR1
+VSHK1
+CCBP2
+CCR11
+CCX-CKR
+A630091E18Rik
+GPR39
+mCG 52273
+Gpr39
+4933415E13Rik
+GPR160
+1700025D19Rik
+Gpr160
+GPCR150
+GPR152
+Gm673
+A930009H15Rik
+Gpr152
+P2RY5
+2610302I02Rik
+P2y5
+P2ry5
+GPR82
+Gpr82
+RP23-278L4.4
+GPR81
+Gpr81
+GPR75
+Gpr75
+RP23-20N14.1
+MRGPRG
+Mrgprg
+Mrgg
+Gm1098
+GPR146
+PGR8
+Gpr146
+BC003323
+MGC7035
+LPA2
+EDG4
+IPA2
+LPA2
+Edg4
+GPR150
+Gpr150
+C030001A19Rik
+PGR11
+CXCR6
+Cxcr6
+BB217514
+BONZO
+STRL33
+GPR21
+RP23-321B3.4
+MGC130598
+Gpr21
+C230004C13Rik
+GPR34
+RP23-278L4.3
+Gpr34
+OPN3
+Opn3
+MGC124138
+Ecpn
+ERO
+MRGPRE
+MrgE
+C130069N09Rik
+Mrgpre
+Ebrt3
+GPR35
+KPG 007
+Gpr35
+RXFP4
+RXFP4
+Gpr100
+Rln3r2
+Rxfp4
+MGC130215
+SALPR
+GPCR142
+DARC
+Dfy
+CD234
+Darc
+AA162249
+CCBP1
+GPD
+ESTM35
+FY
+NPS
+NPSR1
+Npsr1
+GPRA
+VRR1
+PGR14
+Gpr154
+9330128H10Rik
+C3AR1
+C3ar1
+C3AR
+HNFAG09
+AZ3B
+C3ar1
+KiSS1
+KISS1R
+Kiss1r
+Gpr54
+Kiss1r
+Gpr54
+ETA
+EDNRA
+Gpcr10
+ET-AR
+ETa
+Ednra
+RATENDOR
+Eta
+ENDOR
+Ednra
+MAS1
+Mas-1
+Mas1
+Mas1
+NPBW1
+NPBWR1
+Gpr7
+Npbwr1
+Nbpwr1
+Gpr7
+Nbpwr1
+BB3
+BRS3
+MGC129146
+BRS-3
+MGC129147
+RP23-479M21.1
+Brs3
+Brs3
+kappa
+OPRK1
+R21
+MGC151172
+KOR
+Oprk2
+Oprk1
+KOR-1
+Oprk1
+OXGR1
+Gm299
+Gpr80
+P2Y15
+Gpr99
+Oxgr1
+Oxgr1
+P2Y15
+Gpr80
+RXFP1
+RXFP1
+Lgr7
+Gm1018
+Rxfp1
+Lgr7
+GPR162
+Gpr162
+BC031437
+Grca
+A-2
+Grca
+Gpr162
+MRGPRD
+TGR7
+Gm499
+Mrgprd
+MrgD
+TGR7
+Mrgprd
+Mrgd
+A1
+ADORA1
+A1AR
+A1R
+Adora1
+AI848715
+BB176431
+Adora1
+GPR26
+A730021D22
+Gpr26
+9630036A11Rik
+Gpr26
+AT1
+AGTR1
+AT2R1
+Agtr-1a
+1810074K20Rik
+Agtr1
+MGC37610
+AT1
+AT2R1A
+Angtr-1a
+AG2S
+AI551199
+AT1a
+Agtr1b
+AT1
+AT3
+AT1B
+Agtr1
+GPR153
+Gpr153
+RP23-421E12.2
+AI449320
+1110065N12Rik
+PGR1
+Gpr153
+LGR4
+Lgr4
+RP23-431J22.1
+A930009A08Rik
+9130225G07
+Gpr48
+Gpr48
+Lgr4
+NPFF1
+NPFFR1
+Gpr147
+Npffr1
+OT7T022
+NPFF1
+GPR135
+PAFR
+Gpr135
+Gpr135
+OT
+OXTR
+OTR
+Oxtr
+Oxtr
+OTR
+OTR1
+Y5
+NPY5R
+Npy5r
+Y5R
+MGC151353
+MGC151355
+Npy5r
+NPYR5
+GPR120
+KPG 013
+AI552415
+GT01
+Gpr120
+Gpr120
+DA
+DA receptor
+Dopamine D2 receptor
+D(2) dopamine receptor
+D2
+D2L
+D2S
+D2S/D2L
+DRD2
+Drd2
+D2R
+Drd-2
+Drd2
+dopamine D2 receptor
+D(1A) dopamine receptor
+D1
+DRD1
+Drd1a
+Drd1
+C030036C15Rik
+Drd-1
+Gpcr15
+Drd1a
+Drd1
+Drd-1
+D1a
+NPFF2
+NPFFR2
+NPFF2
+HG31
+Gpr74
+Npffr2
+Gpr74
+Npgpr
+Npffr2
+Npff2
+GPR6
+AI852874
+Gm233
+Gpr6
+Gpr6
+GPR61
+Gpr61
+Gpr61
+G-21
+5- HT1A
+Serotonin receptor 1A
+5-hydroxytryptamine 1A receptor
+5-HT1A
+5-HT-1A
+HTR1A
+Htr1a
+Gpcr18
+5HT1A
+Htr1a
+RAT5HT1A
+GPBA
+GPBAR1
+GPCR
+TGR5
+Gpbar1
+GPR131
+M-BAR
+BG37
+Tgr5
+Gpbar1
+CCR5
+CCR5
+Cmkbr5
+CD195
+AM4-7
+Ccr5
+Ccr5
+Cmkbr5
+Ckr5
+CCR3
+CCR3
+Cmkbr3
+Ccr3
+Cmkbr1l2
+CC-CKR3
+MGC124266
+MGC124265
+CKR3
+Cmkbr3
+Ccr3
+XCR1
+XCR1
+GPR5
+Ccxcr1
+Xcr1
+Xcr1
+CMKOR1
+Rdc1
+AW541270
+Cmkor1
+Cmkor1
+Rdc1
+CMKLR1
+Gpcr27
+mcmklr1
+DEZ
+Cmklr1
+Cmklr1
+APJ
+AGTRL1
+msr/apj
+APJ
+Agtrl1
+RP23-366I14.3
+Apj
+Agtrl1
+GPR20
+Gpr20
+A430106B11Rik
+P2Y4
+Gpcr5-1
+Gpr20
+OPN5
+Gpr136
+TMEM13
+Neuropsin
+Opn5
+PGR12
+Gpr136
+Opn5
+FPR1
+fMLF-R
+Fpr1
+FPR
+LXA4R
+Fpr1
+MC2
+MC2R
+Mc2r
+ACTHR
+Mc2r
+A2B
+ADORA2B
+Adora2b
+MGC144575
+MGC144574
+AI605384
+RP23-330N10.1
+AI480866
+Adora2b
+MC3
+MC3R
+MGC124212
+RP23-358I19.2
+MGC124211
+Mc3r
+Mc3r
+MC5
+MC5R
+Mc5r
+Mc5r
+CCR2
+CCR2
+CC-CKR-2
+CCR2B
+CCR2A
+CKR2B
+CKR2A
+mJE-R
+CKR2
+Ccr2
+Cmkbr2
+Ccr2
+Y4
+PPYR1
+Npy4r
+Ppyr1
+NYYR-D
+Y4
+Ppyr1
+CCR9
+CCR9
+Ccr9
+Cmkbr10
+GPR-9-6
+Ccr9
+LPA1
+EDG2
+Edg2
+Kdt2
+vzg-1
+lpA1
+MGC29102
+AI326300
+Gpcr26
+5031439C20
+MGC105279
+Edg2
+Lpar1
+NMU1
+NMUR1
+NmU-R
+NMU1R
+FM-3
+Nmur1
+Gpr66
+Gpr66
+Nmur1
+GPR27
+Gpr27
+Gpr27
+Sreb1
+5-HT5A
+HTR5A
+Htr5a
+Htr5
+5HT5A
+Htr5a
+Muscarinic acetylcholine receptor
+mAChR
+Muscarinic ACh receptor
+Muscarinic AChR
+MAChR
+M3 Acetylcholine receptor
+M3
+M3 AChR
+Muscarinic acetylcholine receptor M3
+CHRM3
+Chrm-3
+Chrm3
+M3
+M3R
+Chrm3
+GPR88
+AW061286
+Gpr88
+Strg
+Gpr88
+5- HT4
+5-hydroxytryptamine 4 receptor
+Serotonin receptor 4
+5-HT4
+5-HT-4
+HTR4
+5-HT4
+Htr4
+5-HT&lt
+4L>
+Htr4
+5-HT1D
+5-HT-1D
+5- HT-1D-alpha
+5-hydroxytryptamine 1D receptor
+Serotonin receptor 1D
+HTR1D
+Gpcr14
+Htr1d
+AI853647
+RP23-32L5.3
+Htr1d
+5HT1D
+GPR25
+Gpr25
+ADMR
+NOW
+Admr
+G10-D
+Gpcr17
+Gpcr22
+AM-R
+MB10
+Admr
+NMU2
+NMUR2
+RP23-339O7.2
+Nmur2
+Nmu2r
+FM-4
+Nmu2r
+Nmur2
+GPR4
+Gpr4
+Gpr4
+MGC116369
+V1B
+AVPR1B
+AVPR3
+Avpr1b
+VPR3
+VIBR
+V3/V1b
+Avpr1b
+NTS2
+NTSR2
+NT2R
+Ntsr2
+NTRL
+Ntsr2
+alpha2A
+Alpha-2 adrenergic receptor subtype C10
+Alpha-2AAR
+A2A
+Alpha-2A adrenoreceptor
+alpha 2A
+Alpha-2A adrenergic receptor
+Alpha-2A adrenoceptor
+ADRA2A
+Adra2a
+Adra-2a
+Adra-2
+AW122659
+alpha2A
+alpha2-C10
+RATRG20
+RG20
+Adra2a
+GPR77
+C5L2
+Gpr77
+E030029A11Rik
+Gpr77
+C5L2
+LH
+LHCGR
+Lhcgr
+Lhr
+Gpcr19-rs1
+LH-R
+Lhcgr
+Lhr
+LH receptor
+PAR4
+F2RL3
+F2rl3
+PAR4
+F2rl3
+PAR4
+CCR8
+CCR8
+mCCR8
+Cmkbr8
+MGC123958
+Ccr8
+MGC123959
+Ccr8
+GPR63
+Psp24-2
+PSP24beta
+Gpr63
+RP23-86J22.1
+Gpr63
+CCR6
+CCR6
+Ccr6
+Cmkbr6
+MGC108876
+Ccr6
+SUCNR1
+Gpr91
+Sucnr1
+Sucnr1
+Gpr91
+sst2
+SSTR2
+Smstr-2
+sst2
+Smstr2
+SSTR-2
+Sstr2
+RP23-428E17.1
+Smstr2
+Sstr2
+H1
+HRH1
+Hrh1
+Bphs
+Hrh1
+Hisr
+M4 AChR
+Muscarinic acetylcholine receptor M4
+M4
+M4 Acetylcholine receptor
+CHRM4
+RP23-273F8.2
+M4
+Chrm4
+Chrm-4
+Chrm4
+M4
+5-HT-1F
+Serotonin receptor 1F
+5-HT1F
+5-hydroxytryptamine 1F receptor
+HTR1F
+Htr1f
+Htr1eb
+Htr1eb
+Htr1f
+CCBP2
+AI464239
+Ccbp2
+CCR10
+CCR9
+MGC130576
+D6
+Cmkbr9
+Ccbp2
+MGC105345
+D6
+CysLT2
+CYSLTR2
+2300001H05Rik
+Cyslt2
+Cltr2
+Cysltr2
+CYSLT2R
+Cysltr2
+Cyslt2
+5-hydroxytryptamine 1B receptor
+5-HT-1B
+5- HT1B
+Serotonin receptor 1B
+5-HT-1D-beta
+Serotonin 1D beta receptor
+S12
+5-HT1B
+HTR1B
+Htr1b
+Htr1b
+CCK2
+CCKBR
+CCK2R
+Cckbr
+CCKR-2
+Cckbr
+CHOLREC
+NOP
+OPRL1
+XOR1
+LC132
+KOR3
+RP23-322G1.2
+Oprl1
+morc
+ORL1
+MOR-C
+Oprl
+LC132
+OFQR
+MOR-C
+KOR3
+XOR1
+KOR-3
+Oprl
+ORL1
+Oprl1
+ETB
+EDNRB
+Ednrb
+ET-B
+ET>B&lt
+AU022549
+s
+ETb
+Sox10m1
+Ednrb
+Ednra
+Etb
+RXFP2
+RXFP2
+GPA2
+zsig51
+Gpha2
+Gpha2
+Zsig51
+EP2
+PTGER2
+Ptgerep2
+Ptger2
+EP2
+Ptger-ep2
+Ptger2
+GPR19
+Gpr19
+Gpr19
+V2
+AVPR2
+DIR
+DI1
+RP23-252M19.1
+ADHR
+MGC124213
+MGC129321
+MGC124214
+V2R
+Avpr2
+MGC124215
+ND1
+Avpr2
+GPR65
+Dig1
+TDAG8
+Gpcr25
+Gpr65
+Gpr65
+V1A
+AVPR1A
+Avpr1a
+AVPR
+Avpr1
+V1a
+V1aR
+V1aR
+V1a
+AVPR
+Avpr1a
+MGC108538
+H2
+HRH2
+Hrh2
+Hrh2
+H2R
+CXCR3
+CXCR3
+RP23-49C8.4
+Cxcr3
+Cmkar3
+Cd183
+Gpr9
+Cxcr3
+GPR109A
+PUMA-G
+Pumag
+HM74
+mHM74b
+Gpr109a
+Gpr109b
+Hm74b
+Pumag
+rHM74b
+Hm74
+Gpr109b
+Gpr109a
+P2Y1
+P2RY1
+P2Y1
+P2ry1
+P2y1
+P2ry1
+P2y
+BB1
+NMBR
+Nmbr
+Nmbr
+NMB-R
+GPR37
+Gpr37
+AI848630
+Pael-R
+Ednrbl
+Gpr37
+MGC105347
+GPR84
+Gpr84
+EX33
+Gpr84
+GPR173
+RP23-147K15.2
+3230401K02Rik
+Gpr173
+Sreb3
+Sreb3
+Gpr173
+CXCR1
+IL8RA
+CXCR1
+Il8ra
+Il8ra
+GPR85
+DKFZp761L08121
+Gpr85
+2900026B03Rik
+MGC105281
+Gpr85
+Srep2
+C5AR1
+Cd88
+C5ar1
+D7Msu1
+C5aR
+C5r1
+C5r1
+BLT1
+LTB4R
+Ltb4r1
+Ltb4r
+mBLTR
+BLT1
+BLTR
+Ltb4r
+S1P5
+EDG8
+S1P5
+Edg8
+lpB4
+Edg-8
+Edg8
+PAR2
+F2RL1
+Par2
+Gpcr11
+PAR-2
+F2rl1
+F2rl1
+Par-2
+Par2
+FP
+PTGFR
+fp
+PGF
+AI957154
+Ptgfr
+Ptgfr
+PF2AR
+GPR1
+MGC41704
+RP23-13C17.4
+Gpr1
+Gpr1
+CXCR4
+CXCR4
+Cxcr4
+Sdf1r
+CD184
+PB-CKR
+PBSF/SDF-1
+LESTR
+Cmkar4
+MGC108696
+Cxcr4
+PAR3
+F2RL2
+F2rl2
+F730031A08
+PAR3
+F2rl2
+PAR3
+GPR151
+nGPCR-2037
+PGR7
+Gpr151
+C130082O03Rik
+GPCR
+GalRL
+nGPCR-2037
+Gpr151
+GPR132
+G2a
+Gpr132
+G2a
+Gpr132
+P2Y2
+P2RY2
+P2ry2
+P2Y2
+P2Y2
+P2ry2
+P2Y12
+P2RY12
+P2Y12
+4921504D23Rik
+2900079B22Rik
+P2ry12
+P2y12
+P2ry12
+CCRL2
+Ccrl2
+Cmkbr1l2
+CCR11
+L-CCR
+1810047I05Rik
+E01
+Ccrl2
+GPR37L1
+CAG-18
+AW047233
+D0Kist8
+Gpr37l1
+Gpr37l1
+Serotonin receptor 2A
+5- HT-2A
+5-hydroxytryptamine 2A receptor
+5-HT2A
+5- HT-2
+HTR2A
+Htr2a
+Htr2
+Htr-2
+MGC124302
+MGC124301
+E030013E04
+5Ht-2
+Htr2a
+D(3) dopamine receptor
+D3
+DRD3
+Drd3
+D3R
+D3 receptor
+Drd3
+GAL3
+GALR3
+Galnr3
+Galr3
+Galr3
+GAL2
+GALR2
+MGC151357
+MGC151359
+mGalR
+Galr2
+Galr2
+H4
+HRH4
+BG26
+GPCR105
+HH4R
+H4R
+MGC130500
+AXOR35
+Hrh4
+GPRv53
+H4
+Hrh4
+beta 3
+3Beta-3 adrenoceptor
+Beta-3 adrenoreceptor
+Beta-3 adrenergic receptor
+b
+beta3
+ADRB3
+Adrb-3
+Adrb3
+ADRB
+Adrb3
+TP
+TBXA2R
+MGC107665
+TP
+Tbxa2r
+Tbxa2r
+GPR149
+Gpr149
+9630018L10Rik
+PGR10
+Gpr149
+Ieda
+FSH
+FSHR
+Fshr
+FSH-R
+Fshr
+TAAR3
+Taar3
+Taar3
+AT2
+AGTR2
+AI316812
+RP23-368N20.1
+Agtr2
+AW107640
+Agtr2
+AT&lt
+AT2-R
+sub>2&lt
+/sub>R
+AT2R
+5-HT- X
+5-hydroxytryptamine 7 receptor
+5-HT-7
+Serotonin receptor 7
+5-HT7
+5HT7
+HTR7
+5-HT7
+Htr7
+MGC151363
+5Ht7
+Htr7
+MT1
+MTNR1A
+MR
+MelR
+MGC151277
+Mtnr1a
+Mtnr1a
+GPR50
+H9
+Gpr50
+RP23-183D3.1
+Gpr50
+H9
+GPR139
+Gpr139
+CB1
+CNR1
+CB1
+Cnr1
+RP24-407G18.1
+Cnr1
+SKR6R
+PKR2
+PROKR2
+PKR2
+EG-VEGRF2
+Prokr2
+Gpr73l1
+B830005M06Rik
+Gpr73l1
+Prokr2
+delta
+OPRD1
+DOR-1
+Oprd1
+RP23-335B9.3
+mDOR
+Nbor
+Oprd1
+RXFP3
+RXFP3
+Salpr
+GPCR135
+Rln3r1
+Rxfp3
+BC053073
+RGD1311550
+Salpr
+Rln3r1
+GPCR135
+PKR1
+PROKR1
+Gpr73
+Prokr1
+Pkr1
+EG-VEGFR1
+Prokr1
+Gpr73
+B2
+BDKRB2
+BK2R
+BKR2
+Bdkrb2
+B2
+BRB2
+B2R
+B(2)
+BK2
+BK-2
+B2BKR
+B2BRA
+Bdkrb2
+MC1
+MC1R
+Mc1r
+Tob
+Mshra
+Mc1r
+MT2
+MTNR1B
+MGC129287
+MGC129286
+Mel1b
+Mtnr1b
+Mel-1B-R
+Mtnr1b
+Mel1b-r
+5-hydroxytryptamine 2B receptor
+5-HT-2B
+5-HT2B
+Serotonin receptor 2B
+HTR2B
+5-HT2B
+AJ012488
+Htr2b
+AV377389
+Htr2b
+QRFP
+GPR103
+Gpr103
+NOS
+AQ27
+Gpr103
+NTS1
+NTSR1
+RP23-74K21.3
+Ntsr1
+NT-1R
+NTR-1
+Ntsr1
+Ntsr
+ALX
+FPRL1
+Fprl1
+Lxa4r
+LXA4-R
+Fprl1
+Lxa4r
+CXCR2
+IL8RB
+CDw128
+Cmkar2
+IL-8Rh
+CXCR2
+Gpcr16
+CD128
+mIL-8RH
+Il8rb
+IL8RA
+IL-8rb
+Cmkar2
+Il8rb
+EP1
+PTGER1
+Ptgerep1
+EP1
+Ptger1
+42kDa
+Ptger1
+MC4
+MC4R
+Mc4r
+Fatboy
+Glu3
+Mc4r
+NK3
+TACR3
+Nk3r
+Tacr3
+Tac3r
+Tacr3
+Tac3r
+Nmkr
+Nkr
+GPR31
+Gpr31
+Gpr31
+beta2
+Beta-2 adrenoceptor
+beta 2
+b2
+Beta-2 adrenergic receptor
+ADRB2
+Gpcr7
+Adrb2
+Badm
+Adrb-2
+Adrb2
+NK1
+TACR1
+Tacr1
+NK-1R
+Tac1r
+NK1-R
+SPr
+Tacr1
+Tac1r
+DP
+PTGDR
+PGD
+DP
+Ptgdr
+Ptgdr2
+Ptgdr
+MRGPRX1
+Mrgprc11
+Snsr1
+A2C
+Alpha-2 adrenergic receptor subtype C4
+Alpha-2C adrenoreceptor
+Alpha-2C adrenergic receptor
+Alpha-2C adrenoceptor
+alpha 2C
+alpha2C
+ADRA2C
+Adra-2c
+[a]2C
+alpha2-C4
+alpha2C
+Adra2c
+Adra2c
+PAR1
+F2R
+AI482343
+ThrR
+Par1
+MGC28086
+F2r
+Cf2r
+MGC93622
+TRGPC
+Par1
+F2r
+alpha 2B
+Alpha-2B adrenoreceptor
+Alpha-2B adrenoceptor
+Alpha-2B adrenergic receptor
+Alpha-2 adrenergic receptor subtype C2
+A2B
+alpha2B
+ADRA2B
+Adra2b
+alpha2-C2
+[a]2B
+Adra-2b
+alpha2B
+Adra2b
+Alpha-1B adrenergic receptor
+alpha 1B
+Alpha 1B- adrenoreceptor
+alpha1B
+A1B
+Alpha 1B-adrenoceptor
+ADRA1B
+[a]1b
+RP23-65G8.1
+Adra1b
+Adra1b
+5-HT-6
+5-hydroxytryptamine 6 receptor
+Serotonin receptor 6
+5-HT6
+HTR6
+RP23-65B16.2
+Htr6
+MGC144682
+MGC144683
+5-HT6
+Htr6
+Dopamine D4 receptor
+D4
+D(4) dopamine receptor
+D(2C) dopamine receptor
+DRD4
+AW125663
+D4R
+Drd4
+Drd-4
+D4RA
+Drd4
+OX1
+HCRTR1
+Ox1r
+MGC141357
+Hcrtr1
+Hcrtr1
+Hctr1
+EBI2
+Ebi2
+Ebi2
+GPR18
+Gpr18
+Gpr18
+GPR15
+Gpr15
+GPR83
+Gpr72
+Gpr83
+RP39
+AW045253
+RP82
+Gir
+RP105
+Gir
+Gpr83
+S1P2
+EDG5
+S1P2
+LPb2
+H218
+Edg5
+1100001A16Rik
+Gpcr13
+GPCR18
+Edg5
+snGPCR18
+H218
+Gpcr13
+LGR5
+Lgr5
+Gpr49
+FEX
+Lgr5
+Gpr49
+alpha1D
+ADRA1D
+Adra1a
+RP23-442K11.2
+[a]1d
+Adra-1
+Adra1
+Gpcr8
+alpha1D-AR
+Spr8
+Adra1d
+Adrd1
+Adra1d
+Alpha-1C adrenergic receptor
+A1A
+Alpha 1A-adrenoceptor
+Alpha-1A adrenergic receptor
+alpha1A
+Alpha adrenergic receptor 1c
+alpha 1A
+Alpha 1A- adrenoreceptor
+ADRA1A
+[a]1a
+MGC130524
+Adra1c
+Adra1a
+Adra1a
+Adra1c
+sst1
+SSTR1
+Sstr1
+Smstr1
+Smstr-1
+sst1
+Gpcrrna
+Sstr1
+D(5) dopamine receptor
+D5
+1B
+D(1B) dopamine receptor
+D1beta dopamine receptor
+DRD5
+Drd1b
+Drd5
+Drd-5
+Gpcr1
+Drd5
+IP1
+PTGIR
+IP
+Ptgir
+Ptgir
+GPR142
+Gpr142
+RP23-254J18.1
+PGR2
+Gpr142
+P2RY10
+5830408N17Rik
+P2ry10
+P2Y10
+RP23-35H8.1
+RGD1561912
+P2ry10
+GPR45
+AW046772
+9230112G11Rik
+PSP24alpha
+Gpr45
+Gpr45
+H3
+HRH3
+RP24-74N4.2
+AW049250
+Hrh3
+MGC105370
+Hrh3
+M5 Acetylcholine receptor
+M5 AChR
+Muscarinic acetylcholine receptor M5
+M5
+CHRM5
+M5R
+m5
+Chrm5
+Chrm5
+M1 acetylcholine receptor
+Muscarinic acetylcholine receptor M1
+M1
+M1 AChR
+CHRM1
+M1R
+M1
+Chrm-1
+Chrm1
+Chrm1
+GPR33
+Gpr33
+Gpr33
+TA3
+TAAR9
+Taar9
+Tar3
+Trar3
+Ta3
+Gm231
+Taar9
+Ta3
+TA5
+TAAR8
+Gm230
+Taar8a
+Ta11
+Trar5
+Taar8a
+GPR44
+Gpr44
+Crth2
+Grp45
+MGC130436
+Gpr44
+GPR101
+Gpr101
+RGD1564196
+MCH1
+MCHR1
+AW049955
+Gpr24
+Gpr24-9
+Mchr1
+MCH-1R
+Mch1r
+Mchr1
+Slc1
+Gpr24
+Serotonin receptor 2C
+5-HTR2C
+5- HT2C
+5-HT-2C
+5HT-1C
+5-hydroxytryptamine 2C receptor
+5-HT2C
+HTR2C
+5-HT2cR
+RP23-15B7.1
+SR1
+5HT1c
+Htr1c
+Htr2c
+Htr2c
+GPR12
+Gpcr01
+Gpcr12
+Gpcr20
+Gpcr21
+Gpr12
+Gpcr12
+MGC156481
+Gpr12
+TA1
+TAAR1
+Tar1
+Trar1
+Taar1
+Taar1
+Trar1
+Tar1
+CXCR5
+BLR1
+Blr1
+CXCR5
+CXCR-5
+MDR15
+CXC-R5
+Gpcr6
+Blr1
+NLR
+S1P4
+EDG6
+MGC129298
+S1P4
+lpC1
+Edg6
+Edg6
+FFA2
+FFAR3
+Gpr41
+P2RY14
+A330108O13Rik
+Gpr105
+P2ry14
+P2Y14
+MGC93098
+P2ry14
+Gpr105
+P2Y6
+P2RY6
+2010204J23Rik
+P2ry6
+P2Y6
+P2y6
+P2ry6
+GPR30
+Ceprl
+Gpr30
+6330420K13Rik
+FEG-1
+GPCR-Br
+CMKRL2
+Gpr30
+GPR41
+B1
+BDKRB1
+BRADYB1
+Bdkrb1
+Bdkrb
+BKR1
+B1BKR
+B1R
+Bdkrb1
+b1bkr
+BKR
+Bdkrb
+PAF
+PTAFR
+PAFR
+Ptafr
+RP23-470B20.1
+Ptafr
+GNRHR
+Gnrhr
+Gnrhr
+Lhrhr
+TRH
+TRHR
+MGC124380
+MGC124381
+Trhr
+Trhr
+A3
+ADORA3
+Gpcr2
+ARA3
+1700001D09Rik
+MGC118217
+Adora3
+4930578J19Rik
+A3AR
+Adora3
+Y1
+NPY1R
+Npyr
+Npy1r
+Y1-R
+Npy1r
+MGC109393
+NPY-1
+LPA3
+EDG7
+lpA3
+Edg7
+Edg7
+CCR10
+CCR10
+Gpr2
+RP23-281C18.3
+Cmkbr9
+Ccr10
+MGC151420
+Gpr2
+Y2
+NPY2R
+MGC124242
+MGC124241
+MGC124244
+Npy2r
+Npy2r
+EP4
+PTGER4
+Ptger4
+EP4
+Ptgerep4
+Ptgerep4
+Ptger4
+Ptger
+ghrelin
+GHSR
+Ghsr
+C530020I22Rik
+Ghsr
+OX2
+HCRTR2
+mOXR2
+Hcrtr2
+mOX2bR
+mOX2aR
+OX2R
+Hcrtr2
+GPR119
+Gpr119
+RP23-91P22.2
+Gpr119
+BB2
+GRPR
+Grpr
+GRP-R
+RP23-231H22.2
+MGC130509
+Grpr
+GAL1
+GALR1
+Galr1
+Galnr1
+Galnr1
+Galr1
+GPR176
+Gpr176
+RP23-450P9.1
+Gm1012
+MGC62396
+Gpr176
+Gpr
+RBU-15
+Gm1012
+FFA1
+FFAR1
+Gpr40
+Ffar1
+Ffar1
+Gpr40
+GPR3
+Gpcr21
+Gpr3
+Gpcr20
+Gpcr3
+RP23-341B14.2
+Gpcr3
+Gpr3
+mu
+OPRM1
+MOR-1O
+Oprm1
+muOR
+Oprm
+MOR-1
+Oprm1
+MORA
+GPR161
+RGD1563245
+A2A
+ADORA2A
+MGC118414
+Adora2a
+A2AAR
+A2aR
+Adora2a
+A2ar
+MGC93190
+ADENO
+CX3CR1
+CX3CR1
+Cx3cr1
+Cx3cr1
+Rbs11
+CCR4
+CCR4
+LESTR
+Sdf1r
+Ccr4
+MGC151418
+Cmkbr4
+Cmkbr4
+Ccr4
+CysLT1
+CYSLTR1
+Cyslt1
+CysLT1R
+BB147369
+RP23-113I19.1
+Cysltr1
+Cysltr1
+Cyslt1
+BLT2
+LTB4R2
+5830462O07Rik
+Ltb4r2
+MGC123942
+MGC123943
+BLT2
+Ltb4r2
+GPR23
+5730485F04Rik
+Gpr23
+LPA4
+Gpr23
+RGD1563686
+NK2
+TACR2
+MGC129144
+MGC129145
+Tac2r
+Tacr2
+Tacr2
+Tac2r
+GPR141
+PGR13
+Gpr141
+Gpr141
+TSH
+TSHR
+Tshr
+hypothroid
+hyt
+TSHRA
+Tshr
+PRRP
+PRLHR
+GR3
+Prlhr
+Gm339
+PrRPR
+Gpr10
+Prlhr
+Uhr-1
+Gpr10
+FFA3
+FFAR2
+MGC28611
+Gpr43
+Ffar2
+Gpr43
+P2Y13
+P2RY13
+P2ry13
+Gpr86
+2010001L06Rik
+Sbirnlex_annot4
+P2Y13
+GPCR1
+GPR94
+P2ry13
+P2y13
+GPR87
+Gpr87
+Gpr87
+EP3
+PTGER3
+EP3
+Ptgerep3
+Pgerep3
+Ptger3
+Rep3
+rEP3b
+rEP3a
+Ptger3
+Beta-1 adrenergic receptor
+Beta 1
+beta1
+B1
+Beta-1 adrenoreceptor
+Beta-1 adrenoceptor
+ADRB1
+Adrb1
+beta-AR
+Adrb-1
+B1AR
+RATB1AR
+Adrb1
+P2Y4
+P2RY4
+RP23-281K21.8
+P2Y4R
+P2ry4
+P2Y4
+P2Y4
+P2ry4
+sst4
+SSTR4
+RP23-70N3.1
+sst4
+Smstr4
+Sstr4
+Smstr4
+Sstr4
+CCR7
+CCR7
+Cdw197
+Ccr7
+CD197
+Cmkbr7
+Ebi1h
+EBI1
+RP23-80N1.2
+MGC108519
+Ccr7
+CCK1
+CCKAR
+Cckar
+AW106902
+Cckar
+Cck-ar
+S1P3
+EDG3
+S1P3
+LPb3
+Edg3
+AI132464
+Edg3
+lpb3
+UT
+UTS2R
+UTR
+RP23-400birnlex_annot.10
+UTR2
+Uts2r
+Gpr14
+Uts2r
+Gpr14
+Senr
+Muscarinic acetylcholine receptor M2
+M2
+M2 acetylcholine receptor
+M2 AChR
+A specific subtype of muscarinic receptor found in the lower BRAIN, the HEART and in SMOOTH MUSCLE-containing organs. Although present in smooth muscle the M2 muscarinic receptor appears not to be involved in contractile responses.
+Year introduced: 2004 - adapted from MeSH
+CHRM2
+M2
+Chrm2
+Chrm-2
+Acm2
+Chrm2
+S1P1
+EDG1
+IpB1
+S1P1
+AI849002
+lpB1
+Edg1
+Edg1
+TA4
+TAAR6
+Gm228
+Taar6
+Ta4
+TRAR4
+Taar6
+sst3
+SSTR3
+sst3
+Sstr3
+Smstr3
+Smstr-3
+Sstr3
+Smstr28
+TAAR5
+Gm227
+Taar5
+Taar5
+CB2
+CNR2
+Cnr2
+CB2
+CB2-R
+RP23-161N17.5
+CB2
+Cnr2
+sst5
+SSTR5
+Smstr5
+sst5
+Sstr5
+SOMATO
+Smstr5
+Sstr5
+CCR1
+CCR1
+Cmkbr1
+Ccr1
+Mip-1a-R
+Ccr1
+GPR68
+Gpr68
+BB131428
+OGR1
+Gpr68
+TAAR2
+Tarr2
+Gm224
+Gm225
+Taar2
+Gpr58
+Taar2
+Gpr58
+Rat genome
+Mouse genome
+Human genome
+Ionic current
+Neuronal current
+Cellular current
+Na+ current
+I.Na current
+K+ current
+I.K current
+I.Ca current
+Ca++ current
+Cl- current
+I.Cl current
+I.K.Ca current
+Ca++-dependent K+ current
+NF-M mRNA
+Neurofilament Medium mRNA
+Neurofilament Heavy mRNA
+NF-H mRNA
+NF-L mRNA
+Neurofilament Light mRNA
+Horseradish peroxidase
+LAMP protein
+LIMP protein
+LAMP
+LIMP
+HRP
+Lysosomal integral membrane protein
+BACE1
+BACE2
+PrP
+MAPK
+Memapsin-2
+EPSC
+IPSC
+mitogen-activated protein kinase
+mitogen activated protein kinase
+EPSC
+Excitatory post-synaptic current
+Excitatory post synaptic current
+Inhibitory post synaptic current
+IPSC
+Inhibitory post-synaptic current
+NE receptor
+NA receptor
+Noradrenergic receptor
+
+calbindin 1
+Calbindin
+28kDa
+calbindin D28K
+VGLUT1 Protein
+VGLUT1
+VACHT
+VGLUT2
+lipophilic tracer
+biotinylated dextran
+fluorescent dextran
+3~'-tetramethylindocarbocyanine perchlorate
+1
+1'-dioctadecyl-3
+diI-C~s-(3)
+3
+wheat germ agglutinin-horse radish peroxidase
+Fluorescent diamidino compound used as a retrograde tracer in the nervous system
+Fluoro-Gold
+IA slow
+Slowly inactivating delay potassium current
+BACE1
+Memapsin-2
+Aspartate
+HO2CCH(NH2)CH2CO2H
+Asp, D
+Htt
+Brain-derived neurotrophic factor
+Nerve growth factor
+CLCF-1
+BSF-3
+Novel neurotrophin-1
+B cell-stimulating factor-3
+Cardiotrophin-like cytokine factor-1
+Neurotrophin-3
+mGluRs
+Glutamate metabotropic
+Metabotropic glutamate
+GRM
+Metabotropic glutamate receptor 1
+GRM1
+Metabotropic glutamate receptor 2
+GRM2
+Metabotropic glutamate receptor 3
+GRM3
+Metabotropic glutamate receptor 4
+GRM4
+Metabotropic glutamate receptor 5
+GRM5
+GRM6
+Metabotropic glutamate receptor 6
+Metabotropic glutamate receptor 7
+GRM7
+Metabotropic glutamate receptor 8
+GRM8
+Dopamine active transporter
+DAT
+Protein FMR-1SYNCI
+FOS
+FMRP
+FRMPSYNCI
+GABA receptor
+Cerulean
+CFP
+CyPet
+ECFP
+GFP
+RFP
+Citrine
+YFP
+Venus
+YPet
+EGFP
+GDNF
+ERK1
+ERK2
+p25alpha
+TPPP
+Tubulin Polymerization Promoting Protein
+Aromatic L-amino acid decarboxylase
+DDC
+AADC
+Amyloid-Beta 40
+Amyloid-Beta 42
+APP
+NACHRA7
+fibroglycan
+Amino acids
+AQP4
+cholinergic receptor
+Glut
+Nicotinic cholinergic receptor
+Glu,
+nAChR
+AcChE
+Acetylcholine esterase
+AcChoEase
+Ach-E
+AChase
+ACE
+AChE
+ACh
+neurabinII
+Muscarinic cholinergic receptor
+Gamma-Aminobutyric acid
+TNF-alpha
+TH
+Hydroxylase, Tyrosine
+L-Tyrosine, tetrahydrobiopterin:oxygen oxidoreductase (3-hydroxylating)
+Tyrosine 3 Monooxygenase
+3-Monooxygenase, Tyrosine
+TYROSINE MONOOXYGENASE 003
+Tyrosine Hydroxylase
+GFAP
+NCAM
+tPA
+NT-4
+NT-5
+NTF4
+NT-4/5
+PDGF
+Deoxyribonucleic acid
+ChAT
+5-hydroxytryptamine
+Choline acetylase
+Aciport
+Gyn-Hydralin
+Aminoethanoic acid
+Glycosthene
+Aminoacetic acid
+Glycolixir
+Glicoamin
+Gly
+Glycocoll
+Padil
+2-Aminoacetic acid
+IL-1
+NACHRA3
+Neuronal Acetylcholine Receptor Subunit Alpha-3
+nicotinic
+Cholinergic receptor
+alpha 1
+CHRNA3
+GAMMA-AMINOBUTYRIC ACID RECEPTOR
+Gamma-aminobutyric-acid receptor subunit alpha-2 precursor
+Gamma-aminobutyric-acid receptor subunit alpha-2
+ALPHA-2
+ALPHA-2 POLYPEPTIDE
+GABA-A RECEPTOR
+GABA(A) receptor subunit alpha-2
+Gamma-aminobutyric-acid receptor subunit alpha-1
+Gamma-aminobutyric-acid receptor subunit alpha-precursor
+GABA-A RECEPTOR
+ALPHA-1 POLYPEPTIDE
+GABRA1
+Dopamine beta Hydroxylase
+beta-Hydroxylase, Dopamine
+
+Dopamine beta Monooxygenase
+beta-Monooxygenase, Dopamine
+Dopamine beta-Monooxygenase
+3, 4-Dihydroxyphenethylamine, ascorbate:oxygen oxidoreductase (beta-hydroxylating)
+Norepinephrine Methyltransferase
+PHENETHANOLAMINE METHYLTRANSFERASE N
+S-Adenosyl-L-methionine:phenylethanolamine N-methyltransferase
+PHENYLETHANOLAMINE METHYLTRANSFERASE N
+Norepinephrine N-Methyltransferase
+Norepinephrine
+Methyltransferase
+Noradrenalin N-Methyltransferase
+Noradrenaline N Methyltransferase
+Phenethanolamine N-Methyltransferase
+Phenethanolamine N Methyltransferase
+Phenylethanolamine N Methyltransferase
+Norepinephrine N Methyltransferase
+Noradrenalin N Methyltransferase
+Noradrenaline N-Methyltransferase
+DA
+Doparkine
+3, 4-DIHYDROXYPHENYLALANINE
+Insulamina
+Larodopa
+Dihydroxy-L-phenylalanine
+Helfo-Dopa
+beta-(3, 4-dihydroxyphenyl)alanine
+L-beta-(3, 4-Dihydroxyphenyl)alanine
+Pardopa
+Eldopar
+Dopaston
+3, 4-Dihydroxy-L-phenylalanine
+Deadopa
+Dopalina
+beta-(3, 4-dihydroxyphenyl)-L-alanine
+Doprin
+Syndopa
+Eurodopa
+Prodopa
+Dopal
+Eldopatec
+Bendopa
+L-Dihydroxyphenylalanine
+Dopaflex
+3-Hydroxy-L-tyrosine
+Cidandopa
+DOPA
+C9H11NO4
+levodopum
+Maipedopa
+Levopa
+Weldopa
+Veldopa
+Laradopa
+3, 4-dihydroxyphenylalanine
+Ledopa
+(-)-3-(3, 4-dihydroxyphenyl)-L-alanine
+L-Dopa
+Dopal-Fher
+Eldopal
+(-)-dopa
+Dopar
+Dopastral
+Dopaidan
+Brocadopa
+levodopa
+L-DOPA
+Dopasol
+Parda
+Levedopa
+(2S)-2-amino-3-(3, 4-dihydroxyphenyl)propanoic acid
+Doparl
+MT6
+Mela-T
+Melatol
+Night Rest
+Circadin
+Melatonex
+Melovine
+Deoxyepinephrine
+Revimine
+Intropin
+Oxytyramine
+Dophamine
+Dopamine HCl
+Hydroxytyramin
+Dopamin
+molecular entities
+molekulare Entitaet
+entidades moleculares
+ion
+ionen
+iones
+ions
+alkali metal cations
+polyatomic entities
+Fluoro-Ruby

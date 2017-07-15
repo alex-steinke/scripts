@@ -1,0 +1,899 @@
+ORN
+OSN
+Solitary tract nucleus principal neuron
+Nucleus of the Solitary Tract principle cell
+Nucleus of the Solitary Tract intrinsic cell
+Solitary tract nucleus intrinsic neuron
+Dorsal spinocerebellar tract cell
+Dorsal spinocerebellar  tract cell
+Motor neuron
+motoneuron
+anterior horn cell
+Alpha Motor Neuron
+lower motor neuron
+Beta motor neuron
+fusimotor neuron
+Gamma motor neuron
+Autonomic motor neuron
+Sympathetic motor neuron
+IA interneuron
+IB interneuron
+II interneuron
+Renshaw cell
+Flexor reflex afferent interneuron
+FFA interneuron
+Spinal cord ventral horn intersegmental cell proprioception
+Spinal cord proprioception intersegmental neuron
+Proprioception intersegmental cell
+olfactory sensory cell
+olfactory receptor cell
+Olfactory receptor neuron
+olfactory sensory neuron
+olfactory receptor
+Globose basal cell
+Horizontal cell (olfactory)
+sustentacular cell
+Supporting cell
+Main olfactory epithelium sustentacular cell
+Mitral neuron
+Olfactory bulb main mitral cell
+Mitral cell
+Tufted cell
+Olfactory bulb (main) tufted cell (middle)
+Olfactory bulb glomerular layer cell
+Glomerular layer cell
+periglomerular cell
+Granule cell of olfactory bulb
+Olfactory bulb main granule cell
+Olfactory Granule cell
+Olfactory granule neuron
+Short axon cell
+Olfactory bulb main short axon cell deep
+Olfactory bulb (main) deep short axon cell
+Blane's cell
+Blanes cell
+Blanes neuron
+GBC
+Deep interneuron
+Cerebellar granule cell
+MC
+Cerebellar stellate cell
+TC
+Unipolar brush cell
+Unipolar brush neuron
+Lugaro cell
+Candelabrum neuron
+Candelabrum cell
+deep cerebellar nucleus glutamatergic cell
+DCN glutamatergic cell
+Dorsal cochlear nucleus glutamatergic cell
+Dorsal cochlear nucleus gabaergic cell
+DCN Gabaergic cell
+deep cerebellar nucleus GABAergic cell
+GC (MOB)
+UBC
+Neocortex pyramidal cell
+Small pyramidal neuron
+Olfactory cortex pyramidal neuron
+Neocortex pyramidal neuron
+Neostriatal spiny neuron
+Neostriatum spiny medium cell
+Medium spiny neuron
+Medium spiny cell
+Neostriatum spiny medium neuron
+Medium-sized spiny neuron
+Striatal medium spiny cell
+Striatal spiny neuron
+Large striatal aspiny neuron
+Striatal cholingergic interneuron large striatal aspiny neuron
+Striatum (neo) GABA interneuron
+Striatum (neo) Parvalbumin interneuron
+Gaba/parvalbumin striatal interneuron
+Neo Striatum GABA interneuron
+Neo striatum GABA/Parvalbumin interneuron
+Striatum (neo) GABA/Parvalbumin interneuron
+Neo Striatum Parvalbumin interneuron
+Neostriatum gaba/parvalbumin interneuron
+somatostatin/nitric oxide synthase interneuron
+SOM/NOS interneuron
+Neostriatum SOM/NOS interneuron
+Substantia nigra dopaminergic cell
+Pars reticulata Gaba interneuron
+Substantia nigra pars reticulata GABA neuron
+Pars reticulata principle neuron
+Substantia nigra pars reticulata principal neuron
+Globus pallidus principle cell
+Pyramidal cell corticomedial amygdalar nucleus
+Amygdala corticomedial nucleus pyramidal neuron
+Amygdala basolateral nucleus pyramidal neuron
+Pyramidal cell basolateral amygdalar nucleus
+Dentate granule celle
+Granule cell of dentate gyrus
+Dentate gyrus granule neuron
+Islands of Calleja Gaba interneuron
+Islets of Calleja Gaba interneuron
+Olfactory tubercle Islets of Calleja GABA interneuron
+Islands of Calleja dopamine cell
+Olfactory tubercle Islets of Calleja DA neuron
+Islets of Calleja dopamine cell
+Hippocampal pyramidal neuron
+CA1 pyramidal neuron
+CA3 pyramidal neuron
+Subiculum pyramidal neuron
+Chandelier-type cell
+somatostatin containing cell
+SOM cell
+Neostriatum SOM interneuron
+Piriform (olfactory) cortex polymorphic cell
+Polymorphic cell
+Olfactory cortex polymorphic neuronl
+Olfactory piriform cortex polymorphic cell
+Retinal Ganglion Neuron
+Retinal Ganglion Cell
+microglia
+Rouget Cell
+Mural Cell
+Chemosensory receptor neuron
+Chemosensory receptor
+Large field ganglion cell
+Medium complex ganglion cell
+Medium simple ganglion cell
+Small complex ganglion cell
+Small simple ganglion cell
+Retina cone M
+M-cone neuron
+M-cone cell
+Retinal Bipolar Neuron
+Retina bipolar neuron
+Retinal Bipolar cell
+On cell
+Off cell
+Midget cell
+Parasol cell
+Amacrine Neuron
+Amacrine cell
+Starburst amacrine cell
+Interplexiform amacrine cell
+Displaced amacrine cell
+retinal horizontal cell
+Horizontal cell (retina)
+thalamocortical neuron
+thalamic relay cell
+M cell
+P cell
+K cell
+Thalamic reticular neuron
+Thalamic reticular nucleus neuron
+thalamic reticular cell
+Small interneuron thalamic
+thalamic Golgi lla neuron
+Golgi lla cell
+small thalamic interneuron
+Large interneuron thalamic
+General cortex pyramidal cell
+Cortical Pyramidal cell
+General cortex pyramidal neuron
+Cortex (general) pyramidal neuron
+superficial pyramidal cell
+Neocortex pyramidal neuron layer 2-3
+corticocortical cell
+Layer 2-3 pyramidal cell
+Neocortex pyramidal neuron layer 5-6
+Layer 5-6 pyramidal cell
+deep pyramidal cell
+Layer 5-6 polymorphic cell
+Neocortex polymorphic neuron layer 5-6
+polymorphic cell
+Stellate cell cortical
+layer 4 stellate cell
+cortical stellate cell
+cortical spiny stellate cell
+Cortical stellate cell
+cortical stellate neuron
+Spiny stellate cell
+Spiny stellate neuron
+Aspiny cortical stellate cell
+Aspiny stellate cell
+Aspiny cortical stellate neuron
+Martinotti cell
+Basket cell (cortical)
+cortical basket neuron
+cortical basket cell
+Cortical chandelier Cell
+Cortical chandelier cell chandelier neuron
+Chandelier cell
+Chandelier neuron
+Double bouquet cell
+Neurogliaform cell
+Hair cell macula
+Hair cell Type 1
+Hair cell type II
+Inner Hair Cell
+Outer Hair Cell
+Scarpa's ganglion cell
+Vestibular ganglioin neuron
+8th nerve ganglion neuron
+Auditory ganglion neuron
+8th nerve ganglion cell
+Auditory ganglion cell
+vestibular nerve ganglion cell
+Cochlear (ventral) nucleus multipolar T cell
+T multipolar cell
+Ventral cochlear nucleus multipolar T cell
+D multipolar cell
+Ventral cochlear nucleus multipolar D cell
+Globular Bushy Cell
+Globular Bushy Neuron
+Ventral cochlear nucleus globular bushy cell
+Ventral cochlear nucleus  spherical bushy cell
+Spherical Bushy Cell
+Ventral cochlear nucleus octopus cell
+Octopus Cell
+Cochlear (ventral) nucleus octopus cell
+Dorsal cochlear nucleus vertical cell
+Vertical Cell
+tuberculoventral cell
+Cochlear (dorsal) nucleus vertical cell
+Dorsal cochlear nucleus pyramidal cell
+Cochlear (dorsal) nucleus fusiform cell
+Dorsal cochlear nucleus pyramidal neuron
+Pyramidal cell DCN
+fusiform cell
+Dorsal cochlear nucleus fusiform cell
+Dorsal cochlear nucleus giant cell
+Giant cell
+Cartwheel cell
+Dorsal cochlear nucleus cartwheel cell
+Dorsal cochlear nucleus granule cell
+Cochlear (dorsal) nucleus granule cell
+Granule Cell DCN
+Trapezoid body principal neuron
+Trapezoid body medial nucleus principal neuron
+Principal Cells Medial Nucleus Trapezoid Body
+Principal neuron of medial trapezoid body
+Trapezoid body intrinsic neuron
+Bipolar dendrite cell
+Inferior colliculus principal neuron
+Inferior colliculus principle cell
+Colliculus inferior principal neuron
+Inferior colliculus intrinsic cell
+Colliculus inferior intrinsic neuron
+DRG cell
+Dorsal root ganglion neuron
+Hair follicle cell
+Pacinian corpuscle cell
+Merckel disc cell
+Meissner's corpuscle cell
+Pain cell
+Temperature cell
+IA ganglion cell
+IB ganglion cell
+II ganglion cell
+Gracilis Nucleus principle cell
+Gracilis nucleus intrinsic neuron
+Gracilis Nucleus intrinsic cell
+Trigeminal nucleus principle neuron
+Trigeminal nucleus intrinsic neuron
+PGC
+PG cell
+DG IS-I
+Olfactory cortex large multipolar neuron
+CA2 bistratified cell
+semilunar neuron
+semilunar cell
+DG MOPP
+DG HIPP
+Periglomerular neuron
+Olfactory bulb periglomerular cell
+DG Interneuron-specific cell
+DG Interneruon-specific II cell
+DG IS-II
+CA1 O-LM interneuron
+CA2 basket cell
+CA2 basket cell
+CA2 bistratified cell
+CA3 Interneuron-specific I cell
+CA3 interneuron-specific II cell
+CA3 chandelier cell
+CA3 pyramidal basket cell
+CA3 LM interneurons
+CA3 SO neuron
+CA3 SO interneuron
+OLM cell
+CA3 R interneuron
+CA3 Spiny CR-positive interneurons
+CA3 Spiny CR immunoreactive cell
+pyramidal basket cell
+CA1 O-LM
+CA3 IS I
+CA3 IS II
+CA3 LM
+OLM
+pyramidal basket cell
+pyramidal basket neuron
+V0 interneuron
+V1 interneuron
+V2 interneuron
+CA1 IS-I cell
+Retina cone L
+DG MOPP
+DG Spiny CR
+rod
+rod cell
+rod photoreceptor
+DG Spiny CR immunoreactive cell
+DG Spiny CR-positive interneurons
+Tubermammillary histaminergic neuron
+hypoglossal nucleus motoneuron
+hypoglossal motoneuron
+hypoglossal motor neuron
+Bed nuclei of the stria terminalis oval nucleus
+Bed nuclei of the stria terminalis oval nucleus
+Bed nuclei of the stria terminalis oval nucleus
+Bed nuclei of the stria terminalis oval nucleus
+Bed nuclei of the stria terminalis oval nucleus
+medial geniculate Golgi IIa cell
+medial geniculate small interneuron
+common spiny cell
+BNST beaded cell
+bed nucleus of stria terminalis basket cell
+bed nucleus of stria terminalis basket neuron
+dense axon plexus forming neuron
+dense axon plexus forming cell
+superficial spiny cell
+beaded cell
+candelabrum neuron
+candelabrum cell
+ivy cell
+CA1 ivy cell
+hypoglossal GABA neuron
+Island of Calleja granule cell
+Island of Calleja granule neuron
+rod bipolar cell
+type 1 cone bipolar cell
+type 2 cone bipolar cell
+type 3 cone bipolar cell
+type 4 cone bipolar cell
+type 5 cone bipolar cell
+type 6 cone bipolar cell
+type 7 cone bipolar cell
+type 8 cone bipolar cell
+type 9 cone bipolar cell
+spinal cord V0c interneuron
+V0c interneuron
+piriform cell
+piriform neuron
+retinal ganglion cell C2
+HSD2 cell
+HSD2 neuron
+stellate neuron
+wide field vertical cell
+CA1 IS-II cell
+CA1 IS-III cell
+CA1 NG cells
+NG cells
+CA1 trilaminar cell
+V0G interneuron
+spinal cord V0G interneuron
+IVth nerve motor neuron
+4th nerve motor neuron
+trochlear nucleus motor cell
+5th nerve motor neuron
+trigeminal nucleus motor cell
+Vth nerve motor neuron
+VIth nerve motor neuron
+abducens nucleus motor cell
+6th nerve motor neuron
+7th nerve motor neuron
+facial nucleus motor cell
+VIIth nerve motor neuron
+7th nerve motor neuron
+Vestibulocochlear nucleus motor cell
+VIIth nerve motor neuron
+IXth nerve motor neuron
+Glossopharyngeal nucleus motor cell
+9th nerve motor neuron
+19th nerve motor neuron
+vagus nucleus motor cell
+pneumogastric nerve
+Xth nerve motor neuron
+XIth nerve motor neuron
+acessory nucleus motor cell
+11th nerve motor neuron
+spinal accessory nerve
+triangular cell
+Ventral cochlear nucleus bushy cell
+Cochlear nucleus ventral bushy cell
+Bushy cell
+Bushy neuron
+Ventral cochlear nucleus multipolar cell
+Multipolar cell of VCN
+Cochlear (ventral) nucleus multipolar cell
+Relay cell
+Thalamic relay neuron
+Hippocampus CA2 pyramidal neuron
+Hippocampal CA2 pyramidal neuron
+Cajal-Retzius Cell
+Neocortex Cajal-Retzius neuron
+Locus coeruleus noradrenergic neuron
+Cholinergic nucleus basalis cell
+Nucleus basalis polyhedral neuron
+Cholinergic nucleus basalis neuron
+Substantia nigra pars reticulata principal neuron
+Chestnut neuron
+Chestnut cell
+SNpr interneuron
+Mitral cell of the accessory olfactory bulb
+Olfactory bulb accessory mitral cell
+accessory olfactory bulb mitral cell
+Ventral tegmental area DA cell
+Striatal matrix medium spiny neuron
+NG
+OEC
+MC (AOB)
+DSI
+MCC
+GC (AOB)
+CA2 pyramidal neuron
+Cerebral Serotonergic Poster Neuron
+Dorsal leech swim interneuron
+Dorsal swim interneuron
+Metacerebral cell
+Giant Serotonergic Neuron
+Olfactory bulb accessory granule neuron
+Olfactory bulb accessory granule cell
+Accessory olfactory bulb granule neuron
+Accessory olfactory bulb granule cell
+Dorsal tegmental nucleus small neuron
+Dorsal tegmental nucleus medium neuron
+Hypothalamic magnocellular neurosecretory neuron
+Magnocellular secretory neuron
+motor neuroendocrine magnocellular neuron
+Hypothalamic magnocellular neurosecretory cell
+Hilar cell
+ventricular myocyte
+cone
+retinal core
+Cone cell
+Neocortex pyramidal neuron layer 3
+Layer 3 Pyramidal Neuron
+Stretch cells
+lower motor neuron
+Neuroepithelial cell
+Photoreceptor Cell
+Cortical Spiny Stellate Cell
+radial epithelial cell
+Bergmann glia
+Bergmann astrocyte
+Hippocampal Pyramidal Neuron
+Hippocampus (CA) pyramidal neuron
+Mural Cell
+Rouget Cell
+Ciliary ganglion neuron
+Cerebellar Golgi Cell
+neuron
+neuron cell
+nerve cell
+fusimotor neuron
+rod cell
+Retinal Rod Cell
+Cochlear Outer Hair Cell
+Cortical Stellate Cell
+Neocortex stellate neuron
+Neostriatum cholinergic interneuron
+Cholinergic Striatal Neuron
+Neostriatum giant cell of Kolliker
+macroglial cell
+Neocortical pyramidal neuron
+Cortical Pyramidal Neuron
+Neocortex pyramidal neuron
+Cortical pyramidal neuron
+Neocortical pyramidal cell
+Retinal photoreceptor
+neuroglial cell
+glia
+GluT Astrocyte
+Passive Astrocyte
+Hippocampus CA3 pyramidal neuron
+Hippocampal CA3 Pyramidal Neuron
+CA3 pyramidal neuron
+Cochlear Inner Hair Cell
+Cortical Bipolar Cell
+progenitor cell
+Cerebellar Purkinje neuron
+Purkinje Cell
+Purkinje's corpuscles
+Purkinje neuron
+myocyte
+radial glial cell
+radial glia
+cardiac myocyte
+Cerebellar basket cell
+non-striated muscle cell
+Medium Spiny Neuron
+Cortical Smooth Stellate Cell
+microglia
+Neocortex pyramidal neuron layer 2/3
+Layer 2 3 Pyramidal Neuron
+CA1 pyramidal neuron
+Hippocampal CA1 pyramidal cell
+Hippocampal CA1 pyramidal neuron
+Hippocampus CA1 pyramidal neuron
+Neocortex pyramidal neuron layer 5
+Layer 5 Pyramidal Neuron
+oligodendroglia
+Pyramidal neuron
+Nerve stem cell
+Island of Calleja spiny granule neuron
+Solitary tract nucleus principal cell
+Solitary tract nucleus intrinsic cell
+Spinocerebellar (dorsal) tract cell
+Spinal cord ventral horn motor neuron
+Motor neuron spinal
+Spinal cord ventral horn motor neuron alpha
+Spinal cord ventral horn motor neuron beta
+Spinal cord ventral horn motor neuron gamma
+Spinal cord ventral horn motor neuron autonomic
+Spinal cord intermediate horn motor neuron sympathetic
+Spinal cord ventral horn interneuron IA
+Spinal cord ventral horn interneuron IB
+Spinal cord ventral horn interneuron II
+Spinal cord ventral horn interneuron Renshaw
+Spinal cord ventral horn interneuron FRA
+Spinal cord proprioception intersegmental cell
+Olfactory epithelium (main) sensory cell
+Globose cell
+Olfactory cortex horizontal cell
+Main olfactory epithelium supporting (sustentacular) cell
+Olfactory bulb (main) mitral cell
+Olfactory bulb main tufted cell
+Olfactory bulb (accessory) glomerular layer cell
+Olfactory bulb (main) granule cell
+Olfactory bulb (main) Blanes cell
+Superficial interneuron
+Neocortex interneuron deep
+Cerebellum granule cell
+Golgi cell
+Cerebellum stellate cell
+Cerebellar basket cell
+Cerebellum unipolar brush cell
+Cerebellum Lugaro cell
+Neocortex candelabrum cell
+Cochlear nucleus (dorsal) glutamatergic cell
+Cochlear nucleus (dorsal) gabaergic cell
+Rhombic lip stem cell
+CD133 positive stem cell
+Olfactory cortex pyramidal cell
+Spiny bipolar cell
+Neostriatum medium spiny neuron
+Giant cholinergic interneuron
+Neostriatum parvalbumin interneuron
+Neostriatum SOM/NOS cell
+Substantia nigra pars compacta dopaminergic cell
+Pars laminaris dopaminergic cell
+Substania nigra pars reticulata interneuorn GABA
+Substantia nigra pars reticulata principal cell
+Globus pallidus principal cell
+Globus pallidus intrinsic cell
+Amygdala corticomedial nucleus pyramidal cell
+Amygdala basolateral nucleus pyramidal cell
+Dentate gyrus granule cell
+Olfactory tubercle Islets of Calleja GABA cell
+Olfactory tubercle Islets of Calleja DA cell
+Hippocampal pyramidal cell
+CA1 pyramidal cell
+CA3 pyramidal cell
+Subiculum pyramidal cell
+Hippocampal basket cell
+Neocortex chandelier-type cell
+Neostriatum SOM cell
+Olfactory cortex polymorphic cell
+Mossy cell
+Subependymal Astrocyte
+Type I/II Oligodendrocyte
+Type III/IV Oligodendrocyte
+Muller cell
+Oligodendrocyte precursor cell
+Retina ganglion cell
+Microglial cell
+Pericyte
+Chemosensory receptor cell
+Retina ganglion cell large field
+Retina ganglion cell medium complex
+Retina ganglion cell medium simple
+Retina ganglion cell small complex
+Retina ganglion cell small simple
+S-cone cell
+Retina photoreceptor cone M
+L-cone cell
+UV-cone cell
+Double cone cell
+Retina bipolar cell
+Retina bipolar cell on
+Retina bipolar cell off
+Retina bipolar cell midget
+Retina bipolar cell parasol
+Retina amacrine cell
+Retina amacrine cell starburst
+Retina interplexiform cell
+Retina amacrine cell displaced
+Retina horizontal cell
+Thalamocortical cell
+Magnocellular cell
+Parvocellular cell
+Koniocellular cell
+Thalamic reticular nucleus cell
+Thalamus interneuron small
+Thalamus interneuron large
+Cortex (general) pyramidal cell
+Neocortex pyramidal cell layer 2-3
+Neocortex pyramidal cell layer 5-6
+Neocortex polymorphic cell layer 5-6
+Neocortex stellate cell
+Neocortex layer 4 stellate cell
+Retina stellate cell aspiny
+Neocortex Martinotti cell
+Neocortex basket cell
+Neocortex chandelier cell
+Golgi II cell
+Neocortex bouquet double cell
+CA1 neurogliaform cell
+Hair cell
+Macula hair cell
+Hair cell type I
+Hair cell inner
+Hair cell outer
+Vestibular ganglion cell
+Scarpa's ganglion cell (vestibular nerve)
+Cochlear nucleus (ventral) multipolar T cell
+Cochlear nucleus (ventral) multipolar D cell
+Cochlear nucleus (ventral) globular bushy cell
+Cochlear nucleus (ventral) spherical bushy cell
+Cochlear nucleus (ventral) octopus cell
+Cochlear nucleus (dorsal) vertical cell
+Cochlear (dorsal) nucleus pyramidal neuron
+Cochlear nucleus (dorsal) giant cell
+Cochlear nucleus (dorsal) cartwheel cell
+Cochlear nucleus (dorsal) granule cell
+Trapezoid body principal cell
+Trapezoid body medial nucleus principal cell
+Trapezoid body intrinsic cell
+Neocortex bipolar cell
+Colliculus inferior principal cell
+Colliculus inferior intrinsic cell
+Dorsal root ganglion cell
+DRG hair follicle cell
+DRG Pacinian corpuscle cell
+DRG Merckel disc cell
+DRG Meissner's corpuscle cell
+DRG pain cell
+DRG temperature cell
+DRG IA cell
+DRG IB cell
+DRG II cell
+Gracilis nucleus principal cell
+Gracilis nucleus intrinsic cell
+Trigeminal nucleus principle cell
+Trigeminal nucleus intrinsic cell
+Taste bud type 1 cell
+Taste bud type 2 cell
+Olfactory bulb (main) adult-born granule cell
+Hippocampus CA1 stratum oriens interneuron
+Tufted Astrocyte
+Olfactory cortex large multipolar cell
+Olfactory cortex small globular cell
+Dentate gyrus IS-III cell
+Hippocampus CA2 bistratified cell narrow
+Olfactory cortex semilunar cell
+Dentate gyrus HIPP cell
+Trapezoid body neuron
+Olfactory bulb main periglomerular cell
+Dentate gyrus IS-I cell
+Dentate gyrus IS-II cell
+Hippocampus CA1 basket cell
+Hippocampus CA1 oriens lacunosum moleculare neuron
+Hippocampus CA2 basket cell broad
+Hippocampus CA2 basket cell narrow
+Hippocampus CA2 bistratified cell broad
+Hippocampus CA3 IS-I cell
+Hippocampus CA3 IS-II cell
+Hippocampus CA3 axo-axonic cell
+Hippocampus CA3 basket cell
+Hippocampus CA3 lacunosum moleculare neuron
+Hippocampus CA3 oriens interneuron
+Hippocampus CA3 oriens lacunosum moleculare neuron
+Hippocampus CA3 radiatum neuron
+Hippocampus CA3 spiny CR cell
+Dentate gyrus basket cell
+Amygdaloid nucleus paracapsular intercalated cell
+Neocortex pyramidal basket cell
+Dentate gyrus trilaminar interneuron
+Spinal cord ventral horn interneuron V0
+Spinal cord ventral horn interneuron V1
+Spinal cord ventral horn interneuron V2
+Spinal cord ventral horn interneuron V3
+Hippocampus CA1 IS-I neuron
+Retina photoreceptor cone L
+Retina photoreceptor cone S
+Retina photoreceptor rod
+Dentate gyrus MOPP cell
+Dentate gyrus spiny CR cell
+Tubermammillary nucleus large histamine neuron
+Hypoglossal nucleus motor neuron
+Medial geniculate body ventral tufted neuron
+Gigantocellular nucleus giant neuron
+Thalamus medial geniculate nucleus interneuron small
+BNST common spiny neuron
+BNST beaded neuron
+BNST basket neuron
+BNST spiny neuron with chandelier-like axon
+BNST superficial spiny neuron
+BNSTdense axon plexus-forming neuron
+Cerebellum candelabrum cell
+Colliculus Inferior GABAergic Principal Cell
+Hippocampus CA1 ivy neuron
+Hypoglossal nucleus GABA neuron
+Olfactory tubercle islets of Calleja granule neuron
+Retina rod bipolar cell
+Retina type 1 cone bipolar cell
+Retina type 2 cone bipolar cell
+Retina type 3 cone bipolar cell
+Retina type 4 cone bipolar cell
+Retina type 5 cone bipolar cell
+Retina type 6 cone bipolar cell
+Retina type 7 cone bipolar cell
+Retina type 8 cone bipolar cell
+Retina type 9 cone bipolar cell
+Spinal cord ventral horn interneuron V0C
+Spinal cord ventral horn interneuron V2b
+Superior colliculus piriform cell
+Retina ganglion cell A
+Retinal ganglion cell C2
+Solitary tract nucleus HSD2 neuron
+Superior colliculus stellate neuron
+Superior colliculus wide field vertical cell
+Hippocampus CA1 IS-II neuron
+Hippocampus CA1 IS-III neuron
+Hippocampus CA1 neurogliaform neuron
+Hippocampus CA1 trilaminar neuron
+Spinal cord ventral horn interneuron V0G
+Spinal cord ventral horn interneuron V2a
+Trochlear nucleus motor neuron
+Trigeminal nucleus motor neuron
+Abducens nucleus motor neuron
+Facial nucleus motor neuron
+Vestibulocochlear nucleus motor neuron
+Glossopharyngeal nucleus motor neuron
+Vagus nucleus motor neuron
+Acessory nucleus motor neuron
+Neostriatum substance P medium spiny neuron
+Neostriatum enkephalin medium spiny neuron
+Oculomotor nucleus nerve cell
+Spinal cord motor neuron parasympathetic
+Brainstem motor neuron
+Dorsal motor nucleus of vagus motor neuron
+BNST triangular neuron
+Cochlear nucleus (ventral) bushy cell
+Cochlear nucleus (ventral) multipolar cell
+Thalamus relay cell
+Hippocampus CA2 pyramidal cell
+CA2 pyramidal neuron
+Neocortex Cajal-Retzius cell
+Olfactory ensheathing cell
+Fibroblast
+Locus coeruleus NA neuron
+Basalis nucleus cholinergic neuron
+Substantia nigra pars reticulata principal cell
+Neurocortex chestnut cell
+Substantia nigra pars reticulata interneuron
+Olfactory bulb (accessory) mitral cell
+Ventral tegmental area dopamine neuron
+Striatum matrix medium spiny cell
+Caudate nucleus matrix medium spiny cell
+Putamen matrix medium spiny cell
+Striatum patch medium spiny cell
+Entorhinal cortex pyramidal cell
+CA2 pyramidal cell
+Leech swim (dorsal) interneuron
+Aplysia cerebral ganglion metacerebral cell
+Olfactory bulb (accessory) granule cell
+Dorsal tegmental nucleus small cell
+Dorsal tegmental nucleus medium cell
+Magnocellular neurosecretory cell
+Oxytocin producing magnocellular neurosecretory cell
+Vasopressin producing magnocellular neurosecretory cell
+Dentate gyrus hilar cell
+Interlaminar Astrocyte
+Marginal Astrocyte
+Pectin Glial Cell
+Type I II Oligodendrocyte
+Type I/II Oligodendrocyte
+Synantocyte
+Pigment Epithelial Cell
+Pituicyte
+Ventricular Cardiac Muscle Cell
+Retinal Cone Cell
+Neocortex pyramidal cell layer 3
+Tanycyte
+Alpha Motor Neuron
+Oligodendrocyte Precursor Cell
+Nervous System Cell
+Retina photoreceptor cell
+Neocortex stellate spiny cell
+Perivascular Astrocyte
+Perivascular Macrophage
+Bergmann Glial Cell
+Velate Astrocyte
+Hippocampus (CA) pyramidal cell
+Perineuronal Oligodendrocyte
+Pericyte
+Ciliary ganglion cell
+Astrocyte
+Cerebellum Golgi Cell
+Neuron
+Gamma Motor Neuron
+Retina rod
+Motor Neuron
+Spherical Bushy Cell
+Bipolar Progenitor Cell
+Capillary Endothelial Cell
+Choroid Epithelial Cell
+Vascular Endothelial Cell
+Cochlea hair cell outer
+Muller Cell
+Neocortex stellate cell
+Ependymal Cell
+Cerebellar Granule Cell
+Skeletal Muscle Cell
+Cell
+Meninges Cell
+Macrophage
+Neostriatum cholinergic cell
+Macroglial Cell
+Dorsal Root Ganglion Cell
+Interfascicular Oligodendrocyte
+Vascular Cell
+Hair Cell
+Cerebellar Stellate Cell
+Fibrous Astrocyte
+Neocortex pyramidal cell
+Eye Photoreceptor Cell
+NG2 Cell
+Glial Cell
+Ependymoglial Cell
+Protoplasmic Astrocyte
+Hippocampus CA3 pyramidal cell
+Sub-ependymal Astrocyte
+Schwann Cell
+Cochlea hair cell inner
+Neocortex bipolar neuron
+Epithelial Cell
+Precursor Cell
+Cerebellum Purkinje cell
+Type III IV Oligodendrocyte
+Type III/IV Oligodendrocyte
+Muscle Cell
+Globular Bushy Cell
+Radial Glial Cell
+Radial Astrocyte
+Beta Tanycyte
+Cardiac Muscle Cell
+Cerebellum basket cell
+Smooth Muscle Cell
+Medium Spiny Cell
+Vestibular hair cell
+Neocortex stellate smooth cell
+Pial Cell
+Betz Cell
+Microglial Cell
+Satellite Cell
+Neocortex pyramidal cell layer 2/3
+Striated Muscle Cell
+Hippocampus CA1 pyramidal cell
+Neocortex pyramidal cell layer 5
+Oligodendrocyte
+Pyramidal cell
+Double Bouquet Cell
+Neural Stem Cell
+Alpha Tanycyte
+Olfactory tubercle islets of Calleja spiny granule neuron

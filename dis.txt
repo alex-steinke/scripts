@@ -1,0 +1,1256 @@
+Disease
+Huntingtons disease
+Autistic Disorder
+Lewy Body Disease
+Akinetic-Rigid Variant of Huntington Disease
+Juvenile-Onset Huntington Disease
+Late-Onset Huntington Disease
+Demyelinating disease
+Demyelinating Autoimmune Disease
+Diffuse Cerebral Sclerosis of Schilder
+Acute Disseminated Encephalomyelitis
+Post-Vaccinal Encephalomyelitis
+Postexanthem Encephalomyelitis
+Acute Hemorrhagic Leukoencephalitis
+Multiple Sclerosis
+Chronic Progressive Multiple Sclerosis
+Primary Progressive Multiple Sclerosis
+Secondary Progressive Multiple Sclerosis
+Relapsing-Remitting Multiple Sclerosis
+Neuromyelitis Optica
+Transverse Myelitis
+Postinfectious Myelitis
+Postvaccinal Myelitis
+Paraneoplastic Myelitis
+Neurodevelopmental disease
+Nervous system neoplastic disease
+Hereditary Central Nervous System Demyelinating Diseases
+Adrenoleukodystrophy
+Alexander Disease
+Canavan Disease
+Type I Canavan Disease
+Type II Canavan Disease
+Type III Canavan Disease
+Globoid Cell Leukodystrophy
+Classic Globoid Cell Leukodystrophy
+Infantile Globoid Cell Leukodystrophy
+Early-Onset Globoid Cell Leukodystrophy
+Late-Onset Globoid Cell Leukodystrophy
+Niemann-Pick Disease
+Niemann-Pick Disease, Type A
+Niemann-Pick Disease, Type B
+Niemann-Pick Disease, Type C
+Metachromatic Leukodystrophy
+Metachromatic Leukodystrophy, Infant-Type
+Metachromatic Leukodystrophy, Juvenile-Type
+Metachromatic Leukodystrophy, Adult-Type
+Pelizaeus-Merzbacher Disease
+Classic Pelizaeus-Merzbacher Disease
+Transitional Pelizaeus-Merzbacher Disease
+Adult Pelizaeus-Merzbacher Disease
+Progressive Multifocal Leukoencephalopathy
+Central Pontine Myelinolysis
+Polyradiculoneuropathy
+Guillain-Barre Syndrome
+Miller Fisher Syndrome
+Hereditary Sensory and Autonomic Neuropathies
+Hereditary Sensory Autonomic Neuropathy, Type 1
+Hereditary Sensory Autonomic Neuropathy, Type 2
+Hereditary Sensory Autonomic Neuropathy, Type 4
+Hereditary Sensory Autonomic Neuropathy, Type 5
+Familial Dysautonomia
+Atypical Pelizaeus-Merzbacher Disease
+Chronic Inflammatory Demyelinating Polyradiculoneuropathy
+Subacute Combined Degeneration
+Motor Neuron Disease
+Amyotrophic Lateral Sclerosis
+Progressive Bulbar Palsy
+Spinal muscular atrophy
+Spinal Muscular Atrophies of Childhood
+Type I Spinal Muscular Atrophy
+Type II Spinal Muscular Atrophy
+Type III Spinal Muscular Atrophy
+Multiple System Atrophy
+Olivopontocerebellar Atrophy
+Familial Olivopontocerebellar Atrophy
+Shy-Drager Syndrome
+Striatonigral Degeneration
+Neuromuscular Disease
+Autonomic Nervous System Disease
+Parasympathetic Nervous System Disease
+Holmes-Adie Syndrome
+Autonomic Dysreflexia
+Complex Regional Pain Syndrome
+Causalgia
+Reflex Sympathetic Dystrophy
+Horner Syndrome
+Frey Syndrome
+Isaacs Syndrome
+Sympathetic Nervous System Diseases
+Neuromuscular Junction Diseases
+Botulism
+Lambert-Eaton Myasthenic Syndrome
+Myasthenia Gravis
+Myasthenia Gravis, Ocular
+Autoimmune Experimental Myasthenia Gravis
+Neonatal Myasthenia Gravis
+Congenital Myasthenic Syndrome
+Postsynaptic Congenital Myasthenic Syndrome
+Presynaptic Congenital Myasthenic Syndrome
+Primary nervous system neoplastic disease
+Meningioma
+Nerve Sheath Neoplasms
+Neurilemmoma
+Neurofibroma
+Neurofibromatosis
+Neurofibroma, Plexiform
+Neurofibromatosis 1
+Neurofibromatosis 2
+Neurofibrosarcoma
+Neuroma
+Neurothekeoma
+Neuroectodermal Neoplasm
+Craniopharyngioma
+Adamantinous Craniopharyngioma
+Papillary Craniopharyngioma
+Neuroepithelial Neoplasm
+Ganglioneuroma
+Glioma
+Astrocytoma
+Glioblastoma
+Optic Nerve Glioma
+Ependymoma
+Subependymal Glioma
+Ganglioglioma
+Gliosarcoma
+Medulloblastoma
+Oligodendroglioma
+Neurocytoma
+Primitive Neuroectodermal Neoplasm
+Peripheral Primitive Neuroectodermal Neoplasm
+Neuroblastoma
+Olfactory Esthesioneuroblastoma
+Ganglioneuroblastoma
+Pinealoma
+Retinoblastoma
+Familial Retinoblastoma
+Sporadic Retinoblastoma
+Dyskinesia
+Ataxia
+Paresis
+Paralysis
+Metastatic nervous system neoplastic disease
+Nervous System Paraneoplastic Syndrome
+Limbic Encephalitis
+Paraneoplastic Cerebellar Degeneration
+Paraneoplastic Polyneuropathy
+Cerebellar Ataxia
+Spinocerebellar Ataxia
+Ataxia Telangiectasia
+Machado-Joseph Disease
+Gait Ataxia
+Athetosis
+Catalepsy
+Chorea
+Dystonia
+Torticollis
+Hyperkinesis
+Hypokinesia
+Myoclonus
+Opsoclonus-Myoclonus Syndrome
+Psychomotor Agitation
+Synkinesis
+Tic
+Tremor
+Nervous System Trauma
+Cerebrovascular Trauma
+Craniocerebral Trauma
+Spinal Cord Trauma
+Mental Disorder
+Adjustment Disorder
+Anxiety Disorder
+Agoraphobia
+Neurocirculatory Asthenia
+Obsessive-Compulsive Disorder
+Phobic Disorder
+Panic Disorder
+Traumatic Stress Disorder
+Combat Disorder
+Post-Traumatic Stress Disorder
+Acute Traumatic Stress Disorder
+Central Nervous System Infection
+Central Nervous System Bacterial Infection
+Central Nervous System Fungal Infection
+Central Nervous System Parasitic Infection
+Central Nervous System Viral Infection
+Prion Disease
+Creutzfeldt-Jakob Syndrome
+Familial Creutzfeldt-Jakob Disease
+Variant-Creutzfeldt-Jakob Disease
+Bovine Spongiform Encephalopathy
+Gerstmann-Straussler-Scheinker Disease
+Fatal Familial Insomnia
+Kuru
+Scrapie
+Chronic Wasting Disease
+Tauopathy
+Progressive Supranuclear Palsy
+Substance-Related Disorder
+Alcohol-Related Disorder
+Alcohol Amnestic Disorder
+Korsakoff Syndrome
+Alcohol Withdrawal Delirium
+Alcoholic Intoxication
+Alcoholism
+Metabolic Nervous System Disease
+Inborn Metabolic Brain Disease
+Alcoholic Psychosis
+Wernicke Encephalopathy
+Amphetamine-Related Disorder
+Cocaine-Related Disorder
+Cannabis-Related Disorder
+Neonatal Abstinence Syndrome
+Opioid-Related Disorder
+Heroin-Related Disorder
+Morphine-Related Disorder
+Nicotine Use Disorder
+Phencyclidine-Related Disorder
+Epilepsy
+Myoclonic Epilepsy
+Infantile Myoclonic Epilepsy
+Juvenile Myoclonic Epilepsy
+Progressive Myoclonic Epilepsy
+Lafora Progressive Myoclonic Epilepsy
+MERRF Syndrome
+Unverricht-Lundborg Syndrome
+Partial Epilepsy
+Simple Partial Epilepsy
+Complex Partial Epilepsy
+Frontal Lobe Epilepsy
+Motor Partial Epilepsy
+Sensory Partial Epilepsy
+Rolandic Epilepsy
+Temporal Lobe Epilepsy
+Benign Neonatal Epilepsy
+Familial Benign Neonatal Epilepsy
+Non-Familial Benign Neonatal Epilepsy
+Generalized Epilepsy
+Generalized Convulsive Epilepsy
+Generalized Nonconvulsive Epilepsy
+Atonic Epilepsy
+Tonic Epilepsy
+Absence Epilepsy
+Tonic-Clonic Epilepsy
+Infantile Spasms
+Post-Traumatic Epilepsy
+Reflex Epilepsy
+Landau-Kleffner Syndrome
+Seizures
+Febrile Seizures
+Status Epilepticus
+Epilepsia Partialis Continua
+Mood Disorder
+Affective Psychotic Disorder
+Bipolar Disorder
+Cyclothymic Disorder
+Depressive Disorder
+Postpartum Depression
+Major Depressive Disorder
+Dysthymic Disorder
+Seasonal Affective Disorder
+Psychotic Disorder
+Capgras Syndrome
+Paranoid Disorder
+Catatonic Schizophrenia
+Disorganized Schizophrenia
+Paranoid Schizophrenia
+Shared Paranoid Disorder
+Pervasive Development Disorder
+Asperger Syndrome
+Rett Syndrome
+Consciousness Disorder
+Unconsciousness
+Coma
+Persistent Vegetative State
+Stupor
+Syncope
+Vasovagal Syncope
+Minimally Conscious State
+Muscular Disease
+Cerebrovascular Disorder
+Brain Ischemia
+Cerebrovascular Accident
+Brain Infarction
+Brain Stem Infarction
+Claude Syndrome
+Foville Syndrome
+Millard-Gubler Syndrome
+Weber Syndrome
+Wallenberg Syndrome
+Cerebral Infarction
+Anterior Cerebral Artery Infarction
+Middle Cerebral Artery Infarction
+Posterior Cerebral Artery Infarction
+Cerebral Hemorrhage
+Nervous system disease
+Eye disease
+Retinal disease
+Retinal degeneration
+Paving stone retinal degeneration
+Deafmutism-retinal degeneration syndrome
+Glaucomatous retinal degeneration
+Myopic chorioretinal atrophy
+Retinal lattice degeneration
+Multifocal retinal degeneration
+Peripheral retinal degeneration
+Snowflake retinal degeneration
+Peripheral snowflake retinal degeneration
+Snail-track retinal degeneration
+Sudden acquired retinal degeneration
+Macular degeneration
+Age-related macular degeneration
+Dry senile macular retinal degeneration
+Cystoid macular retinal degeneration
+Wet senile macular retinal degeneration
+Familial macular degeneration
+Familial juvenile macular degeneration
+Familial pseudoinflammatory macular degeneration
+Retinal drusen
+Retinitis Pigmentosa
+Usher Syndrome
+Multisystem disease
+Usher syndrome type I
+Usher syndrome type II
+Usher syndrome type III
+Kearns-Sayer Syndrome
+Retinoschisis
+X-Linked Retinoschisis
+Congenital retinoschisis
+Degenerative Retinoschis
+Neuronal Ceroid Lipofuscinosis
+Neurodegenerative disease
+Alzheimers disease
+Parkinsons disease
+Schizophrenia
+Traumatic brain injury
+Neuropathy
+Giant axonal neuropathy
+Pick's Disease
+Neuronal intranuclear hyaline inclusion disease
+Tic disorder
+Chronic Tic Disorder
+Tourette's Disorder
+Transient Tic Disorder
+Charcot Marie Tooth disease
+Eating disorder
+Morbid obesity
+Mental retardation disorder
+Downs syndrome
+Fragile X syndrome
+Fetal alcohol syndrome
+Kennedy Syndrome
+Type IV Spinal Muscular Atrophy
+Habit Chorea
+Habit Spasm
+Habituation Spasm
+Nervous System Injury
+Craniocervical Injury
+Vascular Brain Trauma
+Vascular Brain Injury
+Head Injury
+Head Trauma
+Craniocerebral Injury
+Spinal Cord Injury
+Psychiatric Disorder
+Behavior Disorder
+Transient Situational Disturbance
+Reactive Disorder
+Anniversary Reaction
+Reactive Depression
+Anxiety Neurosis
+Neurotic Anxiety State
+Hyperkinetic Heart Syndrome
+Cardiac Neurosis
+Effort Syndrome
+Obsessive-Compulsive Neurosis
+Phobia
+Phobic Neurosis
+Panic Attack
+Stress Disorder
+War Neurosis
+Combat Neurosis
+Post-Traumatic Neurosis
+Acute Stress Disorder
+Acute Stress Disorder
+Central Nervous System Mycosis
+Viral CNS Infection
+Prion-Induced Disorder
+Transmissible Spongiform Encephalopathy
+Prion Protein Disease
+Transmissible Dementia
+Jakob Creutzfeldt Disease
+Jakob-Creutzfeldt Syndrome
+Jakob-Creutzfeldt Disease
+Creutzfeldt-Jakob Disease
+Variant Creutzfeldt-Jakob Disease
+CJD Variant
+New Variant Creutzfeldt-Jakob Disease
+Variant-Creutzfeldt-Jakob's Disease
+Mad Cow Disease
+Gerstmann-Straussler Inherited Spongiform Encephalopathy
+Gerstmann-Straussler Syndrome
+Gerstmann-Straussler-Scheinker's Disease
+Kuru Encephalopathy
+Rida
+Progressive Supranuclear Ophthalmoplegia
+Steele-Richardson-Olszewski Disease
+Steele-Richardson-Olszewski Syndrome
+Substance Abuse
+Substance Use Disorder
+Addiction
+Drug Usage
+Drug Abuse
+Drug Use Disorder
+Substance-Induced Organic Mental Disorder
+Alcohol Amnestic Syndrome
+Alcohol-Induced Dysmnesic Syndrome
+Alcohol-Induced Amnestic Syndrome
+Alcohol-Induced Amnestic Psychosis
+Alcohol-Induced Dysmnesic Psychosis
+Korsakoff Psychosis
+Wernicke-Korsakoff Syndrome
+Delirium Tremens
+Alcohol Withdrawal Hallucinosis
+Alcohol Withdrawal-Induced Delirium Tremens
+Alcohol Withdrawal Associated Autonomic Hyperactivity
+Chronic Alcoholic Intoxication
+Alcohol Abuse
+Central Nervous System Metabolic Disorder
+Metabolic Brain Syndrome
+Metabolic Nervous System Disorder
+Metabolic Encephalopathy
+Metabolic Nervous System Syndrome
+Metabolic Brain Disease
+CNS Metabolic Disorder
+Metabolic Brain Disorder
+Inborn Errors of Metabolism, Brain
+Inherited Metabolic Brain Disorder
+Inborn Metabolic Brain Disorder
+Inborn Metabolic Central Nervous System Disease
+Inborn Metabolic CNS Disease
+Familial Metabolic Brain Disease
+Inborn Metabolic CNS Disorder
+Inborn Metabolic Central Nervous System Disorder
+Inborn Metabolic Encephalopathy
+Inherited Metabolic Brain Disease
+Familial Metabolic Brain Disorder
+Gayet-Wernicke Encephalopathy
+Wernicke Syndrome
+Wernicke Disease
+Cerebral Beriberi
+Amphetamine Abuse
+Amphetamine Usage
+Cocaine Usage
+Cocaine Abuse
+Cannabis Abuse
+Hashish Abuse
+Marijuana Abuse
+Cannabinoid Abuse
+Narcotic Abuse
+Heroin Usage
+Heroin Abuse
+Morphine Abuse
+Morphine Usage
+Tobacco Use Disorder
+PCP Abuse
+Angel Dust Abuse
+Seizure Disorder
+Epileptic Seizure
+Symptomatic Myoclonic Epilepsy
+Myoclonic Encephalopathy
+Myoclonic Seizure Disorder
+Early Childhood Myoclonic Epilepsy
+Janz Juvenile Myoclonic Epilepsy
+Janz Impulsive Petit Mal
+Janz Syndrome
+Impulsive Petit Mal Epilepsy
+Adolescent Myoclonic Epilepsy
+Juvenile Myoclonic Epilepsy of Janz
+Lafora Type Progressive Myoclonic Epilepsy
+Lafora Body Disease
+Late Onset Lafora Body Disease
+Lafora Disease
+Fukuhara Disease
+Myoclonic Epilepsy and Ragged Red Fibers
+Myoclonic Epilepsy with Ragged Red Fibers
+Fukuhara Syndrome
+Lundborg-Unverricht Syndrome
+Mediterranean Myoclonic Epilepsy
+Baltic Myoclonus Epilepsy
+Unverricht Disease
+Baltic Myoclonus
+Localization-Related Epilepsy
+Focal Epilepsy
+Simple Partial Seizure
+Focal Seizure Disorder
+Simple Partial Seizure, Consciousness Preserved
+Partial Seizure Disorder
+Simple Partial Epilepsy
+Simple Partial Seizure, Consciousness Preserved
+Simple Partial Seizure
+Complex Partial Seizure Disorder
+Complex Partial Seizure Disorder
+Focal Motor Epilepsy
+Hemimotor Epilepsy
+Motor Partial Seizure Disorder
+Hemimotor Seizure Disorder
+Motor Seizure Disorder
+Versive Seizures
+Partial Sensory Seizure
+Sensory Epilepsy
+Focal Sensory Seizure
+Simple Partial Seizure, Special Sensory Symptoms
+Sensory Focal Seizure Disorder
+Sensory Partial Seizure Disorder
+Sensory Seizure Disorder
+Benign Rolandic Epilepsy of Childhood
+Sylvian Epilepsy
+Benign Rolandic Epilepsy
+Benign Childhood Epilepsy With Centro-Temporal Spikes
+Centralopathic Epilepsy
+Rolands Epilepsy
+Centrotemporal Epilepsy
+Uncinate Epilepsy
+Childhood Benign Psychomotor Epilepsy
+Lateral Temporal Epilepsy
+Benign Neonatal Convulsions
+Familial Benign Neonatal Convulsions
+Non-Familial Benign Neonatal Convulsions
+Symptomatic Generalized Epilepsy
+Generalized Onset Seizure Disorder
+Generalized Seizure Disorder
+Convulsive Generalized Seizure Disorder
+Nonconvulsive Generalized Seizure Disorder
+Akinetic Epilepsy
+Juvenile Absence Epilepsy
+Minor Epilepsy
+Atonic Absence Seizure
+Childhood Absence Epilepsy
+Absence Seizure
+Pyknolepsy
+Absence Seizure Disorder
+Petit Mal Epilepsy
+Petit Mal Convulsion
+Pykno-Epilepsy
+Akinetic Petit Mal
+Grand Mal Convulsions
+Grand Mal Seizure Disorder
+Tonic-Clonic Seizure Syndrome
+Tonic-Clonic Convulsions
+Major Motor Seizure Disorder
+Grand Mal Seizures Disorder
+Tonic-Clonic Convulsion Syndrome
+Tonic-Clonic Seizure Disorder
+Major Epilepsy
+Tonic-Clonic Convulsion Disorder
+Grand Mal Convulsions Epilepsy
+Salaam Seizures
+Salaam Attacks
+Jackknife Seizures
+Nodding Spasm
+Lightning Attacks
+Hypsarrhythmia
+West Syndrome
+Spasmus Nutans
+Post-Traumatic Seizure Disorder
+Impact Seizure
+Traumatic Epilepsy
+Concussive Convulsion
+Acquired Epileptic Aphasia
+Acquired Childhoood Aphasia with Convulsive Disorder
+Landau-Kleffner Acquired Epileptiform Aphasia
+Convulsive Seizures
+Non-Epileptic Convulsion
+Convulsions
+Febrile Convulsions
+Pyrexial Seizure
+Fever Seizure
+Pyrexial Convulsion
+Fever Convulsion
+Febrile Fit
+Febrile Convulsion Seizure
+Kojewnikow Syndrome
+Kojevnikov's Epilepsy
+Kozhevnikov Syndrome
+Affective Disorder
+Psychotic Mood Disorder
+Reactive Psychotic Depression
+Affective Psychosis
+Bipolar Depression
+Affective Bipolar Psychosis
+Manic-Depressive Psychosis
+Cyclothymic Personality
+Unipolar Depression
+Melancholia
+Depressive Neurosis
+Neurotic Depression
+Depressive Syndrome
+Endogenous Depression
+Post-Natal Depression
+Post-Partum Depression
+Involutional Psychosis
+Involutional Melancholia
+Involutional Paraphrenia
+Involutional Depression
+Seasonal Mood Disorder
+Psychosis
+Psychosis
+Paranoia
+Paranoid Psychosis
+Hebephrenic Schizophrenia
+Delusional Disorder
+Folie a Trois
+Folie a Deux
+Shared Psychotic Disorder
+Pervasive Child Development Disorder
+Asperger's Disorder
+Autism-Dementia-Ataxia-Loss of Purposeful Hand Use Syndrome
+Cerebroatrophic Hyperammonemia
+Rett Disorder
+Altered Level of Consciousness
+Semiconsciousness
+Depressed Level of Consciousness
+Loss of Consciousness
+Unconscious State
+Loss of Consciousness
+Comatose
+Pseudocoma
+Postcomatose Unawareness State
+Posttraumatic Unawareness State
+Prolonged Posttraumatic Unawareness
+Vegetative State
+Posttraumatic Vegetative State
+Permanent Vegetative State
+Narcosis
+Syncopal Vertigo
+Drop Attack
+Syncopal Episode
+Supine Syncope
+Neurogenic Syncope
+Neurocardiogenic Syncope
+Vasodepressor Syncope
+Malignant Neurocardiogenic Syncope
+Neurally Mediated Faint
+Cerebral Syncope
+Neurally-Mediated Vasovagal Syncope
+Muscle Disorder
+Myopathy
+Cerebrovascular Insufficiency
+Intracranial Vascular Disorder
+Brain Vascular Disorder
+Ischemic Encephalopathy
+Ischemic Brain Injury
+Cerebral Ischemia
+Apoplexy
+Cerebral Stroke
+Cerebrovascular Apoplexya
+Cerebrovascular Stroke
+Stroke
+Brainstem Stroke
+Inferior medial pontine syndrome
+Ventral pontine syndrome
+Vieseaux-Wallenberg Syndrome
+Lateral medullary syndrome
+Lateral Bulbar syndrome
+Posterior Inferior Cerebellar Artery Syndrome
+Dorsolateral Medullary Syndrome
+Anterior Cerebral Artery Syndrome
+ACA Infarction
+Anterior Cerebral Artery Distribution Infarction
+Anterior Cerebral Artery Stroke
+Heubner Artery Infarction
+Anterior Cerebral Artery Circulation Infarction
+Middle Cerebral Artery Circulation Infarction
+
+Middle Cerebral Artery Stroke
+MCA Infarction
+Middle Cerebral Artery Syndrome
+Posterior Cerebral Artery Stroke
+Posterior Cerebral Artery Syndrome
+
+PCA Infarction
+Cerebral Parenchymal Hemorrhage
+Cerebrum Hemorrhage
+Cerebral Brain Hemorrhage
+Intracerebral Hemorrhage
+Nervous system disorder
+Ophthalmic disorder
+Ophthalmological disorder
+Disease of eye
+Eye disorder
+Occular disease
+retinal disorder
+retinopathy
+retinopathia
+degeneration of retina
+Cobblestone retinal degeneration
+Dalinas-Amalric syndrome
+Diallinas-Amalric syndrome
+Glaucomatous retinal degeneration syndrome
+Peripheral myopic atrophy
+Gross myopic retinal degeneration
+Myopic chorioretinal atrophy disorder
+Myopic chorioretinal degeneration
+Palisade degeneration of retina
+Retinal lattice degeneration disorder
+Lattice retinal degeneration
+Multifocal retinal degeneration disorder
+Peripheral degeneration of retina
+Peripheral retinal degeneration disorder
+Snowflake retinal degeneration disorder
+Snowflake retinal degeneration
+Peripheral snowflake retinal degeneration disorder
+Snail-track retinal degeneration disorder
+Sudden acquired retinal degeneration disorder
+Maculadegeneration
+Senile macular degeneration of retina
+Age related maculopathy
+Senile macular degeneration
+Geographic atrophy of macula
+Nonexudative senile macular retinal degeneration disorder
+Atrophic senile macular retinal degeneration
+Nonexudative senile macular degeneration
+Atrophic age-related macular degeneration
+Nonexudative age-related macular degeneration
+Nonneovascular age-related macular degeneration
+Nonexudative age-related macular degeneration disorder
+Central cystoid Retinal Edema
+Cystoid Macular Edema
+Exudative senile macular retinal degeneration
+Subretinal neovascularization of macula
+Disciform senile macular retinal degeneration
+Exudative age-related macular degeneration disorder
+Junius-Kuhnt degeneration
+Exudative senile macular degeneration of retina
+Kuhnt-Junius degeneration disorder
+Kuhnt-Junius degeneration
+Stargardts disease
+Familial juvenile macular degeneration syndrome
+Fundus flavimaculatus
+Familial pseudoinflammatory macular degeneration disorder
+Sorsbys macular degeneration
+Degenerative drusen of retina
+Drusen of retina
+Colloid bodies in retina
+Tapetoretinal degeneration
+Pigmentary retinopathy
+Chorioretinal heredodystrophy
+Rod cone Dystrophy
+Hallgren syndrome
+dystrophia retinae-dysacousis syndrome
+Usher's Syndrome
+Retinitis pigmentosa-deafness syndrome
+Ushers Syndrome
+dystrophia retinae pigmentosa-dysostosis syndrome
+Hallgrens syndrome
+Hallgren's syndrome
+retinitis pigmentosa-congenital deafness syndrome
+Graefe-Usher syndrome
+Usher syndrome type 1
+Usher's syndrome type 1
+Usher's syndrome type II
+Usher syndrome type 2
+Usher's syndrome type III
+Usher syndrome type 3
+Kearn-Sayre Mitochondrial Cytopathy
+Mitochondrial ocular myopathy
+Pigmentary degeneration of the retina plus heart block syndrome
+Kearns Syndrome
+Kearns-Sayre-Shy-Daroff Syndrome
+Retinoschisis disorder
+Schisis of retina
+Juvenile retinoschisis
+Retinoschisis disorder
+Congenital retinoschisis disorder
+Batten Disease
+Batten-Spielmeyer-Vogt Disease
+Batten-Mayou Disease
+Spielmeyer-Vogt Disease
+Battens Disease
+Batten
+Batten's Disease
+Neurodegenerative Disorder
+Neurologic Degenerative Condition
+Nervous System Degenerative Disease
+Degenerative Neurologic Disease
+Degenerative Neurologic Disorder
+Alzheimer disease
+Alzheimer Senile Dementia
+Alzheimer
+Alzheimer Type Senile Dementia
+Alzheimer Type Dementia
+Alzheimer's disease
+Alzheimer's Dementia
+Alzheimer Dementia
+Alzheimer's
+Alzheimers
+Parkinsonian disorder
+Parkinsons
+Parkinson's disease
+Idiopathic PD
+Parkinson syndrome
+Parkinson's syndrome
+Parkinson disease
+Paralysis Agitans
+Parkinson
+Schizophrenic Disorder
+Dementia Praecox
+tbi
+TBI
+intracranial injury
+Picks Disease
+neuronal intranuclear inclusion disease
+intranuclear inclusion body disease
+Tourette syndrome
+Tourette Disorder
+Tourette's Syndrome
+Gilles de la Tourette syndrome
+TS
+Tourettes Disorder
+hereditary motor and sensory neuropathy
+peroneal muscular atrophy
+Eating-related disorder
+Eating related disorder
+Trisomy 21
+Down's syndrome
+Down syndrome
+Escalante's syndrome
+Marker X syndrome
+FRAXA syndrome
+Martin-Bell syndrome
+FAS
+Progressive Myelopathic Muscular Atrophy
+Bulbospinal Neuronopathy
+Finkey late-adult type SMA
+late-onset Finkel-type spinal muscular atrophy
+GAN
+NIHID
+CMT
+HMSN
+Huntington's
+Huntington's disease
+Chronic Progressive Hereditary Chorea (Huntington)
+Huntington Chronic Progressive Hereditary Chorea
+Huntington's Chorea
+Huntington disease
+Early Infantile Autism
+Kanner's Syndrome
+Autism
+Infantile Autism
+Akinetic-Rigid Variant of Huntingtons Disease
+Huntington Disease, Akinetic-Rigid Variant
+Akinetic-Rigid Variant of Huntington's Disease
+Juvenile Huntington Disease
+Juvenile Onset Huntington's Disease
+Juvenile-Onset Huntingtons Disease
+Juvenile-Onset Huntington's Disease
+Late-Onset Huntington's Disease
+Late Onset Huntingtons Disease
+Late Onset Huntington Disease
+Late-Onset Huntingtons Disease
+Demyelinating disorder
+Autoimmune Demyelinating Diseases, Central Nervous System
+CNS Autoimmune Demyelinating Disorders
+CNS Demyelinating Autoimmune Diseases
+Alpers Disease
+Cerebral Sclerosis, Diffuse
+Schilders Disease
+Alpers' Disease
+Encephalitis Periaxialis Diffusa
+Alpers Syndrome
+Myelinoclastic Diffuse Sclerosis
+Schilder Disease
+Poliodystrophia Cerebri
+Encephalitis Periaxialis Concentrica
+Encephalitis Periaxialis
+Schilder's Disease
+Balo's Concentric Sclerosis
+Postinfectious Encephalomyelitis
+Post-Vaccinal Encephalitis
+Vaccination Encephalitis
+Postvaccinal Encephalitis
+Hurst's Disease
+Acute Necrotizing Encephalitis
+Acute Necrotizing Hemorrhagic Encephalomyelitis
+Subacute Hemorrhagic Leukoencephalitis
+Leukoencephalitis Acuta Hemorrhagica
+Hemorrhagic Necrotizing Encephalomyelitis
+Acute Fulminating Multiple Sclerosis
+Disseminated Sclerosis
+Progressive Relapsing Multiple Sclerosis
+Remittent Progressive Multiple Sclerosis
+Remitting-Relapsing Multiple Sclerosis
+Acute Relapsing Multiple Sclerosis
+Devics Disease
+Devics Syndrome
+Devic Syndrome
+Devic's Syndrome
+Devic's Disease
+Devic Disease
+Necrotizing Myelitis
+Subacute Transverse Myelitis
+Transverse Myelopathy Syndrome
+Acute Transverse Myelitis
+Demyelinative Myelitis
+Schilder-Addison Complex
+X-Linked Adrenoleukodystrophy
+Adrenomyeloneuropathy
+Alexander's Disease
+Alexanders Disease
+Canavan-van Bogaert-Bertrand Disease
+Spongy Disease of Central Nervous System
+Canavan's Disease
+Spongy Disease of White Matter
+Familial Form of Canavan Disease
+Canavans Disease
+Leukodystrophy, Spongiform
+Aspartoacylase Deficiency Disease
+Type I Canavans Disease
+Neonatal Canavan Disease
+Type I Canavan's Disease
+Type II Canavans Disease
+Type II Canavan's Disease
+Spongy Degeneration of Infancy
+Infantile Canavan Disease
+Type III Canavans Disease
+Type III Canavan's Disease
+Juvenile Canavan Disease
+Globoid Leukodystrophy
+Krabbes Disease
+Galactosylceramidase Deficiency Disease
+Krabbe Disease
+Diffuse Globoid Body Sclerosis
+Galactosylceramide-beta-Galactosidase Deficiency Disease
+Krabbe's Disease
+Krabbe's Leukodystrophy
+Niemann Pick's Disease
+Niemann-Pick Diseases
+Niemann Pick Disease
+Niemann-Pick's Disease
+Niemann Pick's Disease, Type A
+Niemann-Pick's Disease, Type A
+Niemann-Pick Disease, Acute Neuronopathic Form
+Sphingomyelinase Deficiency Disease
+Classical Niemann-Pick Disease
+Niemann-Pick Disease, Neuronopathic Type
+Niemann-Pick Disease, Acute Neurovisceral Form
+Niemann Pick's Disease, Type B
+Niemann-Pick Disease, Visceral
+Niemann-Pick Disease, Non-Neuronopathic Type
+Niemann-Pick Disease, Type E
+Niemann-Pick Disease, Adult Non-Neuronopathic
+Niemann-Pick's Disease, Type B
+Niemann Pick's Disease, Type C
+Niemann Pick Disease, Type C
+Niemann-Pick Disease, Nova Scotian
+Niemann-Pick Disease, Type D
+Neurovisceral Storage Disease with Vertical Supranuclear Ophthalmoplegia
+Niemann-Pick Disease without Sphingomyelinase Deficiency
+Niemann-Pick Disease with Cholesterol Esterification Block
+Niemann-Pick Disease, Chronic Neuronopathic Form
+Niemann-Pick's Disease, Type C
+Greenfield's Disease
+Sulfatide Lipidosis
+Cerebroside Sulphatase Deficiency Disease
+Arylsulfatase A Deficiency Disease
+HMN Proximal Type I
+SMA2
+SMA type III
+SMA3
+Cockayne-Pelizaeus-Merzbacher Disease
+Pelizaeus-Merzbacher's Disease
+Pelizaeus Merzbacher's Disease
+Classic Pelizaeus-Merzbacher's Disease
+Classic Pelizaeus Merzbacher's Disease
+Transitional Pelizaeus-Merzbacher's Disease
+Transitional Pelizaeus Merzbacher's Disease
+Adult Pelizaeus-Merzbachers Disease
+Adult Pelizaeus-Merzbacher's Disease
+PML
+JC Polyomavirus Encephalopathy
+Extrapontine Myelinolysis
+Extrapontine Myelinoclasis
+Polyradiculoneuritis
+Peripheral Autoimmune Demyelinating Disease
+Polyneuropathy
+Landry-Guillain-Barre Syndrome
+Acute Inflammatory Polyradiculoneuropathy
+Guillaine-Barre Syndrome
+Acute Inflammatory Polyneuropathy
+Acute Inflammatory Demyelinating Polyradiculoneuropathy
+Acute Autoimmune Neuropathy
+Fisher Syndrome
+Guillain Barre Syndrome, Miller Fisher Variant
+Ophthalmoplegia, Ataxia and Areflexia Syndrome
+Hereditary Sensory Radicular Neuropathy
+Congenital Insensitivity to Pain with Anhidrosis
+HSAN Type I
+HSN Type I
+HSAN Type II
+HSN Type II
+HSN Type IV
+HSAN Type IV
+HSN Type V
+HSAN Type V
+Dominant Hereditary Sensory Neuropathy, Type 3
+Hereditary-Sensory and Autonomic Neuropathy Type III
+Riley-Day Syndrome
+Neuropathy, Hereditary and Autonomic, Type III
+Atypical Pelizaeus Merzbacher's Disease
+Atypical Pelizaeus-Merzbacher's Disease
+Chronic Inflammatory Polyradiculoneuropathy
+Chronic Inflammatory Polyradiculopathy
+Chronic Inflammatory Demyelinating Polyneuropathy
+Subacute Combined Neuropathy Degeneration
+Motor System Disease
+Gehrigs Disease
+Gehrig's Disease
+Lou Gehrig Disease
+Lou Gehrig's Disease
+Lou Gehrigs Disease
+Fazio-Londe's Syndrome
+Bulbar paralysis
+
+Fazio-Londe Syndrome
+Bulbar Palsy
+Kennedy Syndrome
+Progressive Myelopathic Muscular Atrophy
+Kennedy's Syndrome
+Bulbospinal Neuronopathy
+Kennedy Syndrome
+Progressive Myelopathic Muscular Atrophy
+Kennedy's Syndrome
+Bulbospinal Neuronopathy
+Hereditary Motor Neuropathy Proximal Type I
+Werdnig-Hoffmann Disease
+Infantile Spinal Muscular Atrophy
+Late infantile spinal muscular atrophy
+Juvenile Spinal Muscular Atrophy
+Kugelberg-Welander Disease
+Multiple System Atrophy Syndrome
+Multisystemic Atrophy
+Multisystem Atrophy
+Olivopontocerebellar Atrophy
+Olivo-Ponto-Cerebellar Atrophy
+Pontoolivocerebellar Atrophy
+Olivopontocerebellar Atrophies
+Olivopontocerebellar Degeneration
+Olivo-Ponto-Cerebellar Degeneration
+Presenile Ataxia
+Dejerine-Thomas Syndrome
+Inherited Olivopontocerebellar Atrophy
+Dysautonomic Orthostatic Hypotension
+Dysautonomia-Orthostatic Hypotension Syndrome
+Progressive Autonomic Failure
+Multiple System Atrophy with Orthostatic Hypotension
+Idiopathic Orthostatic Hypotension, Shy-Drager Type
+Striatonigral Atrophy
+HSAN Type III
+ANS Diseases
+Dysautonomia
+Autonomic Peripheral Nervous System Diseases
+Autonomic Diseases
+Autonomic Nervous System Disorders
+CRPS Type II
+Adie Syndrome
+Autonomic Hyperreflexia
+Spinal Autonomic Dysreflexia
+Autonomic Hyperreflexia
+Causalgia Syndrome
+Deafferentation Pain
+Complex Regional Pain Syndrome Type II
+Shoulder-Hand Syndrome
+Sudek Atrophy
+Reflex Sympathetic Dystrophy Syndrome
+Sympathetic Reflex Dystrophia
+Algodystrophic Syndrome
+Algodystrophy
+Cervical Sympathetic Dystrophy
+Complex Regional Pain Syndrome Type I
+Bernard Syndrome
+Oculosympathetic Syndrome
+Sympathetic Ocular-Ophthalmoplegia
+Claude Bernard-Horner Syndrome
+Miosis, Innervational Defect
+Ptosis Sympathetic
+Gustatory Hyperhidrosis
+Sympathetic Ocular-Ophthalmoplegia
+Salivosudoriparous Syndrome
+Von Frey's Syndrome
+Frey's Syndrome
+Von Frey Syndrome
+Baillarger Syndrome
+Freys Syndrome
+Auriculotemporal Syndrome
+Quantal Squander
+Isaac's Syndrome
+Pseudomyotonia Syndrome of Isaacs
+Gamstorp-Wohlfart Syndrome
+Pseudomyotonia
+Continuous Muscle Activity Syndrome
+Continuous Myokymia
+Acquired Neuromyotonia
+Neuromyotonia
+Isaac Syndrome
+Isaacs-Mertens Syndrome
+CRPS Type I
+Neuromuscular Junction Disorders
+Neuromuscular Transmission Disorders
+Toxico-Infectious Botulism
+Myasthenic-Myopathic Syndrome of Eaton-Lambert
+Lambert-Eaton Syndrome
+Lambert-Eaton's Syndrome
+Eaton-Lambert Syndrome
+Eaton-Lambert Myasthenic Syndrome
+Myasthenic-Myopathic Syndrome of Lambert-Eaton
+Myasthenia Gravis, Generalized
+Experimental Myasthenia
+Experimental Myasthenia Gravis
+Antenatal Myasthenia Gravis
+Congenital Myasthenia Gravis
+Slow-Channel Congenital Myasthenic Syndrome
+Nerve Tissue Neoplasm
+Nervous Tissue Neoplasm
+Schwannoma
+Neurilemmosarcoma
+Neurinoma
+Neurilemoma
+Multiple Neurofibromas
+Neurofibromatosis Syndrome
+Pachydermatocele
+Tumor Royale
+Elephantiasis Neuromatosis
+Recklinghausen Disease of Nerve
+Neurofibromatosis Type 1
+von Recklinghausen Disease
+Neurofibromatosis Type I
+Neurofibromatosis I
+Neurofibromatosis Type II
+Neurofibromatosis II
+Bilateral Acoustic Schwannoma
+Familial Acoustic Neuroma
+Neurofibromatosis Type 2
+Bilateral Acoustic Neuroma
+Bilateral Acoustic Neurofibromatosis
+Neurogenic Sarcoma
+Neurotheceoma
+Neurothecoma
+Myxoma, Nerve Sheath
+Neuroectodermal Tumor
+Rathke Cleft Neoplasm
+Rathke Pouch Tumor
+Craniopharyngioma, Child
+Craniopharyngioma, Adult
+Neuroepithelial Tumor
+Gangliocytoma
+Glial Cell Tumor
+Astroglioma
+Astrocytic Glioma
+Glioblastoma Multiforme
+Giant Cell Glioblastoma
+Astrocytoma, Grade IV
+Glioblastoma Multiforme
+Optic Glioma
+Malignant Optic Nerve Astrocytoma
+Subependymal Astrocytoma
+Subependymal Gliosis
+Subependymoma
+Glioblastoma with Sarcomatous Component
+Sarcomatous Glioma
+Medullomyoblastoma
+Mixed Oligodendroglioma-Ependymoma
+Oligodendroblastoma
+Mixed Oligodendroglioma-Astrocytoma
+Central Neurocytoma
+Primitive Neuroectodermal Tumor
+Primitive Neuroepithelial Tumor
+Primitive Neuroepithelial Neoplasm
+Neuroepithelioma
+Peripheral Primitive Neuroectodermal Tumor
+Peripheral Neuroectodermal Tumor
+Extracranial Primitive Neuroectodermal Tumor
+Olfactory Neuroblastoma
+Paranasal Sinus-Nasal Cavity Esthesioneuroblastoma
+Aesthesioneuroblastoma
+Esthesioneuroblastoma
+Pineal Neoplasm
+Pineal Parenchymal Tumor
+Pinealocytoma
+Pineal Tumor
+Pineoblastoma
+Pineocytoma
+Retinal Glioma
+Retinal Glioblastoma
+Retinal Neuroblastoma
+Hereditary Retinoblastoma
+Involuntary Movements
+Asterixis
+Ballismus
+Abnormal Movements
+Hemiballism
+Hemiballismus
+Plegia
+Paraneoplastic Limbic Encephalitis
+Paraneoplastic Cerebellar Syndrome
+Paraneoplastic Peripheral Neuropathy
+Paraneoplastic Neuropathy
+Dysmetria
+Adiadochokinesis
+Cerebellar Dysmetria
+Cerebellar Incoordination
+Cerebellar Hemiataxia
+Dominantly-Inherited Spinocerebellar Ataxia
+Spinocerebellar Atrophy
+Ataxia Telangiectasia Syndrome
+Louis-Bar Syndrome
+Joseph Disease
+Joseph's Disease
+Autosomal Dominant Striatonigral Degeneration
+Spinocerebellar Ataxia Type 3
+Nervous System Azorean Disease
+Joseph Azorean Disease
+Machado-Joseph's Disease
+Josephs Disease
+Machado-Josephs Disease
+Machado-Joseph Azorean Disease
+Ataxia of Gait
+Cerebellar Gait Ataxia
+Cerebellar Gait
+Hammond's Disease
+Athetoid Movements
+Hammond Disease
+Hammonds Disease
+Flexibility, Waxy
+Anochlesia
+Cerea Flexibilitas
+Choreiform Movement
+Choreic Movement
+Muscle Dystonia
+Cervical Dystonia
+Wryneck
+Generalized Hyperkinesia
+Hyperkinetic Movements
+Motor Hyperactivity
+Hyperkinesia
+Hypodynamia
+Bradykinesia
+Myoclonic Jerking
+Dancing Eyes-Dancing Feet Syndrome
+Paraneoplastic Opsoclonus-Myoclonus Ataxia
+Opsoclonus Myoclonus Ataxia
+Kinsbourne Syndrome
+Restlessness
+Psychomotor Excitement
+Psychomotor Restlessness
+Akathisia
+Psychomotor Hyperactivity

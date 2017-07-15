@@ -1,0 +1,704 @@
+polyAb
+i.m.
+Mass spec
+Anatomical entity
+Mass spectrometry assay
+Immunoprecipitation assay
+Chromatin immunoprecipitation assay
+Vendor
+R-weighted back projection
+Normal control group
+Structural MRI platform
+Action observation paradigm
+Sample sectioning
+Episodic recall paradigm
+Difference
+Breathhold paradigm
+TR
+Sham control group
+Functional MRI platform
+Acupuncture paradigm
+Sample dissection
+Divided auditory attention paradigm
+Encoding paradigm
+Unit
+Investigator role
+Classical conditioning paradigm
+Tesla
+Sham operated control group
+Cognitive assessment
+Talairach-Tournoux Atlas
+Genotype
+Serial item recognition paradigm
+Behavioral assessment
+Verbal fluency assessment
+Monoclonal antibody
+2D spatial image
+Confocal microscope
+Neuropsychological assessment
+Sternberg paradigm
+Polyclonal antibody
+MRI 3D image
+Biochemical specimen preparation protocol
+Laser scanning confocal microscope
+Visual oddball paradigm
+Contrast agent
+Left handedness
+Microscopy contrast enhancement protocol
+MRI 2D image
+Electron microscope
+Ambidextrous
+Fixation protocol
+Scanning electron microscope
+Cognitive phenotype
+Immunolabeling protocol
+Sensorimotor paradigm
+Transmission electron microscope
+Intramuscular injection
+Verbal fluency
+Intracellular injection protocol
+Duration
+Free recall ability
+Memory phenotype
+Staining protocol
+Body weight
+Subthelial injection
+Blood Oxygenation Level Dependent signal
+Collaborator
+Organism attribute
+Mild cognitive impairment
+TA
+Sham operated role
+Physical phenotype
+Protein expression phenotype
+Experimental paradigm
+FMRIB Software Library
+Project leader
+Dynamic causal modeling
+TE
+Working memory phenotype
+Gender phenotype
+Organism characteristic
+Experimenter
+Behavioral paradigm
+Gene specific probe
+Reagent
+Polynomial coefficient
+AFNI
+Vector
+Molecular phenotype
+Protein specific probe
+Item recognition paradigm
+Algorithm
+Phenotype
+Delayed matching to sample paradigm
+DNA specific probe
+Lead institution
+Transmission electron microscopic imaging assay
+Cardinal part of imaging instrument
+Imaging instrument
+Behavioral phenotype
+Collaborating institution
+RNA specific probe
+Cardinal part of microscope
+Magnetic resonance imaging scanner
+Relaxation time
+Smoking behavior
+Toxin
+Trail making test
+Microscope
+Staining
+T1 relaxation time
+Smoking
+Antibody
+Mini mental state examination
+Optical microscope
+Past smoking behavior
+Anatomical atlas data set
+Phalloidin
+Multiphoton microscope
+Experiment
+T2 weighted 2D image
+Anatomical data set
+Non smoking
+Digital aggregate entity
+Block design
+Specimen preparation protocol
+Agent delivery process
+MNI Atlas
+Imaging protocol
+fMRI beta
+Ingestion
+Convolution
+Vascular perfusion
+Immersion
+Preparative role
+Gene expression phenotype
+T1 weighted protocol
+Injection
+Intracellular injection
+Instrument operator
+Fixative
+T2 relaxation time
+Microscopic imaging assay
+Quantitative organism attribute
+Drawing paradigm
+Glutaraldehyde fixative
+Intraperotineal injection
+T2* relaxation time
+Data analyzer
+Light microscopic imaging assay
+Phenotype attribute
+Specimen fixation
+Intrathecal injection
+Tannic acid fixative
+Principal investigator
+Electron microscopic imaging assay
+Tissue dissection
+Paraformaldehyde fixative
+Tissue sectioning
+Nicotine use assessment
+Energy filter
+Fagerstrom test for nicotine dependence
+Gross dissection
+Auditory oddball paradigm
+California Verbal Learning Test
+Microdissection
+In column energy filter
+3D spatial image
+Simple saccade paradigm
+Never has smoked
+Laser capture
+Tissue section
+T1 weighted 2D image
+PET imaging protocol
+Behavioral laterality
+Anti saccade paradigm
+Algorithm execution
+Temporal characteristic value
+Oddball discrimination paradigm
+MRI protocol
+Handedness
+Covert visual reading paradigm
+Specimen preparation
+Mismatch negativity paradigm
+Intermediate voltage electron microscope
+Longitudinal magnetization
+Right handedness
+Covert braille reading paradigm
+Image reconstruction software
+High voltage electron microscope
+Deductive reasoning paradigm
+Longitudinal relaxation time
+Software toolkit
+Image processing software
+Ultrahigh voltage electron microscope
+T2 weighted protocol
+Eye Saccade paradigm
+Image analysis software
+Electron tomography software
+Diffusion tensor imaging protocol
+Reading paradigm
+Co-investigator
+Imaging platform
+Control group
+Image reconstruction algorithm
+Eating paradigm
+Magnetic resonance imaging platform
+Echo planar imaging protocol
+Transverse magnetization
+Relational database
+Data acquisition software
+Documentation generation software
+Data processing software
+Data analysis software
+Image acquisition software
+Data visualization software
+Sequence analysis software
+Time-series analysis software
+1D Time-series analysis software
+2D Time-series analysis software
+3D Time-series analysis software
+Network analysis software
+3D visualization software
+4D visualization software
+Software development tool
+Data compression software
+Software development environment
+Compiler
+Code Profiler
+Code testing framework
+Segmentation software
+Image alignment software
+Registration software
+Data access protocol
+Static HTML document
+Dynamic HTML document
+Web service
+Application programming interface
+SPECT imaging protocol
+EM imaging protocol
+SEM imaging protocol
+TEM imaging protocol
+STEM imaging protocol
+Immunohistochemical protocol
+Fluorescence labeling protocol
+Golgi staining protocol
+Immunocytochemistry protocol
+network graph visualization software
+Version source control system
+Nissl staining protocol
+Myelin staining protocol
+Radiolabeling protocol
+Functional MRI protocol
+Structural MRI protocol
+Optical imaging protocol
+Light transmission optical imaging protocol
+Light emitting optical imaging protocol
+Bright-field imaging protocol
+Dark-field imaging protocol
+Multiphoton imaging protocol
+Confocal imaging protocol
+Laser scanning confocal imaging protocol
+Fluorescence resonance energy transfer imaging protocol
+Differential interference contrast imaging protocol
+Phase contrast imaging protocol
+Polarization contrast imaging protocol
+Total internal reflection imaging protocol
+Intrinsic emission imaging protocol
+Spectroscopic imaging protocol
+Electron Energy Loss Spectroscopy imaging protocol
+Computer Axial Tomography imaging protocol
+Electrical recording protocol
+Micro-electrode recording protocol
+Macro-electrode recording protocol
+Extracellular electrode recording protocol
+Intracellular electrode recording protocol
+Ion channel recording protocol
+Amperometric electrode  recording protocol
+Single electrode extracellular recording protocol
+Grid electrode recording protocol
+Current clamp voltage recording protocol
+Voltage clamp current recording protocol
+Single-electrode voltage clamp recording protocol
+Whole-cell voltage clamp recording protocol
+Multiple-electrode voltage clamp recording protocol
+Cell-attached single-channel recording protocol
+Cell-detached single-channel recording protocol
+Cell-detached inside-out single-channel recording protocol
+Cell-detached inside-out single-channel recording protocol
+Reconstituted bilayer single-channel patch recording protocol
+Reconstituted bilayer electrical recording protocol
+Ion-sensitive electrode  recording protocol
+pH-sensitive electrode  recording protocol
+Cuff-electrode recording protocol
+Field electrode recording protocol
+Electroencephalography recording protocol
+Electrocardiography recording protocol
+In-situ hybridization protocol
+Indentifying value
+Accession number
+Primary key
+Life Science Indenfier
+Computational model
+Nerve cell model
+Nerve cell structural model
+Nerve cell functional model
+Ionic current model
+Protein folding model
+Network interaction model
+Pathway model
+Gene regulatory network model
+Physiological model
+Structural model
+Macroscopic anatomical structure model
+Multi-cell  model
+Neural circuit model
+Body system model
+Sequence-based model
+Sequence homology model
+Hydrophobicity model
+Protein structure classification
+Signal processing software
+Signal processing algorithm
+Pipeline processing software
+Graphical pipeline construction software
+Systems interoperability software
+GRID computing software
+Portlet component
+Subject report
+Human subject report
+Literature corpus
+Lexical processing algorithm
+Natural language processing algorithm
+Part-of-speech tagging algorithm
+Bibliographic database
+Structured knowledge resource
+Controlled vocabulary
+Classification scheme
+Taxonomy
+Thesaurus
+Ontology
+Research knowledgebase
+Clinical knowledgebase
+License
+Open-source license
+GNU General Public License
+GNU Lesser General Public License
+Simulation software
+Text-mining software
+Mozilla Public License
+Apache License
+BSD License
+MIT License
+Closed-source license
+Commercial license
+Book series volume
+Personal communication
+Conference proceeding
+Discussion
+Government publication
+Standard specification
+National standard specification
+International standard specification
+mAb
+Website
+Portal
+Organization portal
+Department portal
+Laboratory portal
+Topical portal
+Disease-related portal
+Patient-support portal
+Research forum portal
+Link aggregation site
+Citation record element
+Title set
+Abstract
+Author set
+Title
+Alternative title
+Author affiliation
+Group author
+Grant number
+Grant sponsor
+Citation record
+International Standard Book Number
+International Standard Serial Number
+Serial publication element
+Volume
+Issue
+Serial number
+Start page
+End page
+Serial title
+Chemical compositional analysis instrument
+Chemical separation instrument
+Gel electrophoresis instrument
+High-pressure liquid chromotography instrument
+Liquid chromotography instrument
+Chromotography instrument
+Gravity-driven liquid chromotography instrument
+Size exclusion liquid chromotography instrument
+Ion-exchange liquid chromotography instrument
+Agarose gel electrophoresis instrument
+Polyacrylamide gel electrophoresis instrument
+Nucleic acid sequencing instrument
+Affinity chromotography instrument
+Gas chromotography instrument
+1D polyacrylamide gel electrophoresis instrument
+2D polyacrylamide gel electrophoresis instrument
+Planar liquid chromotography instrument
+Paper chromotography instrument
+Reverse-phase high-pressure liquid chromotography instrument
+Thin-layer chromotography instrument
+Mass spectrometry instrument
+Microdialysis tubing
+Nuclear magnetic resonance instrument
+Fraction collection instrument
+Calorimetry instrument
+Electrophoresis instrument
+Microcalorimetry instrument
+Constant-pressure calorimetry instrument
+Constant-volume calorimetry instrument
+Differential scanning calorimetry instrument
+Isothermal titration calorimetry instrument
+Respirometry instrument
+Chemical structural analysis instrument
+Granting agency
+Government granting agency
+United States Department of Health and Human Services granting agency
+X-Ray crystallography instrument
+Chemical quantification instrument
+Radiation detection instrument
+Scintillation detection instrument
+Liquid scintillation detection instrument
+National Institutes of Health granting agency
+A-10 cell
+Radiographic imaging protocol
+Ultrasonographic imaging protocol
+Nuclear medicine imaging protocol
+Planar imaging protocol
+Cross-sectional nuclear imaging protocol
+Client program
+Multiple electrode extracellular recording protocol
+Affective assessment
+Genetic assessment
+Socio-demographic assessment
+Mental state assessment
+Movement control assessment
+Abnormal Involuntary Movement Scale
+Anxiety Status Inventory
+Barnes Akathisia Rating Scale
+Beck Depression Inventory
+Calgary Depression Scale
+Deficit Syndrome Score Sheet
+Demographic assessment
+Edinburgh Handedness Inventory
+Education assessment
+Ethnicity assessment
+Ethnicity
+Family Interview for Genetics Studies
+Camberwell FamilyInterview
+Familial member assessment
+Paternal assessment
+Maternal assessment
+Father's education
+Father's occupation
+Mother's education
+Father's occupation
+Favorites assessment
+Gender assessment
+Hallucination assessment
+Handedness assessment
+InterSePT Scale for Suicidal Thinking
+Living arrangement assessment
+Marital status assessment
+Positive and Negative Symptom Scale
+Modified Positive and Negative Symptom Scale
+North American Adult Reading Test
+Offspring cardinality assessment
+Occupation assessment
+Developmental assessment
+Premorbid Adjustment Scale
+Quick mood scale
+Race assessment
+Scale for the Assessment of Negative Symptoms
+Structured clinical interview for DSM-IV Axis I Disorders
+Structured clinical interview for DSM-IV Axis I Disorders - non-patient
+Structured clinical interview for DSM-IV Axis I Disorders - patient
+Scale for the Assessment of Positive Symptoms
+Self-rating Anxiety Scale
+Simpson Angus Rating Scale
+Socio-Economic Status
+Cardinality value
+Number of b values
+Number of diffusion-weighted directions
+Number b=0 volumes
+Number of b NE 0 volumes
+Event-related design
+Independent Components Analysis
+General Linear Model
+Gaussian Random Field
+Region of Interest
+Statistical Parametric Mapping
+Spatial value
+Pixel
+Voxel
+Wide-field fluorescence imaging protocol
+Computer Axial Tomography imaging assay
+Neuroimaging
+Functional neuroimaging
+Serial block face scanning electron microscopic imaging assay
+Scanning electron microscopic imaging assay
+Animation software
+Data distribution software
+Data storage software
+Data transfer software
+Community building portal
+Rendering software
+Software library
+Electrical recording assay
+Micro-electrode recording assay
+Intracellular electrode recording assay
+Intrathecal
+Magnetic resonance imaging
+Diffusion magnetic resonance imaging
+Functional MRI assay
+Diffusion tensor imaging assay
+Diffusion weighted magnetic resonance imaging assay
+High angular resolution diffusion imaging
+Magnetoencephalography
+Tract tracing assay
+Tracing role
+Anterograde tracing role
+Post mortem tract tracing role
+Retrograde tracing role
+Transneuronal tracing role
+Immunolabeling role
+Neuroimaging role
+Longitudinal study design
+Long term potentiation
+Long term depression
+Filtered R-weighted back projection
+Unfiltered R-weighted back projection
+Reaction time test
+Resting state scan
+Sensory motor task scan
+B0 field map
+Instructions to subject
+Localizer scan
+Dummy visit protocol
+MRI imaging protocol attribute
+Magnitude images from a B0 field map
+Phase images from a B0 field map
+Sagittal localizer scan
+Acceleration factors
+Bandwidth
+MRI coil
+Field of view
+Field strength
+Flip angle
+Gap between slices (slice gap)
+Scanner vendor
+Gradient strength
+Image orientation
+K-space trajectory type
+Matrix
+Number of dummy acquisitionsd
+Number of Slices
+Number of time points
+Phase direction
+Read direction
+Scanner model
+Scanner operating system
+Slew rate
+Slice order
+Slice thickness
+With online motion correction
+Image description and protocol name
+Image description and standard sequence name
+3D T1 Weighted Scan
+Defaced T1 scan
+Diffusion weighted direction set name
+DTI imaging protocol attribute
+Total number of b-values / volume
+b value(s)
+Diffusion-weighted imaging protocol
+Eigenvector
+Anisotropy characteristic value
+Fractional anisotropy
+Relative anisotropy
+Eigenvalue
+Journal
+Image registration
+Rigid image registration
+Electronic laboratory notebook
+Data role
+Benchmarking dataset
+Genome-wide association study
+Electromyography surface recording protocol
+Fear conditioning paradigm
+Chromagen
+Fluorescence resonance energy transfer
+Calcium indicator dye
+Biosensor
+Histochemical protocol
+High-pressure liquid chromotography protocol
+Immunolabeling
+Immunocytochemistry
+Immunohistochemistry
+In-situ hybridization
+General Electric Medical Systems
+National Institute of Alcohol Abuse & Alcoholism
+National Institute of Aging
+National Institute of Allergy and Infectious Diseases
+National Institute of Arthritis and Musculoskeletal and Skin Diseases
+National Institute of Biomedical Imaging and Bioengineering
+National Cancer Institute
+Center for Disease Control and Prevention
+National Institutes of Health Clinical Center
+National Institute of Child Health and Human Development
+National Institute of Deafness and Other Communication Disorder
+National Institute of Dental and Cranialfacial Research
+National Institute of Diabetes and Digestive and Kidney Diseases
+Office of the Director of the National Institutes of Health
+National Institute of Drug Abuse
+National Institute of Environmental Health Sciences
+National Eye Institute
+Food and Drug Administration
+National Institute of General Medical Sciences
+Agency for Healthcare Research and Quality
+Agency for Toxic Substances and Disease Registry
+Health Resources and Services Administration
+National Heart, Lung and Blood Institute
+National Human Genome Research Institute
+John E. Fogarty International Center For Advanced Study in the Health Sciences
+National Library of Medicine
+National Institute of Mental Health
+National Center on Minority Health and Health Disparities
+National Institute of Neurological Disorders and Stroke
+National Institute of Nursing Research
+National Center for Complementary and Alternative Medicine
+Center for Scientific Review
+National Center for Research Resources
+Substance Abuse and Mental Health Services Administration
+Womens Health Initiative
+National Institutes of Health Center for Information Technology
+National Institutes of Health
+FONAR
+Hitachi Medical Systems
+Philips Medical Systems
+Siemens Medical Solutions
+Toshiba Medical Systems
+Varian
+Bruker Biospin MRI
+RP-HPLC
+IHC
+UHVEM
+i.p.
+Ab
+DCM
+US HHS Institute
+NIH Institute
+NIH agency
+AIMS
+ASI
+Barnes
+BDI
+CDSS
+SDS
+FIGS
+CFI
+InterSEPT
+PANSS
+Modified PANSS
+NAART
+PAS
+CDSS
+SANS
+SCID-I
+SCID-I-NP
+SCID-I-P
+SAPS
+SAS
+SAS
+SES
+GLM
+GRF
+ROI
+SPM
+Functional Brain Imaging
+Functional imaging
+SBFSEM
+SEM
+DTI
+HARDI
+LTP
+LTD
+NIH
+FA
+ELN
+GWAS
+FRET
+ISH
